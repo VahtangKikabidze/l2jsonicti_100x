@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id="20270" name="Dynasty Rapier">
+<for>
+<set order="0x08" stat="pAtk" val="336" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="8" />
+<set order="0x08" stat="pAtkSpd" val="379" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20261" name="Dynasty Blade">
+<for>
+<set order="0x08" stat="pAtk" val="336" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="8" />
+<set order="0x08" stat="pAtkSpd" val="379" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20265" name="Dynasty Dagger">
+<for>
+<set order="0x08" stat="pAtk" val="294" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="12" />
+<add order="0x10" stat="accCombat" val="-3" />
+<set order="0x08" stat="pAtkSpd" val="433" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20262" name="Dynasty Two Handed Sword">
+<for>
+<set order="0x08" stat="pAtk" val="409" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="8" />
+<set order="0x08" stat="pAtkSpd" val="325" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20263" name="Dynasty Magic Sword">
+<for>
+<set order="0x08" stat="pAtk" val="269" />
+<set order="0x08" stat="mAtk" val="198" />
+<set order="0x08" stat="rCrit" val="4" />
+<set order="0x08" stat="pAtkSpd" val="379" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->			
+</for>
+</item>
+<item id="20266" name="Dynasty Spear">
+<for>
+<set order="0x08" stat="pAtk" val="336" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="8" />
+<add order="0x10" stat="accCombat" val="-3" />
+<set order="0x08" stat="pAtkSpd" val="325" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20267" name="Dynasty Hammer">
+<for>
+<set order="0x08" stat="pAtk" val="336" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="4" />
+<add order="0x10" stat="accCombat" val="4" />
+<set order="0x08" stat="pAtkSpd" val="379" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20269" name="Dynasty Fist">
+<for>
+<set order="0x08" stat="pAtk" val="409" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="4" />
+<add order="0x10" stat="accCombat" val="4" />
+<set order="0x08" stat="pAtkSpd" val="325" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+<item id="20264" name="Dynasty Bow">
+<for>
+<set order="0x08" stat="pAtk" val="615" />
+<set order="0x08" stat="mAtk" val="149" />
+<set order="0x08" stat="rCrit" val="12" />
+<add order="0x10" stat="accCombat" val="-3" />
+<set order="0x08" stat="pAtkSpd" val="293" />
+<enchant val="0" order="0x0C" stat="pAtk" />
+<enchant val="0" order="0x0C" stat="mAtk" />
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+</for>
+</item>
+</list>

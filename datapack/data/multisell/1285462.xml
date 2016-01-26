@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Custom Shop -->
+
+<list>
+<!-- Damascus -->
+  <item id="1">
+    <ingredient id="22222" count="10"/>
+    <production id="10248" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="2">
+    <ingredient id="22222" count="10"/>
+    <production id="10249" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="3">
+    <ingredient id="22222" count="10"/>
+    <production id="10229" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="4">
+    <ingredient id="22222" count="4"/>
+    <production id="20138" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="5">
+    <ingredient id="22222" count="4"/>
+    <production id="20137" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="6">
+    <ingredient id="22222" count="4"/>
+    <production id="20136" count="1"/>
+  </item>
+
+</list>

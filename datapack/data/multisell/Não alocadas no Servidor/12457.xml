@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Custom Shop -->
+
+<list>
+<!-- Damascus -->
+  <item id="1">
+    <ingredient id="22222" count="20"/>
+    <production id="20031" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="2">
+    <ingredient id="22222" count="20"/>
+    <production id="20032" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="3">
+    <ingredient id="22222" count="20"/>
+    <production id="20033" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="4">
+    <ingredient id="22222" count="20"/>
+    <production id="20034" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="5">
+    <ingredient id="22222" count="20"/>
+    <production id="20035" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="6">
+    <ingredient id="22222" count="20"/>
+    <production id="20036" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="7">
+    <ingredient id="22222" count="20"/>
+    <production id="20037" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="8">
+    <ingredient id="22222" count="20"/>
+    <production id="20038" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="9">
+    <ingredient id="22222" count="20"/>
+    <production id="20039" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="10">
+    <ingredient id="22222" count="20"/>
+    <production id="20040" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="11">
+    <ingredient id="22222" count="20"/>
+    <production id="20041" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="12">
+    <ingredient id="22222" count="20"/>
+    <production id="20042" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="13">
+    <ingredient id="22222" count="20"/>
+    <production id="20043" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="14">
+    <ingredient id="22222" count="20"/>
+    <production id="20044" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="15">
+    <ingredient id="22222" count="20"/>
+    <production id="20045" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="16">
+    <ingredient id="22222" count="20"/>
+    <production id="20046" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="17">
+    <ingredient id="22222" count="20"/>
+    <production id="20047" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="18">
+    <ingredient id="22222" count="20"/>
+    <production id="20048" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="19">
+    <ingredient id="22222" count="20"/>
+    <production id="20049" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="20">
+    <ingredient id="22222" count="20"/>
+    <production id="20050" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="21">
+    <ingredient id="22222" count="20"/>
+    <production id="20051" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="22">
+    <ingredient id="22222" count="20"/>
+    <production id="20052" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="23">
+    <ingredient id="22222" count="20"/>
+    <production id="20053" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="24">
+    <ingredient id="22222" count="20"/>
+    <production id="20054" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="25">
+    <ingredient id="22222" count="20"/>
+    <production id="20055" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="26">
+    <ingredient id="22222" count="20"/>
+    <production id="20056" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="27">
+    <ingredient id="22222" count="20"/>
+    <production id="20057" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="28">
+    <ingredient id="22222" count="20"/>
+    <production id="20058" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="29">
+    <ingredient id="22222" count="20"/>
+    <production id="20059" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="30">
+    <ingredient id="22222" count="20"/>
+    <production id="20060" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="31">
+    <ingredient id="22222" count="20"/>
+    <production id="20061" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="32">
+    <ingredient id="22222" count="20"/>
+    <production id="20062" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="33">
+    <ingredient id="22222" count="20"/>
+    <production id="20063" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="34">
+    <ingredient id="22222" count="20"/>
+    <production id="20064" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="35">
+    <ingredient id="22222" count="20"/>
+    <production id="20065" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="36">
+    <ingredient id="22222" count="20"/>
+    <production id="20066" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="37">
+    <ingredient id="22222" count="20"/>
+    <production id="20067" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="38">
+    <ingredient id="22222" count="20"/>
+    <production id="20068" count="1"/>
+  </item>
+
+</list>

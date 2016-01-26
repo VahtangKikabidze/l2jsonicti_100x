@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Hades Dagger -->
+  <item id="1">
+    <ingredient id="3886" count="1"/>
+    <ingredient id="3884" count="1"/>
+    <ingredient id="3883" count="1"/>
+    <ingredient id="3881" count="1"/>
+    <ingredient id="3876" count="1"/>
+    <ingredient id="3887" count="1"/>
+    <ingredient id="3881" count="1"/>
+    <production id="7836" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="2">
+    <ingredient id="3882" count="1"/>
+    <ingredient id="3881" count="1"/>
+    <ingredient id="3883" count="1"/>
+    <ingredient id="3877" count="1"/>
+    <ingredient id="3875" count="1"/>
+    <ingredient id="3879" count="1"/>
+    <ingredient id="3877" count="1"/>
+    <ingredient id="3888" count="1"/>
+    <production id="7836" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="3">
+    <ingredient id="3882" count="1"/>
+    <ingredient id="3888" count="1"/>
+    <production id="5592" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="4">
+    <ingredient id="3882" count="1"/>
+    <ingredient id="3888" count="1"/>
+    <production id="5965" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="5">
+    <ingredient id="3886" count="150"/>
+    <ingredient id="3884" count="150"/>
+    <ingredient id="3883" count="150"/>
+    <ingredient id="3881" count="150"/>
+    <ingredient id="3876" count="150"/>
+    <ingredient id="3887" count="150"/>
+    <ingredient id="3881" count="150"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="6">
+    <ingredient id="3875" count="100"/>
+    <ingredient id="3881" count="100"/>
+    <ingredient id="3884" count="100"/>
+    <production id="5555" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="7">
+    <ingredient id="3883" count="1"/>
+    <ingredient id="3875" count="1"/>
+    <ingredient id="3887" count="1"/>
+    <ingredient id="3875" count="1"/>
+    <ingredient id="3882" count="1"/>
+    <production id="5592" count="5"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="8">
+    <ingredient id="3883" count="1"/>
+    <ingredient id="3875" count="1"/>
+    <ingredient id="3887" count="1"/>
+    <ingredient id="3875" count="1"/>
+    <ingredient id="3882" count="1"/>
+    <production id="5965" count="5"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="9">
+    <ingredient id="3883" count="150"/>
+    <ingredient id="3875" count="150"/>
+    <ingredient id="3887" count="150"/>
+    <ingredient id="3875" count="150"/>
+    <ingredient id="3882" count="150"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="10">
+    <ingredient id="3876" count="180"/>
+    <ingredient id="3882" count="180"/>
+    <ingredient id="3875" count="180"/>
+    <ingredient id="3883" count="180"/>
+    <production id="15012" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="11">
+    <ingredient id="3886" count="400"/>
+    <ingredient id="3884" count="400"/>
+    <ingredient id="3883" count="400"/>
+    <ingredient id="3881" count="400"/>
+    <ingredient id="3876" count="400"/>
+    <ingredient id="3887" count="400"/>
+    <ingredient id="3881" count="400"/>
+    <production id="6572" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="12">
+    <ingredient id="3886" count="750"/>
+    <ingredient id="3884" count="750"/>
+    <ingredient id="3883" count="750"/>
+    <ingredient id="3881" count="750"/>
+    <ingredient id="3876" count="750"/>
+    <ingredient id="3887" count="750"/>
+    <ingredient id="3881" count="750"/>
+    <production id="6569" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="13">
+    <ingredient id="3886" count="750"/>
+    <ingredient id="3884" count="750"/>
+    <ingredient id="3883" count="750"/>
+    <ingredient id="3881" count="750"/>
+    <ingredient id="3876" count="750"/>
+    <ingredient id="3887" count="750"/>
+    <ingredient id="3881" count="750"/>
+    <production id="6570" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="14">
+    <ingredient id="3886" count="1000"/>
+    <ingredient id="3884" count="1000"/>
+    <ingredient id="3883" count="1000"/>
+    <ingredient id="3881" count="1000"/>
+    <ingredient id="3876" count="1000"/>
+    <ingredient id="3887" count="1000"/>
+    <ingredient id="3881" count="1000"/>
+    <production id="6577" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="15">
+    <ingredient id="3886" count="1000"/>
+    <ingredient id="3884" count="1000"/>
+    <ingredient id="3883" count="1000"/>
+    <ingredient id="3881" count="1000"/>
+    <ingredient id="3876" count="1000"/>
+    <ingredient id="3887" count="1000"/>
+    <ingredient id="3881" count="1000"/>
+    <production id="6578" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="16">
+    <ingredient id="3882" count="400"/>
+    <ingredient id="3881" count="400"/>
+    <ingredient id="3883" count="400"/>
+    <ingredient id="3877" count="400"/>
+    <ingredient id="3875" count="400"/>
+    <ingredient id="3879" count="400"/>
+    <ingredient id="3877" count="400"/>
+    <ingredient id="3888" count="400"/>
+    <production id="6572" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="17">
+    <ingredient id="3882" count="750"/>
+    <ingredient id="3881" count="750"/>
+    <ingredient id="3883" count="750"/>
+    <ingredient id="3877" count="750"/>
+    <ingredient id="3875" count="750"/>
+    <ingredient id="3879" count="750"/>
+    <ingredient id="3877" count="750"/>
+    <ingredient id="3888" count="750"/>
+    <production id="6569" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="18">
+    <ingredient id="3882" count="750"/>
+    <ingredient id="3881" count="750"/>
+    <ingredient id="3883" count="750"/>
+    <ingredient id="3877" count="750"/>
+    <ingredient id="3875" count="750"/>
+    <ingredient id="3879" count="750"/>
+    <ingredient id="3877" count="750"/>
+    <ingredient id="3888" count="750"/>
+    <production id="6570" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="19">
+    <ingredient id="3882" count="1000"/>
+    <ingredient id="3881" count="1000"/>
+    <ingredient id="3883" count="1000"/>
+    <ingredient id="3877" count="1000"/>
+    <ingredient id="3875" count="1000"/>
+    <ingredient id="3879" count="1000"/>
+    <ingredient id="3877" count="1000"/>
+    <ingredient id="3888" count="1000"/>
+    <production id="6577" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="20">
+    <ingredient id="3882" count="1000"/>
+    <ingredient id="3881" count="1000"/>
+    <ingredient id="3883" count="1000"/>
+    <ingredient id="3877" count="1000"/>
+    <ingredient id="3875" count="1000"/>
+    <ingredient id="3879" count="1000"/>
+    <ingredient id="3877" count="1000"/>
+    <ingredient id="3888" count="1000"/>
+    <production id="6578" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="21">
+    <ingredient id="3886" count="2300"/>
+    <ingredient id="3884" count="2300"/>
+    <ingredient id="3883" count="2300"/>
+    <ingredient id="3881" count="2300"/>
+    <ingredient id="3876" count="2300"/>
+    <ingredient id="3887" count="2300"/>
+    <ingredient id="3881" count="2300"/>
+    <production id="3470" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="22">
+    <ingredient id="3882" count="2300"/>
+    <ingredient id="3881" count="2300"/>
+    <ingredient id="3883" count="2300"/>
+    <ingredient id="3877" count="2300"/>
+    <ingredient id="3875" count="2300"/>
+    <ingredient id="3879" count="2300"/>
+    <ingredient id="3877" count="2300"/>
+    <ingredient id="3888" count="2300"/>
+    <production id="3470" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->=========================
+  <item id="23">
+    <ingredient id="3886" count="4200"/>
+    <ingredient id="3884" count="4200"/>
+    <ingredient id="3883" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <ingredient id="3876" count="4200"/>
+    <ingredient id="3887" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <production id="8191" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->=========================
+  <item id="24">
+    <ingredient id="3886" count="4200"/>
+    <ingredient id="3884" count="4200"/>
+    <ingredient id="3883" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <ingredient id="3876" count="4200"/>
+    <ingredient id="3887" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <production id="6661" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->=========================
+  <item id="25">
+    <ingredient id="3886" count="4200"/>
+    <ingredient id="3884" count="4200"/>
+    <ingredient id="3883" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <ingredient id="3876" count="4200"/>
+    <ingredient id="3887" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <production id="6662" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->========
+  <item id="26">
+    <ingredient id="3882" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <ingredient id="3883" count="4200"/>
+    <ingredient id="3877" count="4200"/>
+    <ingredient id="3875" count="4200"/>
+    <ingredient id="3879" count="4200"/>
+    <ingredient id="3877" count="4200"/>
+    <ingredient id="3888" count="4200"/>
+    <production id="8191" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->========
+  <item id="27">
+    <ingredient id="3882" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <ingredient id="3883" count="4200"/>
+    <ingredient id="3877" count="4200"/>
+    <ingredient id="3875" count="4200"/>
+    <ingredient id="3879" count="4200"/>
+    <ingredient id="3877" count="4200"/>
+    <ingredient id="3888" count="4200"/>
+    <production id="6661" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->========
+  <item id="28">
+    <ingredient id="3882" count="4200"/>
+    <ingredient id="3881" count="4200"/>
+    <ingredient id="3883" count="4200"/>
+    <ingredient id="3877" count="4200"/>
+    <ingredient id="3875" count="4200"/>
+    <ingredient id="3879" count="4200"/>
+    <ingredient id="3877" count="4200"/>
+    <ingredient id="3888" count="4200"/>
+    <production id="6662" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="29">
+    <ingredient id="3882" count="1"/>
+    <ingredient id="3888" count="1"/>
+    <production id="6403" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="30">
+    <ingredient id="3882" count="1"/>
+    <ingredient id="3888" count="1"/>
+    <production id="6406" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="31">
+    <ingredient id="3882" count="1"/>
+    <ingredient id="3888" count="1"/>
+    <production id="6407" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="32">
+    <ingredient id="3886" count="3200"/>
+    <ingredient id="3884" count="3200"/>
+    <ingredient id="3883" count="3200"/>
+    <ingredient id="3881" count="3200"/>
+    <ingredient id="3876" count="3200"/>
+    <ingredient id="3887" count="3200"/>
+    <ingredient id="3881" count="3200"/>
+    <production id="4330" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="33">
+    <ingredient id="3882" count="3200"/>
+    <ingredient id="3881" count="3200"/>
+    <ingredient id="3883" count="3200"/>
+    <ingredient id="3877" count="3200"/>
+    <ingredient id="3875" count="3200"/>
+    <ingredient id="3879" count="3200"/>
+    <ingredient id="3877" count="3200"/>
+    <ingredient id="3888" count="3200"/>
+    <production id="4330" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="34">
+    <ingredient id="3886" count="250"/>
+    <ingredient id="3884" count="250"/>
+    <ingredient id="3883" count="250"/>
+    <ingredient id="3881" count="250"/>
+    <ingredient id="3876" count="250"/>
+    <ingredient id="3887" count="250"/>
+    <ingredient id="3881" count="250"/>
+    <production id="6408" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="35">
+    <ingredient id="3882" count="250"/>
+    <ingredient id="3881" count="250"/>
+    <ingredient id="3883" count="250"/>
+    <ingredient id="3877" count="250"/>
+    <ingredient id="3875" count="250"/>
+    <ingredient id="3879" count="250"/>
+    <ingredient id="3877" count="250"/>
+    <ingredient id="3888" count="250"/>
+    <production id="6408" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="36">
+    <ingredient id="3886" count="550"/>
+    <ingredient id="3884" count="550"/>
+    <ingredient id="3883" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <ingredient id="3876" count="550"/>
+    <ingredient id="3887" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <production id="9764" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="37">
+    <ingredient id="3886" count="550"/>
+    <ingredient id="3884" count="550"/>
+    <ingredient id="3883" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <ingredient id="3876" count="550"/>
+    <ingredient id="3887" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <production id="9765" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="38">
+    <ingredient id="3886" count="550"/>
+    <ingredient id="3884" count="550"/>
+    <ingredient id="3883" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <ingredient id="3876" count="550"/>
+    <ingredient id="3887" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <production id="9766" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="39">
+    <ingredient id="3882" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <ingredient id="3883" count="550"/>
+    <ingredient id="3877" count="550"/>
+    <ingredient id="3875" count="550"/>
+    <ingredient id="3879" count="550"/>
+    <ingredient id="3877" count="550"/>
+    <ingredient id="3888" count="550"/>
+    <production id="9764" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="40">
+    <ingredient id="3882" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <ingredient id="3883" count="550"/>
+    <ingredient id="3877" count="550"/>
+    <ingredient id="3875" count="550"/>
+    <ingredient id="3879" count="550"/>
+    <ingredient id="3877" count="550"/>
+    <ingredient id="3888" count="550"/>
+    <production id="9765" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="41">
+    <ingredient id="3882" count="550"/>
+    <ingredient id="3881" count="550"/>
+    <ingredient id="3883" count="550"/>
+    <ingredient id="3877" count="550"/>
+    <ingredient id="3875" count="550"/>
+    <ingredient id="3879" count="550"/>
+    <ingredient id="3877" count="550"/>
+    <ingredient id="3888" count="550"/>
+    <production id="9766" count="1"/>
+  </item>
+
+</list>

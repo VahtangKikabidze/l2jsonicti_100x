@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Hades Dagger -->
+  <item id="17">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20176" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="18">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20177" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="19">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20178" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="20">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20179" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="21">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20180" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="22">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20181" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="23">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20182" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="24">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20183" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="25">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20184" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="26">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20185" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="27">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20186" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="28">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20187" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="29">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20188" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="30">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20189" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="31">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20190" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="32">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="3"/>
+    <production id="20273" count="1"/>
+  </item>
+
+  <!-- Gold Bar -->
+  <item id="33">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20237" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="34">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20225" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="35">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20226" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="36">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20227" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="37">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20228" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="38">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20238" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="39">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20229" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="40">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20230" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="41">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20231" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="42">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20232" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="43">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20239" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="44">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20233" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="45">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20234" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="46">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20235" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="47">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="10"/>
+    <production id="20236" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="48">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="3"/>
+    <production id="20273" count="1"/>
+  </item>
+
+</list>

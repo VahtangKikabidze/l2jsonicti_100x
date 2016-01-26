@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Devil Spear -->
+  <item id="1">
+    <ingredient id="57" count="1"/>
+    <production id="10110" count="1"/>
+  </item>
+
+  <!-- Medusa Blade -->
+  <item id="2">
+    <ingredient id="57" count="1"/>
+    <production id="10111" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="3">
+    <ingredient id="57" count="1"/>
+    <production id="10112" count="1"/>
+  </item>
+
+  <!-- Thor Hammer -->
+  <item id="4">
+    <ingredient id="57" count="1"/>
+    <production id="10113" count="1"/>
+  </item>
+
+  <!-- Odin Cleaver -->
+  <item id="5">
+    <ingredient id="57" count="1"/>
+    <production id="10114" count="1"/>
+  </item>
+
+  <!-- Artemis Bow -->
+  <item id="6">
+    <ingredient id="57" count="1"/>
+    <production id="10115" count="1"/>
+  </item>
+
+  <!-- Zeus Mace -->
+  <item id="7">
+    <ingredient id="57" count="1"/>
+    <production id="10116" count="1"/>
+  </item>
+
+  <!-- Ares Fist  -->
+  <item id="8">
+    <ingredient id="57" count="1"/>
+    <production id="10117" count="1"/>
+  </item>
+
+  <!-- Aphrodite Staff -->
+  <item id="9">
+    <ingredient id="57" count="1"/>
+    <production id="10119" count="1"/>
+  </item>
+
+  <!-- Dual Medusa Blade -->
+  <item id="10">
+    <ingredient id="57" count="1"/>
+    <production id="10118" count="1"/>
+  </item>
+
+  <!-- Dynasty Rapier  -->
+  <item id="11">
+    <ingredient id="57" count="1"/>
+    <production id="10120" count="1"/>
+  </item>
+
+  <!-- Dynasty Ancient Sword -->
+  <item id="12">
+    <ingredient id="57" count="1"/>
+    <production id="10120" count="1"/>
+  </item>
+
+  <!-- Dynasty Blade -->
+  <item id="13">
+    <ingredient id="57" count="1"/>
+    <production id="10122" count="1"/>
+  </item>
+
+  <!-- Dynasty Two Handed Sword -->
+  <item id="14">
+    <ingredient id="57" count="1"/>
+    <production id="10123" count="1"/>
+  </item>
+
+  <!-- Dynasty Magic Sword -->
+  <item id="15">
+    <ingredient id="57" count="1"/>
+    <production id="10124" count="1"/>
+  </item>
+
+  <!-- Dynasty Dagger -->
+  <item id="17">
+    <ingredient id="57" count="1"/>
+    <production id="10125" count="1"/>
+  </item>
+
+  <!-- Dynasty Spear -->
+  <item id="18">
+    <ingredient id="57" count="1"/>
+    <production id="10126" count="1"/>
+  </item>
+
+  <!-- Dynasty Hammer -->
+  <item id="19">
+    <ingredient id="57" count="1"/>
+    <production id="10127" count="1"/>
+  </item>
+
+  <!-- Dynasty Staff -->
+  <item id="20">
+    <ingredient id="57" count="1"/>
+    <production id="10128" count="1"/>
+  </item>
+
+  <!-- Dynasty Fist -->
+  <item id="21">
+    <ingredient id="57" count="1"/>
+    <production id="10129" count="1"/>
+  </item>
+
+  <!-- Dynasty Dual Rapier -->
+  <item id="22">
+    <ingredient id="57" count="1"/>
+    <production id="10130" count="1"/>
+  </item>
+
+  <!-- Icarus Blade -->
+  <item id="23">
+    <ingredient id="57" count="1"/>
+    <production id="10131" count="1"/>
+  </item>
+
+  <!-- Icarus Disperser -->
+  <item id="24">
+    <ingredient id="57" count="1"/>
+    <production id="10100" count="1"/>
+  </item>
+
+  <!-- Icarus Spirit -->
+  <item id="25">
+    <ingredient id="57" count="1"/>
+    <production id="10101" count="1"/>
+  </item>
+
+  <!-- Icarus Heavy Arms -->
+  <item id="26">
+    <ingredient id="57" count="1"/>
+    <production id="10102" count="1"/>
+  </item>
+
+  <!-- Icarus Trident -->
+  <item id="27">
+    <ingredient id="57" count="1"/>
+    <production id="10103" count="1"/>
+  </item>
+
+  <!-- Icarus Hammer -->
+  <item id="28">
+    <ingredient id="57" count="1"/>
+    <production id="10104" count="1"/>
+  </item>
+
+  <!-- Icarus Hand -->
+  <item id="29">
+    <ingredient id="57" count="1"/>
+    <production id="10105" count="1"/>
+  </item>
+
+  <!-- Icarus Spitter -->
+  <item id="31">
+    <ingredient id="57" count="1"/>
+    <production id="10106" count="1"/>
+  </item>
+
+  <!-- Icarus Dual Sword -->
+  <item id="32">
+    <ingredient id="57" count="1"/>
+    <production id="10107" count="1"/>
+  </item>
+
+  <!-- Icarus Hammer -->
+  <item id="33">
+    <ingredient id="57" count="1"/>
+    <production id="10108" count="1"/>
+  </item>
+
+  <!-- Icarus Hand -->
+  <item id="34">
+    <ingredient id="57" count="1"/>
+    <production id="10109" count="1"/>
+  </item>
+
+</list>

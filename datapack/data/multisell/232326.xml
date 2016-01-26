@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Tvt Event Rewards -->
+
+<list>
+
+  <!-- Red Pipette Knife -->
+  <item id="1">
+    <ingredient id="9817" count="1"/>
+    <production id="9817" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="2">
+    <ingredient id="9818" count="1"/>
+    <production id="9818" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="3">
+    <ingredient id="9819" count="1"/>
+    <production id="9819" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="4">
+    <ingredient id="9820" count="1"/>
+    <production id="9820" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="5">
+    <ingredient id="9821" count="1"/>
+    <production id="9821" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="6">
+    <ingredient id="9822" count="1"/>
+    <production id="9822" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="7">
+    <ingredient id="9823" count="1"/>
+    <production id="9823" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="8">
+    <ingredient id="9824" count="1"/>
+    <production id="9824" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="9">
+    <ingredient id="9825" count="1"/>
+    <production id="9825" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="10">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="11">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="12">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="13">
+    <ingredient id="10558" count="1"/>
+    <production id="10558" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="14">
+    <ingredient id="10559" count="1"/>
+    <production id="10559" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="15">
+    <ingredient id="10560" count="1"/>
+    <production id="10560" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="16">
+    <ingredient id="10561" count="1"/>
+    <production id="10561" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="17">
+    <ingredient id="10562" count="1"/>
+    <production id="10562" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="18">
+    <ingredient id="10563" count="1"/>
+    <production id="10563" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="19">
+    <ingredient id="10564" count="1"/>
+    <production id="10564" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="20">
+    <ingredient id="10565" count="1"/>
+    <production id="10565" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="21">
+    <ingredient id="10566" count="1"/>
+    <production id="10566" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="22">
+    <ingredient id="10567" count="1"/>
+    <production id="10567" count="1"/>
+  </item>
+
+  <!-- Red Pipe##############################tte Knife -->
+  <item id="23">
+    <ingredient id="10568" count="1"/>
+    <production id="10568" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="24">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+  <!-- Red Pip##############################ette Knife -->
+  <item id="25">
+    <ingredient id="9826" count="1"/>
+    <production id="9826" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="26">
+    <ingredient id="9827" count="1"/>
+    <production id="9827" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="27">
+    <ingredient id="9828" count="1"/>
+    <production id="9828" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="28">
+    <ingredient id="9829" count="1"/>
+    <production id="9829" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="29">
+    <ingredient id="9830" count="1"/>
+    <production id="9830" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="30">
+    <ingredient id="9831" count="1"/>
+    <production id="9831" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="31">
+    <ingredient id="9832" count="1"/>
+    <production id="9832" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="32">
+    <ingredient id="9833" count="1"/>
+    <production id="9833" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="33">
+    <ingredient id="9834" count="1"/>
+    <production id="9834" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="34">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="35">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="36">
+    <ingredient id="20141" count="1"/>
+    <production id="20141" count="1"/>
+  </item>
+
+</list>

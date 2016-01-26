@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id='20148' name="Ixion Breastplate">
+  <for>
+    <add val='210' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/> 
+  </for>
+</item>
+
+<item id='20149' name="Ixion Gaiters">
+  <for>
+    <add val='143' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20150' name="Ixion Gauntlet">
+  <for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20151' name="Ixion Solleret">
+  <for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20152' name="Ixion Brigandine">
+  <for>
+	<add val='159' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20153' name="Ixion Leather Leggings">
+  <for>
+    <add val='110' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20154' name="Ixion Leather Gloves">
+  <for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20155' name="Ixion Leather Boots">
+  <for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20156' name="Ixion Tunic">
+  <for>
+    <add val='110' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20157' name="Ixion Stockings">
+  <for>
+    <add val='76' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20158' name="Ixion Mittens">
+  <for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20159' name="Ixion Slippers">
+  <for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20160' name="Ixion Helm">
+  <for>
+    <add val='93' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20161' name="Ixion Circlet">
+  <for>
+    <add val='93' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='20162' name="Ixion Cap">
+  <for>
+    <add val='93' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+</list>

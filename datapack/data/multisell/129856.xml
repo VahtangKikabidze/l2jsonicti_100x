@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Gold Bar -->
+  <item id="1">
+    <ingredient id="6651" count="5"/>
+    <production id="1540" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="2">
+    <ingredient id="4037" count="1"/>
+    <ingredient id="6651" count="40"/>
+    <production id="20143" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="3">
+    <ingredient id="20143" count="1"/>
+    <ingredient id="6651" count="60"/>
+    <production id="20144" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="4">
+    <ingredient id="6651" count="10"/>
+    <production id="5591" count="20"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="5">
+    <ingredient id="6651" count="20"/>
+    <production id="5592" count="30"/>
+  </item>
+
+</list>

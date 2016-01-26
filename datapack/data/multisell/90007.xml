@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Custom Shop -->
+
+<list>
+<!-- Damascus -->
+  <item id="1">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4717" count="1"/>
+  </item>
+
+<!-- Valhalla -->
+  <item id="2">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="7722" count="1"/>
+  </item>
+
+<!-- Great Sword -->
+  <item id="3">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4725" count="1"/>
+  </item>
+
+<!-- Samurai Dual -->
+  <item id="4">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="2626" count="1"/>
+  </item>
+
+<!-- Kris -->
+  <item id="5">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4778" count="1"/>
+  </item>
+
+<!-- Bow of Peril -->
+  <item id="6">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4828" count="1"/>
+  </item>
+
+<!-- Bellion Cestus -->
+  <item id="7">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4806" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="8">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4859" count="1"/>
+  </item>
+
+<!-- Art of Battle Axe -->
+  <item id="9">
+    <ingredient id="6392" count="180"/>
+    <ingredient id="6393" count="175"/>
+    <ingredient id="15003" count="75"/>
+    <production id="4755" count="1"/>
+  </item>
+
+</list>

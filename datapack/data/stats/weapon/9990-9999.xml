@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9990' name="Devil Spear">
+<for>
+<set val='334' order='0x08' stat='pAtk'/>
+<set val='152' order='0x08' stat='mAtk'/>
+<set val='8' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Focus -->
+<add val='88' order='0x40' stat='rCrit'/>
+</for>
+</item>
+<item id='9991' name="Medusa Blade">
+<for>
+<set val='325' order='0x08' stat='pAtk'/>
+<set val='142' order='0x08' stat='mAtk'/>
+<set val='8' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Haste -->
+<mul val='1.07' order='0x40' stat='pAtkSpd'/>
+</for>
+</item>
+<item id='9992' name="Hades Dagger">
+<for>
+<set val='271' order='0x08' stat='pAtk'/>
+<set val='148' order='0x08' stat='mAtk'/>
+<set val='12' order='0x08' stat='rCrit'/>
+<set val="433" order="0x08" stat="pAtkSpd"/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Critical Damage -->
+<add val='1' order='0x40' stat='cAtk'/>
+</for>
+</item>
+<item id='9993' name="Thor Hammer">
+<for>
+<set val='316' order='0x08' stat='pAtk'/>
+<set val='149' order='0x08' stat='mAtk'/>
+<set val='4' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Critical Stun -->
+<skill onCrit='1' id='3070' lvl='1' chance='25'/>
+</for>
+</item>
+<item id='9994' name="Odin Cleaver">
+<for>
+<set val='381' order='0x08' stat='pAtk'/>
+<set val='151' order='0x08' stat='mAtk'/>
+<set val='8' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+<!-- SA: Haste -->
+<mul val="1.07" order="0x30" stat="pAtkSpd"/>		
+</for>
+</item>
+<item id='9995' name="Artemis Bow">
+<for>
+<set val='624' order='0x08' stat='pAtk'/>
+<set val='147' order='0x08' stat='mAtk'/>
+<set val='12' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<set val="293" order="0x08" stat="pAtkSpd"/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Focus --><add val="87" order="0x40" stat="rCrit"/>
+</for>
+</item>
+<item id='9996' name="Zeus Mace">
+<for>
+<set val='285' order='0x08' stat='pAtk'/>
+<set val='185' order='0x08' stat='mAtk'/>
+<set val='4' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<enchant val='0' order='0x0C' stat='pAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<!-- Special Ability: Acumen -->
+<mul order="0x30" stat="mAtkSpd" val="1.20" />
+<mul order="0x30" stat="pvpPhysDmg" val="1.01" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.01" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.01" />	
+<!-- SA: Critical Bleed -->
+<skill onCrit='1' id='96' lvl='6' chance='42'/>
+</for>
+</item>
+<item id='9997' name="Ares Fists">
+<for>
+<set val='374' order='0x08' stat='pAtk'/>
+<set val='152' order='0x08' stat='mAtk'/>
+<set val='4' order='0x08' stat='rCrit'/>
+<add val='0' order='0x10' stat='accCombat'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Guidance -->
+<add val='4' order='0x40' stat='accCombat'/>
+</for>
+</item>
+<item id='9998' name="Aphrodite Staff">
+  <for>
+<set val="284" order="0x08" stat="pAtk"/>
+<set val="202" order="0x08" stat="mAtk"/>
+<set val="4" order="0x08" stat="rCrit"/>
+<add val="4" order="0x10" stat="accCombat"/>
+<enchant val="0" order="0x0C" stat="pAtk"/>
+<enchant val="0" order="0x0C" stat="mAtk"/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+</for>
+</item>
+<item id='9999' name="Dual Medusa Blade">
+<for>
+<set val='382' order='0x08' stat='pAtk'/>
+<set val='159' order='0x08' stat='mAtk'/>
+<set val='8' order='0x08' stat='rCrit'/>
+<enchant val='5' order='0x0C' stat='pAtk'/>
+<enchant val='4' order='0x0C' stat='mAtk'/>
+<add order="0x40" stat="maxCp" val="500"/> <!-- Maximum CP +500 -->
+<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />		
+<!-- SA: Critical Damage -->
+<add val='1' order='0x40' stat='cAtk'/>
+</for>
+</item>
+</list>

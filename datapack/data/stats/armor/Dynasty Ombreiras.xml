@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='20321' name="Dynasty BreastPlate">
+<for>
+    <add val='253' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>  
+  </for>
+</item>
+<item id='20322' name="Dynasty Leather Armor">
+<for>
+	<add val='269' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='20323' name="Dynasty Tunic">
+<for>
+    <add val='180' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+</list>

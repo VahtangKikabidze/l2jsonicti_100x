@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Old Coin -->
+  <item id="1">
+    <ingredient id="22223" count="1"/>
+    <production id="22222" count="1"/>
+  </item>
+
+</list>

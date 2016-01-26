@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Gold Bar --> Retirar PRIMEIRA LINHA para Disponibilizar
+  <item id="1">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20163" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="2">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20164" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="3">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20165" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="4">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20166" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="5">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20167" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="6">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20168" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="7">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20169" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="8">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20170" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="9">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20171" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="10">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20172" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="11">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20173" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="12">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20174" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="13">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="15"/>
+    <production id="20175" count="1"/>
+  </item>
+
+</list>

@@ -1,0 +1,2 @@
+INSERT INTO `clan_data` VALUES (268479854, 'Teste', 8, 0, 0, 0, NULL, 268479841, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `clan_data` VALUES (268483394, 'SonicxLAN', 8, 1000, 0, 0, NULL, 268481645, 268483411, 0, 0, 0, 0, 0, 0, 0);

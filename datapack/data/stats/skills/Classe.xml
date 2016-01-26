@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<skill id="41000" levels="1" name="Titan">
+<set name="target" val="TARGET_SELF"/>
+<set name="skillType" val="BUFF"/>
+<set name="operateType" val="OP_PASSIVE"/>
+<set name="castRange" val="-1"/>
+<set name="effectRange" val="-1"/>
+<for>
+<mul order="0x30" stat="pAtk" val="1.2"/>
+</for>
+</skill>
+<skill id="41001" levels="1" name="Grand Khauatari">
+<set name="target" val="TARGET_SELF"/>
+<set name="skillType" val="BUFF"/>
+<set name="operateType" val="OP_PASSIVE"/>
+<set name="castRange" val="-1"/>
+<set name="effectRange" val="-1"/>
+<for>
+<mul order="0x30" stat="pAtk" val="1.2"/>
+</for>
+</skill>
+</list>

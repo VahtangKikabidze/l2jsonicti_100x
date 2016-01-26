@@ -1,0 +1,16 @@
+# evento caixinha premiada
+19010;959,1,9;729,1,9;6900,1,9;7581,1,9;6888,1,9;6694,1,9;6695,1,9;6696,1,9;6697,1,9;7579,1,9;57,330000,10
+
+
+
+lembrando 
+
+19010 e o id da caixinha 
+959 id do produto nesse caso 959= enchant S
+1 e a quantidade q pode cair na bolsa 
+9 e a chance . 
+
+apos cada item por da seguinte forma e sequencia   ; , , ; ,, ; 
+
+exemplo: caixa;produto,qntidade,chance .. 
+19010;959,1,9 

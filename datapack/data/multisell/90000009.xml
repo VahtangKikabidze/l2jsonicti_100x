@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Tattoo of the Magic Power lv1 -->
+  <item id="8">
+    <ingredient id="6392" count="100"/>
+    <production id="28007" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Rabbit lv1 -->
+  <item id="9">
+    <ingredient id="6392" count="100"/>
+    <production id="28008" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Monk lv1 -->
+  <item id="10">
+    <ingredient id="6392" count="100"/>
+    <production id="28009" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Assassin lv1 -->
+  <item id="11">
+    <ingredient id="6392" count="100"/>
+    <production id="28010" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Giant lv1 -->
+  <item id="12">
+    <ingredient id="6392" count="100"/>
+    <production id="28011" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Scholar lv1 -->
+  <item id="13">
+    <ingredient id="6392" count="100"/>
+    <production id="28012" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Troll lv1 -->
+  <item id="14">
+    <ingredient id="6392" count="100"/>
+    <production id="28013" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Nymph lv1 -->
+  <item id="15">
+    <ingredient id="6392" count="100"/>
+    <production id="28014" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Sniper lv1 -->
+  <item id="16">
+    <ingredient id="6392" count="100"/>
+    <production id="28015" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Ghost lv1 -->
+  <item id="17">
+    <ingredient id="6392" count="100"/>
+    <production id="28016" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Witch lv1 -->
+  <item id="18">
+    <ingredient id="6392" count="100"/>
+    <production id="28017" count="1"/>
+  </item>
+
+</list>

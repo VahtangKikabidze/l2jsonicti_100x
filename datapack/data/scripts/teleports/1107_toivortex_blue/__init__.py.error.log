@@ -1,0 +1,6 @@
+Error on: F:\### Servidor + Cliente SonicTi ###\Servidor SonicTi\gameserver\data\scripts\teleports\1107_toivortex_blue\__init__.py.error.log
+Line: -1 - Column: -1
+
+Traceback (innermost last):
+  (no code object) at line 0
+SyntaxError: ('invalid syntax', ('__init__.py', 24, 13, '            if player.getPkKills() <= Pk_remove :'))

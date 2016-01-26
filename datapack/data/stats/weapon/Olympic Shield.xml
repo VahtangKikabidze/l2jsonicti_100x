@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='20273' name="Shield Beserker">
+  <for>
+    <sub val='10' order='0x10' stat='rEvas'/>
+    <set val='258' order='0x08' stat='sDef'/>
+    <set val='28' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+</list>

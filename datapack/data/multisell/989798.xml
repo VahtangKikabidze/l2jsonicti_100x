@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- D-Grade Weapons -->
+
+<list>
+
+  <!-- Soulshot: No grade -->
+  <item id="1">
+    <ingredient id="1709" count="12"/>
+    <ingredient id="2132" count="40"/>
+    <ingredient id="5589" count="80"/>
+    <ingredient id="15004" count="28"/>
+    <ingredient id="15003" count="650"/>
+    <ingredient id="57" count="15800000"/>
+    <production id="20316" count="1"/>
+  </item>
+
+  <!-- Soulshot: D-Grade -->
+  <item id="2">
+    <ingredient id="1709" count="24"/>
+    <ingredient id="2132" count="26"/>
+    <ingredient id="5589" count="120"/>
+    <ingredient id="15004" count="34"/>
+    <ingredient id="15003" count="850"/>
+    <ingredient id="57" count="24800000"/>
+    <production id="20317" count="1"/>
+  </item>
+
+</list>

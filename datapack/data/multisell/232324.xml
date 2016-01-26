@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- VoteSystem - Weapons -->
+
+<list>
+
+  <!-- Gold Bar -->
+  <item id="1">
+    <ingredient id="30000" count="1"/>
+    <ingredient id="20140" count="15"/>
+    <production id="30001" count="1"/>
+  </item>
+
+  <!-- Gold Bar -->
+  <item id="2">
+    <ingredient id="30001" count="1"/>
+    <ingredient id="20140" count="1"/>
+    <production id="30000" count="1"/>
+  </item>
+
+</list>

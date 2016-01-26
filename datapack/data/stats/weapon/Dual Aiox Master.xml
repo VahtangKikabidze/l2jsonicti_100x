@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id="30001" name="AioxDual">
+  <for>
+    <set val='1' order='0x08' stat='pAtk' />
+    <set val='1' order='0x08' stat='mAtk' />
+    <set val='1' order='0x08' stat='rCrit' />
+    <set val='1200' order='0x08' stat='pAtkSpd' />
+    <add val="1" order="0x10" stat="accCombat"/>
+    <add order="0x40" stat="regMp" val="100.9"/>
+    <mul order="0x50" stat="mAtkSpd" val="200.9"/>
+    <mul val='20.5' order='0x30' stat='maxMp'/>
+    <mul val='500.00' order='0x30' stat='regMp'/>
+    <!-- SA: Acumen -->
+    <mul val="30.50" order="0x30" stat="mAtkSpd"/>
+  </for>
+</item>
+</list>

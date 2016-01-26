@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Devil Spear -->
+  <item id="1">
+    <ingredient id="22222" count="4"/>
+    <production id="9215" count="1"/>
+  </item>
+
+  <!-- Medusa Blade -->
+  <item id="2">
+    <ingredient id="22222" count="4"/>
+    <production id="9216" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="3">
+    <ingredient id="22222" count="4"/>
+    <production id="9217" count="1"/>
+  </item>
+
+  <!-- Thor Hammer -->
+  <item id="4">
+    <ingredient id="22222" count="4"/>
+    <production id="9218" count="1"/>
+  </item>
+
+  <!-- Odin Cleaver -->
+  <item id="5">
+    <ingredient id="22222" count="4"/>
+    <production id="9219" count="1"/>
+  </item>
+
+  <!-- Artemis Bow -->
+  <item id="6">
+    <ingredient id="22222" count="4"/>
+    <production id="9220" count="1"/>
+  </item>
+
+  <!-- Zeus Mace -->
+  <item id="7">
+    <ingredient id="22222" count="4"/>
+    <production id="9221" count="1"/>
+  </item>
+
+  <!-- Ares Fist  -->
+  <item id="8">
+    <ingredient id="22222" count="4"/>
+    <production id="9222" count="1"/>
+  </item>
+
+  <!-- Aphrodite Staff -->
+  <item id="9">
+    <ingredient id="22222" count="4"/>
+    <production id="9223" count="1"/>
+  </item>
+
+  <!-- Dual Medusa Blade -->
+  <item id="10">
+    <ingredient id="22222" count="4"/>
+    <production id="9224" count="1"/>
+  </item>
+
+  <!-- Dynasty Rapier  -->
+  <item id="11">
+    <ingredient id="22222" count="4"/>
+    <production id="9225" count="1"/>
+  </item>
+
+  <!-- Dynasty Ancient Sword -->
+  <item id="12">
+    <ingredient id="22222" count="4"/>
+    <production id="9226" count="1"/>
+  </item>
+
+  <!-- Dynasty Blade -->
+  <item id="13">
+    <ingredient id="22222" count="4"/>
+    <production id="9227" count="1"/>
+  </item>
+
+  <!-- Dynasty Two Handed Sword -->
+  <item id="14">
+    <ingredient id="22222" count="4"/>
+    <production id="9228" count="1"/>
+  </item>
+
+  <!-- Dynasty Magic Sword -->
+  <item id="15">
+    <ingredient id="22222" count="4"/>
+    <production id="9229" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="16">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9603" count="1"/>
+  </item>
+
+  <!-- Medusa Blade -->
+  <item id="17">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9600" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="18">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9601" count="1"/>
+  </item>
+
+  <!-- Thor Hammer -->
+  <item id="19">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9602" count="1"/>
+  </item>
+
+  <!-- Odin Cleaver -->
+  <item id="20">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9607" count="1"/>
+  </item>
+
+  <!-- Artemis Bow -->
+  <item id="21">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9604" count="1"/>
+  </item>
+
+  <!-- Zeus Mace -->
+  <item id="22">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9605" count="1"/>
+  </item>
+
+  <!-- Ares Fist  -->
+  <item id="23">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9606" count="1"/>
+  </item>
+
+  <!-- Aphrodite Staff -->
+  <item id="24">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9612" count="1"/>
+  </item>
+
+  <!-- Dual Medusa Blade -->
+  <item id="25">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9608" count="1"/>
+  </item>
+
+  <!-- Dynasty Rapier  -->
+  <item id="26">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9609" count="1"/>
+  </item>
+
+  <!-- Dynasty Ancient Sword -->
+  <item id="27">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9605" count="1"/>
+  </item>
+
+  <!-- Dynasty Blade -->
+  <item id="28">
+    <ingredient id="22222" count="8"/>
+    <ingredient id="20141" count="1"/>
+    <production id="9606" count="1"/>
+  </item>
+
+  <!-- Dynasty Bow -->
+  <item id="29">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20116" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="30">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20113" count="1"/>
+  </item>
+
+  <!-- Medusa Blade -->
+  <item id="31">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20114" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="32">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20115" count="1"/>
+  </item>
+
+  <!-- Thor Hammer -->
+  <item id="33">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20120" count="1"/>
+  </item>
+
+  <!-- Odin Cleaver -->
+  <item id="34">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20117" count="1"/>
+  </item>
+
+  <!-- Artemis Bow -->
+  <item id="35">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20118" count="1"/>
+  </item>
+
+  <!-- Zeus Mace -->
+  <item id="36">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20119" count="1"/>
+  </item>
+
+  <!-- Ares Fist  -->
+  <item id="37">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20125" count="1"/>
+  </item>
+
+  <!-- Aphrodite Staff -->
+  <item id="38">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20121" count="1"/>
+  </item>
+
+  <!-- Dual Medusa Blade -->
+  <item id="39">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20124" count="1"/>
+  </item>
+
+  <!-- Dynasty Rapier  -->
+  <item id="40">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20122" count="1"/>
+  </item>
+
+  <!-- Dynasty Ancient Sword -->
+  <item id="41">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20123" count="1"/>
+  </item>
+
+  <!-- Dynasty Bow -->
+  <item id="42">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20103" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="43">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20100" count="1"/>
+  </item>
+
+  <!-- Medusa Blade -->
+  <item id="44">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20101" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="45">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20102" count="1"/>
+  </item>
+
+  <!-- Thor Hammer -->
+  <item id="46">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20107" count="1"/>
+  </item>
+
+  <!-- Odin Cleaver -->
+  <item id="47">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20104" count="1"/>
+  </item>
+
+  <!-- Artemis Bow -->
+  <item id="48">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20105" count="1"/>
+  </item>
+
+  <!-- Zeus Mace -->
+  <item id="49">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20106" count="1"/>
+  </item>
+
+  <!-- Ares Fist  -->
+  <item id="50">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20112" count="1"/>
+  </item>
+
+  <!-- Aphrodite Staff -->
+  <item id="51">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20108" count="1"/>
+  </item>
+
+  <!-- Dual Medusa Blade -->
+  <item id="52">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20111" count="1"/>
+  </item>
+
+  <!-- Dynasty Rapier  -->
+  <item id="53">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20109" count="1"/>
+  </item>
+
+  <!-- Dynasty Ancient Sword -->
+  <item id="54">
+    <ingredient id="22222" count="9"/>
+    <ingredient id="20141" count="1"/>
+    <production id="20110" count="1"/>
+  </item>
+
+</list>

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='10228' name="Apocalipse_Lotus_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10229' name="Sphinge_Lotus_Shield">
+  <for>
+    <mul val='1.10' order='0x20' stat='maxCp'/>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10230' name="Battle_Lotus_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10231' name="Moonlight_Lotus_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10232' name="Night_Lotus_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10233' name="Solar_Lotus_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10234' name="Shield_of_Angels">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10235' name="Night_Draw_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10236' name="Night_Dusk_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10237' name="King_Arhur_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10238' name="Elemental_Dark_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10239' name="Elemental_Fire_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10240' name="Elemental_Gold_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10241' name="Elemental_Ice_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10242' name="Elemental_Wind_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10243' name="Dragon_Face_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10244' name="Burning_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10245' name="Solar_Wing_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10246' name="Silver_Wing_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10247' name="Antharas_Shield">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10248' name="Blue_Shield">
+  <for>
+    <mul val='1.10' order='0x20' stat='maxCp'/>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+<item id='10249' name="Red_Shield">
+  <for>
+    <mul val='1.10' order='0x20' stat='maxCp'/>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='290' order='0x08' stat='sDef'/>
+    <set val='20' order='0x08' stat='rShld'/>
+    <enchant val='0' order='0x0C' stat='sDef'/>
+  </for>
+</item>
+</list>

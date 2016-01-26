@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Tattoo of the Magic Power lv2 -->
+  <item id="1">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28007" count="1"/>
+    <production id="28025" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Rabbit lv2 -->
+  <item id="2">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28008" count="1"/>
+    <production id="28026" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Monk lv2 -->
+  <item id="3">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28009" count="1"/>
+    <production id="28027" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Assassin lv2 -->
+  <item id="4">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28010" count="1"/>
+    <production id="28028" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Giant lv2 -->
+  <item id="5">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28011" count="1"/>
+    <production id="28029" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Scholar lv2 -->
+  <item id="6">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28012" count="1"/>
+    <production id="28030" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Troll lv2 -->
+  <item id="7">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28013" count="1"/>
+    <production id="28031" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Nymph lv2 -->
+  <item id="8">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28014" count="1"/>
+    <production id="28032" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Sniper lv2 -->
+  <item id="9">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28015" count="1"/>
+    <production id="28033" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Ghost lv2 -->
+  <item id="10">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28016" count="1"/>
+    <production id="28034" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Witch lv2 -->
+  <item id="11">
+    <ingredient id="22222" count="10"/>
+    <ingredient id="28017" count="1"/>
+    <production id="28035" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Magic Power lv3 -->
+  <item id="12">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28025" count="1"/>
+    <production id="28043" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Rabbit lv3 -->
+  <item id="13">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28026" count="1"/>
+    <production id="28044" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Monk lv3 -->
+  <item id="14">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28027" count="1"/>
+    <production id="28045" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Assassin lv3 -->
+  <item id="15">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28028" count="1"/>
+    <production id="28046" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Giant lv3 -->
+  <item id="16">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28029" count="1"/>
+    <production id="28047" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Scholar lv3 -->
+  <item id="17">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28030" count="1"/>
+    <production id="28048" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Troll lv3 -->
+  <item id="18">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28031" count="1"/>
+    <production id="28049" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Nymph lv3 -->
+  <item id="19">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28032" count="1"/>
+    <production id="28050" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Sniper lv3 -->
+  <item id="20">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28033" count="1"/>
+    <production id="28051" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Ghost lv3 -->
+  <item id="21">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28034" count="1"/>
+    <production id="28052" count="1"/>
+  </item>
+
+  <!-- Tattoo of the Witch lv3 -->
+  <item id="22">
+    <ingredient id="22222" count="20"/>
+    <ingredient id="28035" count="1"/>
+    <production id="28053" count="1"/>
+  </item>
+
+</list>

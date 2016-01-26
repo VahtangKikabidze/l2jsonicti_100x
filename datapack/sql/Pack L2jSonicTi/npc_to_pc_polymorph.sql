@@ -1,0 +1,18 @@
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 50020, 'Argumenter', 'Blacsmith', 53, 0, 0, 0, 0, 999999, 0, 1, 0, 0, 0, 15, 9993, 0, 6380, 6379, 0, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 30086, 'Taurin', 'Warehouse', 54, 0, 0, 0, 0, 999999, 0, 1, 0, 0, 0, 15, 9993, 0, 6380, 6379, 0, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 50032, 'Sony', 'Donate Shop', 55, 0, 0, 0, 0, 999999, 0, 1, 1, 0, 0, 20, 9993, 0, 6380, 6379, 0, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 50033, 'Andressa', 'Custom Shop', 56, 1, 0, 0, 0, 999999, 0, 1, 1, 0, 0, 20, 9997, 0, 6380, 6379, 0, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 50031, 'Negociante', 'Especial Trader', 92, 0, 0, 0, 0, 999999, 0, 1, 1, 0, 0, 20, 9991, 0, 6380, 6379, 0, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 50022, 'AllInOne', 'Aio Shop', 15, 0, 0, 0, 0, 999999, 0, 1, 1, 0, 0, 30, 30001, 0, 6384, 6383, 0, 6385, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 31047, 'Herpheus', 'Symbol Maker', 16, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 15, 9998, 0, 6384, 6383, 0, 6385, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 66667, 'Leader of Castles', 'Clan Manager', 54, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 21, 9997, 0, 6375, 6373, 6374, 6376, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 31688, 'Grand Olympiad Manager', 'Staff of Heroes', 4, 0, 0, 0, 20065, 999999, 0, 1, 1, 0, 0, 0, 9991, 0, 6375, 6373, 6374, 6376, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 55555, 'Stalker', 'Equipment Shop', 1, 0, 0, 0, 0, 999999, 0, 1, 0, 0, 0, 11, 9999, 0, 6375, 6373, 6374, 6376, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 31357, 'Saints', 'Help Server', 48, 0, 0, 0, 0, 888888, 0, 1, 0, 0, 0, 32, 9990, 0, 6375, 6373, 6374, 6376, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 93000, 'Master\'s', 'Blacksmith', 55, 0, 0, 0, 0, 666666, 0, 0, 0, 0, 0, 65535, 6365, 0, 6380, 6379, 0, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 555555, 'AllInOne', 'Aio Shop', 15, 1, 0, 0, 0, 999999, 0, 1, 1, 0, 0, 65535, 30000, 0, 6384, 6383, 0, 6385, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 888888, 'SonicTi', 'Lineage II', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000, 0, 20175, 0, 20150, 20148, 20149, 20151, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 777777, 'SonicTi', 'Lineage II', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000, 0, 20174, 0, 20300, 20303, 20299, 20301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 15021, 'Necrounder', 'Collector', 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 15, 9991, 0, 20114, 20113, 0, 20115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 15022, 'Necrounder', 'Collector', 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 15, 9991, 0, 20101, 20100, 0, 20102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO `npc_to_pc_polymorph` VALUES (0, 15024, 'Agressive', 'Anti-Ks', 92, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 20, 0, 20131, 9610, 9608, 9609, 9611, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

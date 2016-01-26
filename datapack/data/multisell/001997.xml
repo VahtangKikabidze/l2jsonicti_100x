@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Devil Spear -->
+  <item id="1">
+    <ingredient id="6392" count="1"/>
+    <production id="5592" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="2">
+    <ingredient id="6393" count="1"/>
+    <production id="5592" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="3">
+    <ingredient id="6392" count="10"/>
+    <production id="5965" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="4">
+    <ingredient id="6393" count="10"/>
+    <production id="5965" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="5">
+    <ingredient id="6392" count="800"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="6">
+    <ingredient id="6393" count="800"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="7">
+    <ingredient id="22222" count="2"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="8">
+    <ingredient id="6392" count="850"/>
+    <ingredient id="6393" count="850"/>
+    <production id="8618" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="9">
+    <ingredient id="6392" count="1000"/>
+    <ingredient id="6393" count="1000"/>
+    <production id="8619" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="10">
+    <ingredient id="6392" count="1300"/>
+    <ingredient id="6393" count="1300"/>
+    <production id="8620" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="11">
+    <ingredient id="6392" count="1600"/>
+    <ingredient id="6393" count="1600"/>
+    <production id="8621" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="12">
+    <ingredient id="22222" count="1"/>
+    <production id="8618" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="13">
+    <ingredient id="22222" count="2"/>
+    <production id="8619" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="14">
+    <ingredient id="22222" count="4"/>
+    <production id="8620" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="15">
+    <ingredient id="22222" count="5"/>
+    <production id="8621" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="16">
+    <ingredient id="6392" count="2200"/>
+    <ingredient id="6393" count="2200"/>
+    <production id="8732" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="17">
+    <ingredient id="6392" count="2800"/>
+    <ingredient id="6393" count="2800"/>
+    <production id="8742" count="350"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="18">
+    <ingredient id="6392" count="3600"/>
+    <ingredient id="6393" count="3600"/>
+    <production id="8752" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="19">
+    <ingredient id="6392" count="8200"/>
+    <ingredient id="6393" count="8200"/>
+    <production id="8762" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="20">
+    <ingredient id="22222" count="2"/>
+    <production id="8732" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="21">
+    <ingredient id="22222" count="4"/>
+    <production id="8742" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="22">
+    <ingredient id="22222" count="6"/>
+    <production id="8752" count="1"/>
+  </item>
+
+  <!-- Devil Spear -->
+  <item id="23">
+    <ingredient id="22222" count="10"/>
+    <production id="8762" count="1"/>
+  </item>
+
+</list>

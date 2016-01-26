@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Seven Signs - Blacksmith of Mammon - SA: Dynasty -->
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- By DS - Dazzel -->
+
+<list maintainEnchantment="true">
+
+	<!-- Icarus Sawsword - Focus  -->
+	<item id="1">
+		<production id="9410" count="1"/>
+		<ingredient id="9400" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Sawsword - Health -->
+	<item id="2">
+		<production id="9411" count="1"/>
+		<ingredient id="9400" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Sawsword - Light -->
+	<item id="3">
+		<production id="9412" count="1"/>
+		<ingredient id="9400" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Disperser - Focus  -->
+	<item id="4">
+		<production id="9413" count="1"/>
+		<ingredient id="9401" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Disperser - Evasion  -->
+	<item id="5">
+		<production id="9414" count="1"/>
+		<ingredient id="9401" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Disperser - Critical Damage  -->
+	<item id="6">
+		<production id="9415" count="1"/>
+		<ingredient id="9401" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Spirit - Acumen  -->
+	<item id="7">
+		<production id="9416" count="1"/>
+		<ingredient id="9402" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Spirit - Mana Up  -->
+	<item id="8">
+		<production id="9417" count="1"/>
+		<ingredient id="9402" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Spirit - Conversion  -->
+	<item id="9">
+		<production id="9418" count="1"/>
+		<ingredient id="9402" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Heavy Arms - Focus -->
+	<item id="10">
+		<production id="9419" count="1"/>
+		<ingredient id="9403" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Heavy Arms - Health  -->
+	<item id="11">
+		<production id="9420" count="1"/>
+		<ingredient id="9403" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Heavy Arms - Light  -->
+	<item id="12">
+		<production id="9421" count="1"/>
+		<ingredient id="9403" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Trident - Anger  -->
+	<item id="13">
+		<production id="9422" count="1"/>
+		<ingredient id="9404" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Trident - Critical Stun -->
+	<item id="14">
+		<production id="9423" count="1"/>
+		<ingredient id="9404" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Trident - Light -->
+	<item id="15">
+		<production id="9424" count="1"/>
+		<ingredient id="9404" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hammer - Anger  -->
+	<item id="16">
+		<production id="9425" count="1"/>
+		<ingredient id="9405" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hammer - Heal  -->
+	<item id="17">
+		<production id="9426" count="1"/>
+		<ingredient id="9405" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hammer - Rsk. Focus  -->
+	<item id="18">
+		<production id="9427" count="1"/>
+		<ingredient id="9405" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hand - Rsk. Evasion  -->
+	<item id="19">
+		<production id="9428" count="1"/>
+		<ingredient id="9406" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hand - Focus  -->
+	<item id="20">
+		<production id="9429" count="1"/>
+		<ingredient id="9406" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hand - Haste  -->
+	<item id="21">
+		<production id="9430" count="1"/>
+		<ingredient id="9406" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hall - Mana Up  -->
+	<item id="22">
+		<production id="9431" count="1"/>
+		<ingredient id="9407" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hall - Conversion  -->
+	<item id="23">
+		<production id="9432" count="1"/>
+		<ingredient id="9407" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Hall - Acumen  -->
+	<item id="24">
+		<production id="9433" count="1"/>
+		<ingredient id="9407" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Spitter - Cheap Shot  -->
+	<item id="25">
+		<production id="9434" count="1"/>
+		<ingredient id="9408" count="1"/>
+		<ingredient id="5908" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Spitter - Guidance  -->
+	<item id="26">
+		<production id="9435" count="1"/>
+		<ingredient id="9408" count="1"/>
+		<ingredient id="5911" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+	<!-- Icarus Spitter - Focus  -->
+	<item id="27">
+		<production id="9436" count="1"/>
+		<ingredient id="9408" count="1"/>
+		<ingredient id="5914" count="1"/>
+		<ingredient id="2134" count="82"/>
+	</item>
+
+</list>

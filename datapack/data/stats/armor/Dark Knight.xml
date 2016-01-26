@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9600' name="Dark Knight Heavy Armor">
+<for>
+    <add val='333' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>  
+</for>
+</item>
+
+<item id='9601' name="Dark Knight Heavy Gloves">
+<for>
+    <add val='55' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9602' name="Dark Knight Heavy Boots">
+<for>
+    <add val='55' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9603' name="Dark Knight Heavy Helmet">
+<for>
+    <add val='83' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9604' name="Dark Knight Light Armor">
+<for>
+	<add val='349' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9605' name="Dark Knight Light Gloves">
+<for>
+    <add val='65' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9606' name="Dark Knight Light Boots">
+<for>
+    <add val='58' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9607' name="Dark Knight Light Helmet">
+<for>
+    <add val='83' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9608' name="Dark Knight Robe Armor">
+<for>
+    <add val='160' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9609' name="Dark Knight Robe Legs">
+<for>
+    <add val='106' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9610' name="Dark Knight Robe Gloves">
+<for>
+    <add val='55' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9611' name="Dark Knight Robe Boots">
+<for>
+    <add val='55' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9612' name="Dark Knight Robe Hat">
+<for>
+    <add val='83' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+
+<item id='9613' name="Dark Knight Party Mask">
+<for>
+<add val='20' order='0x10' stat='pDef'/>
+<add val='20' order='0x40' stat='mDef' />
+<add val="10" order="0x40" stat='runSpd'/> <!-- speed. +20 -->
+<add val='500' order='0x40' stat='maxHp'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+</list>

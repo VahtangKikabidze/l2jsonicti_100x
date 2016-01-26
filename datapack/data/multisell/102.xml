@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Noblesse Gate Pass ==> items -->
+<list maintainEnchantment="true"> 
+
+  <!--Blessed Scroll: Enchant Weapon (Grade S )  --> 
+  <item id="1"> 
+    <ingredient id="6651" count="30000"/> 
+    <production id="6577" count="1"/> 
+  </item> 
+    <!--Blessed Scroll: Enchant Weapon (Grade A )  --> 
+  <item id="2"> 
+    <ingredient id="6651" count="15000"/> 
+    <production id="6569" count="1"/> 
+  </item> 
+    <!--Blessed Scroll: Enchant Weapon (Grade B )  --> 
+  <item id="3"> 
+    <ingredient id="6651" count="7000"/> 
+    <production id="6571" count="1"/> 
+  </item> 
+    <!--Blessed Scroll: Enchant Weapon (Grade C )  --> 
+  <item id="4"> 
+    <ingredient id="6651" count="3000"/> 
+    <production id="6573" count="1"/> 
+  </item> 
+    <!--Blessed Scroll: Enchant Weapon (Grade D )  --> 
+  <item id="5"> 
+    <ingredient id="6651" count="900"/> 
+    <production id="6575" count="1"/> 
+  </item> 
+  
+  
+    <!--Blessed Scroll: Enchant Armor (Grade S )  --> 
+  <item id="6"> 
+    <ingredient id="6651" count="4500"/> 
+    <production id="6578" count="1"/> 
+  </item> 
+      <!--Blessed Scroll: Enchant Armor (Grade A )  --> 
+  <item id="7"> 
+    <ingredient id="6651" count="1800"/> 
+    <production id="6570" count="1"/> 
+  </item> 
+      <!--Blessed Scroll: Enchant Armor (Grade B )  --> 
+  <item id="8"> 
+    <ingredient id="6651" count="750"/> 
+    <production id="6572" count="1"/> 
+  </item> 
+      <!--Blessed Scroll: Enchant Armor (Grade C )  --> 
+  <item id="9"> 
+    <ingredient id="6651" count="350"/> 
+    <production id="6574" count="1"/> 
+  </item> 
+      <!--Blessed Scroll: Enchant Armor (Grade D )  --> 
+  <item id="10"> 
+    <ingredient id="6651" count="100"/> 
+    <production id="6576" count="1"/> 
+  </item> 
+        <!-- Secred Book of Giants  --> 
+  <item id="21"> 
+    <ingredient id="6651" count="5000"/> 
+    <production id="6622" count="1"/> 
+  </item> 
+        <!-- Ancient Book - Divine Inspiration (Original Version)  --> 
+  <item id="22"> 
+    <ingredient id="6651" count="8500"/> 
+    <production id="8621" count="1"/> 
+  </item> 
+        <!-- Edited  --> 
+  <item id="23">
+    <ingredient id="6651" count="5"/>
+    <production id="1540" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="24">
+    <ingredient id="4037" count="1"/>
+    <ingredient id="6651" count="40"/>
+    <production id="20143" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="25">
+    <ingredient id="20143" count="1"/>
+    <ingredient id="6651" count="60"/>
+    <production id="20144" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="26">
+    <ingredient id="6651" count="10"/>
+    <production id="5591" count="20"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="27">
+    <ingredient id="6651" count="20"/>
+    <production id="5592" count="30"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="28">
+    <ingredient id="6651" count="100"/>
+    <production id="5858" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="29">
+    <ingredient id="6651" count="100"/>
+    <production id="5859" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="30">
+    <ingredient id="6651" count="100"/>
+    <production id="1538" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="31">
+    <ingredient id="6651" count="3750"/>
+    <production id="20272" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="32">
+    <ingredient id="6651" count="8000"/>
+    <production id="10248" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="33">
+    <ingredient id="6651" count="8000"/>
+    <production id="10249" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="34">
+    <ingredient id="6651" count="8000"/>
+    <production id="10229" count="1"/>
+  </item>
+
+</list>

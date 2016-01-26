@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Devil Spear -->
+  <item id="1">
+    <ingredient id="57" count="1"/>
+    <production id="10316" count="1"/>
+  </item>
+
+  <!-- Medusa Blade -->
+  <item id="2">
+    <ingredient id="57" count="1"/>
+    <production id="10317" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="3">
+    <ingredient id="57" count="1"/>
+    <production id="10318" count="1"/>
+  </item>
+
+  <!-- Thor Hammer -->
+  <item id="4">
+    <ingredient id="57" count="1"/>
+    <production id="10319" count="1"/>
+  </item>
+
+  <!-- Odin Cleaver -->
+  <item id="5">
+    <ingredient id="57" count="1"/>
+    <production id="10320" count="1"/>
+  </item>
+
+  <!-- Artemis Bow -->
+  <item id="6">
+    <ingredient id="57" count="1"/>
+    <production id="10321" count="1"/>
+  </item>
+
+  <!-- Zeus Mace -->
+  <item id="7">
+    <ingredient id="57" count="1"/>
+    <production id="10322" count="1"/>
+  </item>
+
+  <!-- Ares Fist  -->
+  <item id="8">
+    <ingredient id="57" count="1"/>
+    <production id="10323" count="1"/>
+  </item>
+
+  <!-- Aphrodite Staff -->
+  <item id="9">
+    <ingredient id="57" count="1"/>
+    <production id="10324" count="1"/>
+  </item>
+
+  <!-- Dual Medusa Blade -->
+  <item id="10">
+    <ingredient id="57" count="1"/>
+    <production id="10325" count="1"/>
+  </item>
+
+</list>

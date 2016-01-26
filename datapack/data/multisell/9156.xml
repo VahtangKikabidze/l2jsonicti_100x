@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- D-Grade Weapons -->
+
+<list>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="1">
+    <ingredient id="22222" count="8"/>
+    <production id="9764" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="2">
+    <ingredient id="22222" count="8"/>
+    <production id="9765" count="1"/>
+  </item>
+
+  <!-- Soulshot: A-Grade -->
+  <item id="3">
+    <ingredient id="22222" count="8"/>
+    <production id="9766" count="1"/>
+  </item>
+
+</list>

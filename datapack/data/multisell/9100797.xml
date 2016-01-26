@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Custom Shop -->
+
+<list>
+<!-- Damascus -->
+  <item id="1">
+    <ingredient id="9617" count="6"/>
+    <production id="6392" count="250"/>
+  </item>
+
+<!-- Valhalla -->
+  <item id="2">
+    <ingredient id="9617" count="6"/>
+    <production id="6393" count="250"/>
+  </item>
+
+<!-- Bellion Cestus -->
+  <item id="3">
+    <ingredient id="9617" count="12"/>
+    <production id="15008" count="1"/>
+  </item>
+
+<!-- Bellion Cestus -->
+  <item id="4">
+    <ingredient id="9617" count="12"/>
+    <production id="15010" count="1"/>
+  </item>
+
+<!-- Great Sword -->
+  <item id="5">
+    <ingredient id="9617" count="8"/>
+    <production id="15009" count="1"/>
+  </item>
+
+<!-- Samurai Dual -->
+  <item id="6">
+    <ingredient id="9617" count="1"/>
+    <production id="15004" count="5"/>
+  </item>
+
+<!-- Kris -->
+  <item id="7">
+    <ingredient id="9617" count="10"/>
+    <production id="5555" count="1"/>
+  </item>
+
+<!-- Bow of Peril -->
+  <item id="8">
+    <ingredient id="9617" count="1"/>
+    <production id="5965" count="20"/>
+  </item>
+
+<!-- Bellion Cestus -->
+  <item id="9">
+    <ingredient id="9617" count="2"/>
+    <production id="5592" count="100"/>
+  </item>
+
+<!-- Lance -->
+  <item id="10">
+    <ingredient id="9617" count="3"/>
+    <production id="57" count="100000000"/>
+  </item>
+
+<!-- Art of Battle Axe -->
+  <item id="11">
+    <ingredient id="9617" count="15"/>
+    <production id="6622" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="12">
+    <ingredient id="9617" count="60"/>
+    <production id="3470" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="14">
+    <ingredient id="9617" count="1"/>
+    <production id="9616" count="2"/>
+  </item>
+
+<!-- Lance -->
+  <item id="15">
+    <ingredient id="9617" count="12"/>
+    <production id="15012" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="16">
+    <ingredient id="9617" count="12"/>
+    <production id="9613" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="17">
+    <ingredient id="9617" count="50"/>
+    <production id="6571" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="18">
+    <ingredient id="9617" count="50"/>
+    <production id="6572" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="19">
+    <ingredient id="9617" count="65"/>
+    <production id="6569" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="20">
+    <ingredient id="9617" count="65"/>
+    <production id="6570" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="21">
+    <ingredient id="9617" count="85"/>
+    <production id="6577" count="1"/>
+  </item>
+
+<!-- Lance -->
+  <item id="22">
+    <ingredient id="9617" count="85"/>
+    <production id="6578" count="1"/>
+  </item>
+
+</list>

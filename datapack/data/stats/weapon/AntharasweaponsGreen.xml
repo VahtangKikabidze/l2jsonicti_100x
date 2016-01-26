@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9835' name="Antharas Slasher">
+  <for>
+    <set val='663' order='0x08' stat='pAtk'/>
+    <set val='399' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9836' name="Antharas Cutter">
+  <for>
+    <set val='560' order='0x08' stat='pAtk'/>
+    <set val='399' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3579' lvl='1' chance='4'/> <!-- on a critical hit the target's P.Def. is dropped by 23% at a 4% chance (MEN resists it) -->
+  </for>
+</item>
+<item id='9837' name="Antharas Buster">
+  <for>
+    <set val='407' order='0x08' stat='pAtk'/>
+    <set val='390' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3586' lvl='1' chance='10'/> <!-- 10% chance to inflict Physical Skill Silence on a critical hit (MEN resists it) -->
+  </for>
+</item>
+<item id='9838' name="Antharas Avenger">
+  <for>
+    <set val='551' order='0x08' stat='pAtk'/>
+    <set val='508' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='9839' name="Antharas Thrower">
+  <for>
+    <set val='1094' order='0x08' stat='pAtk'/>
+    <set val='399' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3594' lvl='1' chance='7'/> <!-- 7% chance to inflict slow (-50% speed) on a critical hit (MEN resists it) -->
+  </for>
+</item>
+<item id='9840' name="Antharas Stormer">
+  <for>
+    <set val='569' order='0x08' stat='pAtk'/>
+    <set val='399' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3594' lvl='1' chance='7'/> <!-- 7% chance to inflict slow (-50% speed) on a critical hit (MEN resists it) -->
+  </for>
+  </item>
+<item id='9841' name="Antharas fighter">
+  <for>
+    <set val='656' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3586' lvl='1' chance='10'/> <!-- 10% chance to inflict Physical Skill Silence on a critical hit (MEN resists it) -->
+  </for>
+</item>
+<item id='9842' name="Antharas Shaper">
+  <for>
+    <set val='506' order='0x08' stat='pAtk'/>
+    <set val='399' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3590' lvl='1' chance='5'/> <!-- 5% chance to Silence target on a critical hit (MEN resists) -->
+  </for>
+</item>
+<item id='9843' name="Antharas Dual Cutter">
+  <for>
+    <set val='664' order='0x08' stat='pAtk'/>
+    <set val='137' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <skill onCrit='1' id='3586' lvl='1' chance='10'/> <!-- 10% chance to inflict Physical Skill Silence on a critical hit (MEN resists it) -->
+  </for>
+</item>
+</list>

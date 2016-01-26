@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Party Mask -->
+  <item id="1">
+    <ingredient id="57" count="1"/>
+    <production id="10500" count="1"/>
+  </item>
+
+  <!-- Red Party Mask -->
+  <item id="2">
+    <ingredient id="57" count="1"/>
+    <production id="10501" count="1"/>
+  </item>
+
+  <!-- Cat Ear -->
+  <item id="3">
+    <ingredient id="57" count="1"/>
+    <production id="10502" count="1"/>
+  </item>
+
+  <!-- Lady's Hair Pin -->
+  <item id="4">
+    <ingredient id="57" count="1"/>
+    <production id="10503" count="1"/>
+  </item>
+
+  <!-- Pirate's Eye Patch -->
+  <item id="5">
+    <ingredient id="57" count="1"/>
+    <production id="10504" count="1"/>
+  </item>
+
+  <!-- Monocle -->
+  <item id="6">
+    <ingredient id="57" count="1"/>
+    <production id="10505" count="1"/>
+  </item>
+
+  <!-- Tateossian Hairband -->
+  <item id="7">
+    <ingredient id="57" count="1"/>
+    <production id="10506" count="1"/>
+  </item>
+
+  <!-- Raccoon Ears -->
+  <item id="8">
+    <ingredient id="57" count="1"/>
+    <production id="10507" count="1"/>
+  </item>
+
+  <!-- Outlaw's Eyepatch -->
+  <item id="9">
+    <ingredient id="57" count="1"/>
+    <production id="10508" count="1"/>
+  </item>
+
+  <!-- Maiden's Hairpin -->
+  <item id="10">
+    <ingredient id="57" count="1"/>
+    <production id="10509" count="1"/>
+  </item>
+
+  <!-- Rabbit Ears -->
+  <item id="11">
+    <ingredient id="57" count="1"/>
+    <production id="10510" count="1"/>
+  </item>
+
+  <!-- Forget-me-not Hairpin -->
+  <item id="12">
+    <ingredient id="57" count="1"/>
+    <production id="10511" count="1"/>
+  </item>
+
+  <!-- Daisy Hairpin -->
+  <item id="13">
+    <ingredient id="57" count="1"/>
+    <production id="10512" count="1"/>
+  </item>
+
+  <!-- Santa's Hat -->
+  <item id="14">
+    <ingredient id="57" count="1"/>
+    <production id="10513" count="1"/>
+  </item>
+
+  <!-- Sayha's White Mask -->
+  <item id="15">
+    <ingredient id="57" count="1"/>
+    <production id="10514" count="1"/>
+  </item>
+
+  <!-- Gold-line Mask-Black -->
+  <item id="16">
+    <ingredient id="57" count="1"/>
+    <production id="10515" count="1"/>
+  </item>
+
+  <!-- Raid Challenger's Circlet -->
+  <item id="17">
+    <ingredient id="57" count="1"/>
+    <production id="10516" count="1"/>
+  </item>
+
+  <!-- Raid Adventurer's Circlet -->
+  <item id="18">
+    <ingredient id="57" count="1"/>
+    <production id="10517" count="1"/>
+  </item>
+
+  <!-- Raid Master's Circlet -->
+  <item id="19">
+    <ingredient id="57" count="1"/>
+    <production id="10518" count="1"/>
+  </item>
+
+  <!-- Circlet of Ice Fairy Sirra -->
+  <item id="20">
+    <ingredient id="57" count="1"/>
+    <production id="10519" count="1"/>
+  </item>
+
+  <!-- Party Hat -->
+  <item id="21">
+    <ingredient id="57" count="1"/>
+    <production id="10476" count="1"/>
+  </item>
+
+  <!-- Feathered Hat -->
+  <item id="22">
+    <ingredient id="57" count="1"/>
+    <production id="10477" count="1"/>
+  </item>
+
+  <!-- Artisan's Goggles -->
+  <item id="23">
+    <ingredient id="57" count="1"/>
+    <production id="10480" count="1"/>
+  </item>
+
+  <!-- Demon Horns -->
+  <item id="24">
+    <ingredient id="57" count="1"/>
+    <production id="10481" count="1"/>
+  </item>
+
+  <!-- Little Angel wing -->
+  <item id="25">
+    <ingredient id="57" count="1"/>
+    <production id="10542" count="1"/>
+  </item>
+
+  <!-- Fairy Antennae -->
+  <item id="26">
+    <ingredient id="57" count="1"/>
+    <production id="10543" count="1"/>
+  </item>
+
+  <!-- Mask of Spirits -->
+  <item id="27">
+    <ingredient id="57" count="1"/>
+    <production id="10544" count="1"/>
+  </item>
+
+  <!-- Blue Party Hat -->
+  <item id="28">
+    <ingredient id="57" count="1"/>
+    <production id="10545" count="1"/>
+  </item>
+
+  <!-- Eva's Mark -->
+  <item id="29">
+    <ingredient id="57" count="1"/>
+    <production id="10546" count="1"/>
+  </item>
+
+  <!-- Pirate's Eye Patch -->
+  <item id="30">
+    <ingredient id="57" count="1"/>
+    <production id="10547" count="1"/>
+  </item>
+
+  <!-- Leather Cap -->
+  <item id="31">
+    <ingredient id="57" count="1"/>
+    <production id="10548" count="1"/>
+  </item>
+
+  <!-- Scar -->
+  <item id="32">
+    <ingredient id="57" count="1"/>
+    <production id="10549" count="1"/>
+  </item>
+
+  <!-- Wizard's Hat -->
+  <item id="33">
+    <ingredient id="57" count="1"/>
+    <production id="10550" count="1"/>
+  </item>
+
+  <!-- Dapper Hat -->
+  <item id="34">
+    <ingredient id="57" count="1"/>
+    <production id="10551" count="1"/>
+  </item>
+
+  <!-- Romantic Chapeau -->
+  <item id="35">
+    <ingredient id="57" count="1"/>
+    <production id="10552" count="1"/>
+  </item>
+
+  <!-- Iron Circlet -->
+  <item id="36">
+    <ingredient id="57" count="1"/>
+    <production id="10553" count="1"/>
+  </item>
+
+  <!-- Black mask -->
+  <item id="37">
+    <ingredient id="57" count="1"/>
+    <production id="10554" count="1"/>
+  </item>
+
+  <!-- Half face mask -->
+  <item id="38">
+    <ingredient id="57" count="1"/>
+    <production id="10555" count="1"/>
+  </item>
+
+  <item id="39">
+    <ingredient id="57" count="1"/>
+    <production id="10556" count="1"/>
+  </item>
+
+  <item id="40">
+    <ingredient id="57" count="1"/>
+    <production id="10557" count="1"/>
+  </item>
+
+  <item id="41">
+    <ingredient id="57" count="1"/>
+    <production id="10558" count="1"/>
+  </item>
+
+  <item id="42">
+    <ingredient id="57" count="1"/>
+    <production id="10559" count="1"/>
+  </item>
+
+  <item id="43">
+    <ingredient id="57" count="1"/>
+    <production id="10560" count="1"/>
+  </item>
+
+  <item id="44">
+    <ingredient id="57" count="1"/>
+    <production id="10561" count="1"/>
+  </item>
+
+  <item id="45">
+    <ingredient id="57" count="1"/>
+    <production id="10798" count="1"/>
+  </item>
+
+  <item id="46">
+    <ingredient id="57" count="1"/>
+    <production id="10799" count="1"/>
+  </item>
+
+  <item id="47">
+    <ingredient id="57" count="1"/>
+    <production id="10800" count="1"/>
+  </item>
+
+  <item id="48">
+    <ingredient id="57" count="1"/>
+    <production id="10801" count="1"/>
+  </item>
+
+  <item id="49">
+    <ingredient id="57" count="1"/>
+    <production id="10802" count="1"/>
+  </item>
+
+  <!-- Party Mask -->
+  <item id="50">
+    <ingredient id="57" count="1"/>
+    <production id="10803" count="1"/>
+  </item>
+
+  <!-- Red Party Mask -->
+  <item id="51">
+    <ingredient id="57" count="1"/>
+    <production id="10804" count="1"/>
+  </item>
+
+  <!-- Cat Ear -->
+  <item id="52">
+    <ingredient id="57" count="1"/>
+    <production id="10805" count="1"/>
+  </item>
+
+  <!-- Lady's Hair Pin -->
+  <item id="53">
+    <ingredient id="57" count="1"/>
+    <production id="10806" count="1"/>
+  </item>
+
+  <!-- Pirate's Eye Patch -->
+  <item id="54">
+    <ingredient id="57" count="1"/>
+    <production id="10807" count="1"/>
+  </item>
+
+  <!-- Monocle -->
+  <item id="55">
+    <ingredient id="57" count="1"/>
+    <production id="10808" count="1"/>
+  </item>
+
+  <!-- Tateossian Hairband -->
+  <item id="56">
+    <ingredient id="57" count="1"/>
+    <production id="10809" count="1"/>
+  </item>
+
+  <!-- Raccoon Ears -->
+  <item id="57">
+    <ingredient id="57" count="1"/>
+    <production id="10810" count="1"/>
+  </item>
+
+  <!-- Outlaw's Eyepatch -->
+  <item id="58">
+    <ingredient id="57" count="1"/>
+    <production id="10811" count="1"/>
+  </item>
+
+  <!-- Maiden's Hairpin -->
+  <item id="59">
+    <ingredient id="57" count="1"/>
+    <production id="10812" count="1"/>
+  </item>
+
+  <!-- Rabbit Ears -->
+  <item id="60">
+    <ingredient id="57" count="1"/>
+    <production id="10813" count="1"/>
+  </item>
+
+  <!-- Forget-me-not Hairpin -->
+  <item id="61">
+    <ingredient id="57" count="1"/>
+    <production id="10814" count="1"/>
+  </item>
+
+  <!-- Daisy Hairpin -->
+  <item id="62">
+    <ingredient id="57" count="1"/>
+    <production id="10815" count="1"/>
+  </item>
+
+  <!-- Daisy Hairpin -->
+  <item id="63">
+    <ingredient id="57" count="1"/>
+    <production id="10816" count="1"/>
+  </item>
+
+  <!-- Santa's Hat -->
+  <item id="64">
+    <ingredient id="57" count="1"/>
+    <production id="10817" count="1"/>
+  </item>
+
+</list>

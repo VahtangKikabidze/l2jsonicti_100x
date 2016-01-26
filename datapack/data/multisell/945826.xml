@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Hades Dagger -->
+  <item id="1">
+    <ingredient id="57" count="1"/>
+    <production id="22222" count="1"/>
+  </item>
+
+  <!-- Haretyhes Dagger -->
+  <item id="2">
+    <ingredient id="22222" count="1"/>
+    <production id="57" count="1000000000"/>
+  </item>
+
+</list>

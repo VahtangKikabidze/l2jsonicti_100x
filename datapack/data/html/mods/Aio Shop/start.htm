@@ -1,0 +1,34 @@
+<html>
+ <title>Aio Shop</title>
+ <body>
+ <br>
+ <center><img src=L2UI.SquareWhite width=276 height=1></center>
+ <center>
+ <table width=256>
+ <tr>
+ <td><img src=L2UI.GM_Icon width=32 height=32></td>
+ <td width=192 align=center>
+ <font color="LEVEL">%servername%</font><br1>Bem Vindo ao Aio Shop!
+ </td>
+ <td><img src=L2UI.GM_Icon width=32 height=32></td>
+ </tr>
+ </table>
+ </center>
+ <br>
+ <center><img src=L2UI.SquareWhite width=276 height=1></center>
+ <br>
+ <center>
+ <font color=99FF66>Quando voce faz um AIO, seu personagem nao<br1>
+ podera dar hits ou usar skills fora da cidade.</font><br1>
+ <font color=FF0055>Use um personagem alternativo para isso!</font><br>
+ <font color=FF9900>Os precos dos pacotes de dias sao em<br1>
+ "Ticket AIO" e os dias sao cumulativos.</font><br>
+ <button value="AIOx 30 Dias = 30 Tickets AIO" action="bypass -h npc_%objectId%_add_aio 5555 30 30" width=255 height=20 back="SonicTiButtonsLogos.SonicTiButton02" fore="SonicTiButtonsLogos.SonicTiButton02">
+ <button value="AIOx 60 Dias = 50 Tickets AIO" action="bypass -h npc_%objectId%_add_aio 5555 50 60" width=255 height=20 back="SonicTiButtonsLogos.SonicTiButton02" fore="SonicTiButtonsLogos.SonicTiButton02">
+ <button value="AIOx 90 Dias = 70 Tickets AIO" action="bypass -h npc_%objectId%_add_aio 5555 70 90" width=255 height=20 back="SonicTiButtonsLogos.SonicTiButton02" fore="SonicTiButtonsLogos.SonicTiButton02">
+ <font color=0099FF>Se voce clicar em "Remover AIO" seu status AIO<br1>
+ sera removido e voce perdera os creditos restantes.</font>
+ <button value="Remover Aio" action="bypass -h npc_%objectId%_remove_aio" width=255 height=20 back="SonicTiButtonsLogos.SonicTiButton02" fore="SonicTiButtonsLogos.SonicTiButton02">
+ </center>
+ </body>
+</html>

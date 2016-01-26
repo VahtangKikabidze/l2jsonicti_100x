@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Masks -->
+
+<list>
+
+  <!-- Hades Dagger -->
+  <item id="2">
+    <ingredient id="15000" count="1"/>
+    <ingredient id="22222" count="12"/>
+    <production id="9741" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="3">
+    <ingredient id="15000" count="1"/>
+    <ingredient id="22222" count="12"/>
+    <production id="9742" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="4">
+    <ingredient id="15000" count="1"/>
+    <ingredient id="22222" count="12"/>
+    <production id="9743" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="4">
+    <ingredient id="15000" count="1"/>
+    <ingredient id="22222" count="12"/>
+    <production id="9744" count="1"/>
+  </item>
+
+  <!-- Hades Dagger -->
+  <item id="4">
+    <ingredient id="15000" count="1"/>
+    <ingredient id="22222" count="12"/>
+    <production id="9740" count="1"/>
+  </item>
+
+</list>

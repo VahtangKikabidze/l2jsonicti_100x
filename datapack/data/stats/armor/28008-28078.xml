@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='28008' name="Tattoo of the Rabbit">
+  <for>
+    <mul val='1.11' order='0x30' stat='runSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28009' name="Tattoo of the Monk">
+  <for>
+    <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28010' name="Tattoo of the Assassin">
+  <for>
+    <mul val='1.07' order='0x30' stat='rCrit'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28011' name="Tattoo of the Giant">
+  <for>
+    <mul val='1.07' order='0x30' stat='maxHp'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28012' name="Tattoo of the Scholar">
+  <for>
+    <mul val='1.07' order='0x30' stat='maxMp'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28013' name="Tattoo of the Troll">
+  <for>
+    <mul val='1.10' order='0x40' stat='regHp'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28014' name="Tattoo of the Nymph">
+  <for>
+    <mul val='1.10' order='0x40' stat='regMp'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28015' name="Tattoo of the Sniper">
+  <for>
+    <mul val='1.03' order='0x30' stat='accCombat'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28016' name="Tattoo of the Ghost">
+  <for>
+    <mul val='1.03' order='0x30' stat='rEvas'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28017' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28018' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28019' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28020' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28021' name="Tattoo of the Mirror">
+  <for>
+    <add val='150' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28022' name="Tattoo of the Golem">
+  <for>
+     <add val='150' order='0x40' stat='mDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28023' name="Tattoo of the Fire">
+  <for>
+    <mul val='1.20' order='0x40' stat='reflectDam'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28024' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28025' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.07' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.07' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28026' name="Tattoo of the Rabbit">
+  <for>
+    <mul val='1.20' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28027' name="Tattoo of the Monk">
+  <for>
+    <mul val='1.17' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28028' name="Tattoo of the Assassin">
+  <for>
+    <mul val='1.14' order='0x30' stat='rCrit'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28029' name="Tattoo of the Giant">
+  <for>
+    <mul val='1.14' order='0x30' stat='maxHp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28030' name="Tattoo of the Scholar">
+  <for>
+    <mul val='1.14' order='0x30' stat='maxMp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28031' name="Tattoo of the Troll">
+  <for>
+    <mul val='1.20' order='0x40' stat='regHp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28032' name="Tattoo of the Nymph">
+  <for>
+    <mul val='1.20' order='0x40' stat='regMp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28033' name="Tattoo of the Sniper">
+  <for>
+    <mul val='1.05' order='0x30' stat='accCombat'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28034' name="Tattoo of the Ghost">
+  <for>
+    <mul val='1.05' order='0x30' stat='rEvas'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28035' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.17' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28036' name="Tattoo of the Mirror">
+  <for>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28037' name="Tattoo of the Golem">
+  <for>
+     <add val='300' order='0x40' stat='mDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28038' name="Tattoo of the Fire">
+  <for>
+    <mul val='1.33' order='0x40' stat='reflectDam'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28039' name="Tattoo of the Mirror">
+  <for>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28040' name="Tattoo of the Golem">
+  <for>
+     <add val='300' order='0x40' stat='mDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28041' name="Tattoo of the Fire">
+  <for>
+    <mul val='1.33' order='0x40' stat='reflectDam'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28042' name="Tattoo of the Monk">
+  <for>
+    <mul val='1.25' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28043' name="Tattoo of the Monk">
+  <for>
+    <mul val='1.25' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28044' name="Tattoo of the Rabbit">
+  <for>
+    <mul val='1.30' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28045' name="Tattoo of the Monk">
+  <for>
+    <mul val='1.25' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28046' name="Tattoo of the Assassin">
+  <for>
+    <mul val='1.18' order='0x30' stat='rCrit'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28047' name="Tattoo of the Giant">
+  <for>
+    <mul val='1.18' order='0x30' stat='maxHp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28048' name="Tattoo of the Scholar">
+  <for>
+    <mul val='1.18' order='0x30' stat='maxMp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28049' name="Tattoo of the Troll">
+  <for>
+    <mul val='1.33' order='0x40' stat='regHp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28050' name="Tattoo of the Nymph">
+  <for>
+    <mul val='1.33' order='0x40' stat='regMp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28051' name="Tattoo of the Sniper">
+  <for>
+    <mul val='1.14' order='0x30' stat='accCombat'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28052' name="Tattoo of the Ghost">
+  <for>
+    <mul val='1.14' order='0x30' stat='rEvas'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28053' name="Tattoo of the Witch">
+  <for>
+    <mul val='1.25' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28054' name="Tattoo Angel Protection">
+  <for>
+    <add val='300' order='0x40' stat='mDef'/>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28055' name="Tattoo Angel Protection">
+  <for>
+    <add val='300' order='0x40' stat='mDef'/>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28056' name="Tattoo Angel Protection5">
+  <for>
+    <add val='300' order='0x40' stat='mDef'/>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28057' name="Tattoo of Fugitive">
+  <for>
+    <mul val='1.45' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='rEvas'/>
+    <mul val='1.33' order='0x40' stat='reflectDam'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28058' name="Tattoo of Divine Witch">
+  <for>
+    <mul val='1.15' order='0x30' stat='mAtk'/>
+    <mul val='1.20' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28059' name="Tattoo of Divine Monk">
+  <for>
+    <mul val='1.15' order='0x30' stat='pAtk'/>
+    <mul val='1.35' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28060' name="Tattoo of Assassin">
+  <for>
+    <mul val='1.14' order='0x30' stat='accCombat'/>
+    <mul val='1.18' order='0x30' stat='rCrit'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28061' name="Tattoo of the Mirror">
+  <for>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28062' name="Enchanted Angel Wings">
+  <for>
+     <add val='300' order='0x40' stat='mDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28063' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.33' order='0x40' stat='reflectDam'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28064' name="Enchanted Angel Wings">
+  <for>
+    <add val='300' order='0x40' stat='pDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28065' name="Enchanted Angel Wings">
+  <for>
+     <add val='300' order='0x40' stat='mDef'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28066' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.33' order='0x40' stat='reflectDam'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28067' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.20' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28068' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.20' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28069' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.20' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28070' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.20' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28071' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.18' order='0x30' stat='rCrit'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28072' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.18' order='0x30' stat='maxHp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28073' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.18' order='0x30' stat='maxMp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28074' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.33' order='0x40' stat='regHp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28075' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.33' order='0x40' stat='regMp'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28076' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.14' order='0x30' stat='accCombat'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28077' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.14' order='0x30' stat='rEvas'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+<item id='28078' name="Enchanted Angel Wings">
+  <for>
+    <mul val='1.17' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.14' order='0x30' stat='pDef'/>
+  </for>
+</item>
+</list>
