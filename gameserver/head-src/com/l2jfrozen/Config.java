@@ -2395,6 +2395,14 @@ public final class Config
 	public static boolean ANNOUNCE_TO_ALL_SPAWN_RB;
 	public static boolean ANNOUNCE_TRY_BANNED_ACCOUNT;
 	public static String ALT_Server_Name;
+	public static boolean ENABLE_CLAN_SYSTEM;
+	public static Map CLAN_SKILLS;
+	public static byte CLAN_LEVEL;
+	public static int REPUTATION_QUANTITY;
+	public static boolean RESTART_BY_TIME_OF_DAY;
+	public static int RESTART_SECONDS;
+	public static String[] RESTART_INTERVAL_BY_TIME_OF_DAY;
+
 	public static boolean DONATOR_NAME_COLOR_ENABLED;
 	public static int DONATOR_NAME_COLOR;
 	public static int DONATOR_TITLE_COLOR;
@@ -2493,6 +2501,7 @@ public final class Config
 	public static String FARM2_CUSTOM_MESSAGE;
 	public static String PVP1_CUSTOM_MESSAGE;
 	public static String PVP2_CUSTOM_MESSAGE;
+	public static boolean SHOW_NPC_CREST;
 	public static boolean ALLOW_HITMAN_GDE;
 	public static boolean HITMAN_GDE_TAKE_KARMA;
 
@@ -2512,6 +2521,10 @@ public final class Config
 			CUSTOM_SPAWNLIST_TABLE = Boolean.valueOf(L2JFrozenSettings.getProperty("CustomSpawnlistTable", "True"));
 			SAVE_GMSPAWN_ON_CUSTOM = Boolean.valueOf(L2JFrozenSettings.getProperty("SaveGmSpawnOnCustom", "True"));
 			DELETE_GMSPAWN_ON_CUSTOM = Boolean.valueOf(L2JFrozenSettings.getProperty("DeleteGmSpawnOnCustom", "True"));
+			
+			RESTART_BY_TIME_OF_DAY = Boolean.parseBoolean(L2JFrozenSettings.getProperty("EnableRestartSystem", "false"));
+			RESTART_SECONDS = Integer.parseInt(L2JFrozenSettings.getProperty("RestartSeconds", "180"));
+			RESTART_INTERVAL_BY_TIME_OF_DAY = L2JFrozenSettings.getProperty("RestartByTimeOfDay", "20:00").split(",");
 
 			ONLINE_PLAYERS_ON_LOGIN = Boolean.valueOf(L2JFrozenSettings.getProperty("OnlineOnLogin", "False"));
 			SHOW_SERVER_VERSION = Boolean.valueOf(L2JFrozenSettings.getProperty("ShowServerVersion", "False"));
@@ -2617,6 +2630,7 @@ public final class Config
 			FARM2_CUSTOM_MESSAGE = L2JFrozenSettings.getProperty("Farm2CustomMeesage", "You have been teleported to Farm Zone 2!");
 			PVP1_CUSTOM_MESSAGE = L2JFrozenSettings.getProperty("PvP1CustomMeesage", "You have been teleported to PvP Zone 1!");
 			PVP2_CUSTOM_MESSAGE = L2JFrozenSettings.getProperty("PvP2CustomMeesage", "You have been teleported to PvP Zone 2!");
+			SHOW_NPC_CREST = Boolean.parseBoolean(L2JFrozenSettings.getProperty("ShowNpcCrest", "False"));
 			ALLOW_HITMAN_GDE = Boolean.valueOf(L2JFrozenSettings.getProperty("AllowHitmanGDE", "true"));
 			HITMAN_GDE_TAKE_KARMA = Boolean.valueOf(L2JFrozenSettings.getProperty("HitmansTakekarma", "false"));
 		}

@@ -172,6 +172,18 @@ public class Shutdown extends Thread
 		}
 	}
 
+	    public void autoRestart(int time)
+	    {
+	            _secondsShut = time;
+	
+	            countdown();
+	           
+	            _shutdownMode = GM_RESTART;
+	           
+	            _instance.setMode(GM_RESTART);
+	            System.exit(2);
+	    }
+		
 	/**
 	 * Default constructor is only used internal to create the shutdown-hook instance
 	 */
