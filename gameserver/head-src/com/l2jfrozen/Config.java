@@ -578,6 +578,7 @@ public final class Config
 	public static int AIO_TCOLOR;
 	public static boolean ALLOW_AIO_USE_GK;
 	public static boolean ALLOW_AIO_USE_CM;
+	public static int REC_ITEM;
 	public static int DUAL_AIO_ID;
 	
 	public static boolean ANNOUNCE_CASTLE_LORDS;
@@ -680,6 +681,7 @@ public final class Config
         	AIO_TCOLOR = Integer.decode("0x" + otherSettings.getProperty("AioTitleColor", "88AA88"));
         	ALLOW_AIO_USE_GK = Boolean.parseBoolean(otherSettings.getProperty("AllowAioUseGk", "False"));
         	ALLOW_AIO_USE_CM = Boolean.parseBoolean(otherSettings.getProperty("AllowAioUseClassMaster", "False"));
+        	REC_ITEM = Integer.parseInt(otherSettings.getProperty("RecItem", "20347"));
         	DUAL_AIO_ID = Integer.parseInt(otherSettings.getProperty("DualAioItemId", "30000"));
         	
         	ANNOUNCE_CASTLE_LORDS = Boolean.parseBoolean(otherSettings.getProperty("AnnounceCastleLords", "False"));

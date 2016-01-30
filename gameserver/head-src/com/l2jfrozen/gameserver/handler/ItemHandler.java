@@ -55,6 +55,7 @@ import com.l2jfrozen.gameserver.handler.itemhandlers.Potions;
 import com.l2jfrozen.gameserver.handler.itemhandlers.Recipes;
 import com.l2jfrozen.gameserver.handler.itemhandlers.Remedy;
 import com.l2jfrozen.gameserver.handler.itemhandlers.RollingDice;
+import com.l2jfrozen.gameserver.handler.itemhandlers.RecItem;
 import com.l2jfrozen.gameserver.handler.itemhandlers.ScrollOfEscape;
 import com.l2jfrozen.gameserver.handler.itemhandlers.ScrollOfResurrection;
 import com.l2jfrozen.gameserver.handler.itemhandlers.Scrolls;
@@ -125,6 +126,7 @@ public class ItemHandler
 		registerItemHandler(new Potions());
 		registerItemHandler(new Recipes());
 		registerItemHandler(new RollingDice());
+		registerItemHandler(new RecItem());
 		registerItemHandler(new MysteryPotion());
 		registerItemHandler(new EnchantScrolls());
 		registerItemHandler(new EnergyStone());
