@@ -70,7 +70,6 @@ public final class Config
 	public static int USERACCESS_LEVEL;
 	public static int MASTERACCESS_NAME_COLOR;
 	public static int MASTERACCESS_TITLE_COLOR;
-	public static boolean PVP_SAME_IP;
 	public static boolean OFFLINE_SLEEP_EFFECT;
 	public static boolean ANNOUNCE_AIO_LOGIN;
 	public static boolean ANNOUNCE_VIP_LOGIN;
@@ -190,6 +189,7 @@ public final class Config
 	public static int KNOWNLIST_FORGET_DELAY;
 	public static int MINIMUN_UPDATE_TIME;
 	public static boolean BYPASS_VALIDATION;
+	public static boolean ENABLE_VERSION_MESSAGE;
 
 	public static boolean HIGH_RATE_SERVER_DROPS;
 	
@@ -221,7 +221,7 @@ public final class Config
 			EMPTY_DROPPED_ITEM_TABLE_AFTER_LOAD = Boolean.valueOf(optionsSettings.getProperty("EmptyDroppedItemTableAfterLoad", "false"));
 			SAVE_DROPPED_ITEM_INTERVAL = Integer.parseInt(optionsSettings.getProperty("SaveDroppedItemInterval", "0")) * 60000;
 			CLEAR_DROPPED_ITEM_TABLE = Boolean.valueOf(optionsSettings.getProperty("ClearDroppedItemTable", "false"));
-
+			ENABLE_VERSION_MESSAGE = Boolean.valueOf(optionsSettings.getProperty("EnableVersionMessage", "True"));
 			PRECISE_DROP_CALCULATION = Boolean.valueOf(optionsSettings.getProperty("PreciseDropCalculation", "True"));
 			MULTIPLE_ITEM_DROP = Boolean.valueOf(optionsSettings.getProperty("MultipleItemDrop", "True"));
 
@@ -2213,7 +2213,6 @@ public final class Config
 			PM_SERVER_NAME7  = frozenSettings.getProperty("PMServerName7", "L2 SonicTi");
 			PM_SERVER_NAME8  = frozenSettings.getProperty("PMServerName8", "L2 SonicTi");
 			NEW_PLAYER_EFFECT = Boolean.parseBoolean(frozenSettings.getProperty("NewPlayerEffect", "True"));
-			PVP_SAME_IP = Boolean.parseBoolean(frozenSettings.getProperty("PvPSameIP", "False"));
 			
 			dica1 = frozenSettings.getProperty("Dica1", "BALANCE");
 			dica2 = frozenSettings.getProperty("Dica2", "BALANCE");

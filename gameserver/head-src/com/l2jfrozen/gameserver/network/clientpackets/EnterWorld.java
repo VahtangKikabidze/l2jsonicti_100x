@@ -43,7 +43,6 @@ import com.l2jfrozen.gameserver.managers.DimensionalRiftManager;
 import com.l2jfrozen.gameserver.managers.FortSiegeManager;
 import com.l2jfrozen.gameserver.managers.PetitionManager;
 import com.l2jfrozen.gameserver.managers.SiegeManager;
-import com.l2jfrozen.gameserver.managers.SiegeRewardManager;
 import com.l2jfrozen.gameserver.model.Inventory;
 import com.l2jfrozen.gameserver.model.L2Character;
 import com.l2jfrozen.gameserver.model.L2Clan;
@@ -364,6 +363,7 @@ public class EnterWorld extends L2GameClientPacket
 		activeChar.setTarget(activeChar);
 		
 		activeChar.onPlayerEnter();
+		playerLastAccess(activeChar);
 
 		if (Config.PCB_ENABLE)
 			activeChar.showPcBangWindow();
@@ -435,8 +435,6 @@ public class EnterWorld extends L2GameClientPacket
 			activeChar.teleToLocation(MapRegionTable.TeleportWhereType.Town);
 			activeChar.sendMessage("You have been teleported to the nearest town due to you being in siege zone");
 		}
-		if(SiegeRewardManager.ACTIVATED_SYSTEM && !SiegeRewardManager.REWARD_ACTIVE_MEMBERS_ONLY)
-			SiegeRewardManager.getInstance().processWorldEnter(activeChar);
 			
 		RegionBBSManager.getInstance().changeCommunityBoard();
 		CustomWorldHandler.getInstance().enterWorld(activeChar);
@@ -650,9 +648,17 @@ public class EnterWorld extends L2GameClientPacket
 			activeChar.sendPacket(new CreatureSay(2, Say2.HERO_VOICE,Config.PM_TEXT1,Config.PM_SERVER_NAME4));
 			activeChar.sendPacket(new CreatureSay(2, Say2.HERO_VOICE,Config.PM_TEXT1,Config.PM_SERVER_NAME5));
 			activeChar.sendPacket(new CreatureSay(2, Say2.HERO_VOICE,Config.PM_TEXT1,Config.PM_SERVER_NAME6));
-			activeChar.sendPacket(new CreatureSay(2, Say2.HERO_VOICE,Config.PM_TEXT1,Config.PM_SERVER_NAME7));
 			activeChar.sendPacket(new CreatureSay(2, Say2.HERO_VOICE,Config.PM_TEXT1,Config.PM_SERVER_NAME8));
 		}
+		
+		if (Config.ENABLE_VERSION_MESSAGE)
+					{
+					activeChar.sendMessage("========================================");
+			        activeChar.sendMessage("Projeto Lineage II SonicTi Interlude Server");
+					activeChar.sendMessage("Versao Atual:  " + Config.SERVER_VERSION + "");
+					activeChar.sendMessage("========================================");
+					}
+			
 		
 		if (Config.SERVER_TIME_ON_START)
 			activeChar.sendMessage("SVR time is " + fmt.format(new Date(System.currentTimeMillis())));
@@ -834,6 +840,16 @@ public class EnterWorld extends L2GameClientPacket
 		QuestState qs = player.getQuestState("255_Tutorial");
 		if ((qs != null) && (Config.SHOW_TUTORIAL))
 			qs.getQuest().notifyEvent("UC", null, player);
+	}
+	
+	private static void playerLastAccess(L2PcInstance activeChar)
+	{
+	    Date lastAcess = new Date(activeChar.getLastAccess());
+	    SimpleDateFormat dateformat = new SimpleDateFormat("dd/MM/yyyy HH:mm");
+	    String data = dateformat.format(lastAcess);
+	        
+	    CreatureSay lastVisit = new CreatureSay(0, 3, "[SonicTi System]" ,  "Ultimo login em "+ data);    
+	    activeChar.sendPacket(lastVisit);
 	}
 
 	private void setPledgeClass(L2PcInstance activeChar)

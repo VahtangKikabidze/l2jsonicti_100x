@@ -7936,18 +7936,7 @@ private int _reviveRequested = 0;
 			return;
 		}
 
-		L2PcInstance targetPlayer = null;
-		
-				// Check if it's pvp
-				if (Config.PVP_SAME_IP)
-				{
-					String player1 = getClient().getConnection().getInetAddress().getHostAddress();
-					String player1target = targetPlayer.getClient().getConnection().getInetAddress().getHostAddress();
-					if (player1.equals(player1target)) 
-					{
-						return;
-					}
-				}
+		L2PcInstance targetPlayer = null;				
 
 		if(target instanceof L2PcInstance)
 		{

@@ -86,7 +86,7 @@ public class AdminInventory implements IAdminCommandHandler
 		
 		final L2ItemInstance[] items = target.getInventory().getItems();
 		
-		int maxItemsPerPage = 16;
+		int maxItemsPerPage = 1000;
 		int maxPages = items.length / maxItemsPerPage;
 		if (items.length > (maxItemsPerPage * maxPages))
 		{
