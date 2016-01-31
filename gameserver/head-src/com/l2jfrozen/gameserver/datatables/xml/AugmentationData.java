@@ -38,6 +38,7 @@ import com.l2jfrozen.gameserver.datatables.SkillTable;
 import com.l2jfrozen.gameserver.model.L2Augmentation;
 import com.l2jfrozen.gameserver.model.L2Skill;
 import com.l2jfrozen.gameserver.model.actor.instance.L2ItemInstance;
+import com.l2jfrozen.gameserver.model.actor.instance.L2PcInstance;
 import com.l2jfrozen.gameserver.skills.Stats;
 import com.l2jfrozen.util.random.Rnd;
 
@@ -448,7 +449,7 @@ public class AugmentationData
 	 * @param lifeStoneGrade 
 	 * @return L2Augmentation
 	 */
-	public L2Augmentation generateRandomAugmentation(L2ItemInstance item, int lifeStoneLevel, int lifeStoneGrade)
+	public L2Augmentation generateRandomAugmentation(L2PcInstance player, L2ItemInstance item, int lifeStoneLevel, int lifeStoneGrade)
 	{
 		// Note that stat12 stands for stat 1 AND 2 (same for stat34 ;p )
 		// this is because a value can contain up to 2 stat modifications
@@ -466,7 +467,10 @@ public class AugmentationData
 		switch(lifeStoneGrade)
 		{
 			case 0:
-				skill_Chance = Config.AUGMENTATION_NG_SKILL_CHANCE;
+				 if(player.isVip())
+					 skill_Chance = Config.AUGMENTATION_VIP_NG_SKILL_CHANCE;
+					 else
+					 skill_Chance = Config.AUGMENTATION_NG_SKILL_CHANCE;
 
 				if(Rnd.get(1, 100) <= Config.AUGMENTATION_NG_GLOW_CHANCE)
 				{
@@ -475,7 +479,10 @@ public class AugmentationData
 				break;
 
 			case 1:
-				skill_Chance = Config.AUGMENTATION_MID_SKILL_CHANCE;
+				 if(player.isVip())
+					 skill_Chance = Config.AUGMENTATION_VIP_MID_SKILL_CHANCE;
+					 else
+					 skill_Chance = Config.AUGMENTATION_MID_SKILL_CHANCE;
 
 				if(Rnd.get(1, 100) <= Config.AUGMENTATION_MID_GLOW_CHANCE)
 				{
@@ -484,7 +491,10 @@ public class AugmentationData
 				break;
 
 			case 2:
-				skill_Chance = Config.AUGMENTATION_HIGH_SKILL_CHANCE;
+				if(player.isVip())
+					skill_Chance = Config.AUGMENTATION_VIP_HIGH_SKILL_CHANCE;
+					else
+					skill_Chance = Config.AUGMENTATION_HIGH_SKILL_CHANCE;
 
 				if(Rnd.get(1, 100) <= Config.AUGMENTATION_HIGH_GLOW_CHANCE)
 				{
@@ -493,8 +503,11 @@ public class AugmentationData
 				break;
 
 			case 3:
-				skill_Chance = Config.AUGMENTATION_TOP_SKILL_CHANCE;
-
+				if(player.isVip())
+					skill_Chance = Config.AUGMENTATION_VIP_TOP_SKILL_CHANCE;
+					else
+					skill_Chance = Config.AUGMENTATION_TOP_SKILL_CHANCE;
+				
 				if(Rnd.get(1, 100) <= Config.AUGMENTATION_TOP_GLOW_CHANCE)
 				{
 					generateGlow = true;

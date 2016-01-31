@@ -2997,6 +2997,12 @@ public final class Config
 	public static int AUGMENTATION_HIGH_SKILL_CHANCE;
 	public static int AUGMENTATION_TOP_SKILL_CHANCE;
 	public static int AUGMENTATION_BASESTAT_CHANCE;
+	// Augment Vip Chance
+	public static int AUGMENTATION_VIP_NG_SKILL_CHANCE;
+	public static int AUGMENTATION_VIP_MID_SKILL_CHANCE;
+	public static int AUGMENTATION_VIP_HIGH_SKILL_CHANCE;
+	public static int AUGMENTATION_VIP_TOP_SKILL_CHANCE;
+	public static int AUGMENTATION_BASESTAT_CHANCE1;
 	// Augment glow
 	public static int AUGMENTATION_NG_GLOW_CHANCE;
 	public static int AUGMENTATION_MID_GLOW_CHANCE;
@@ -3299,6 +3305,11 @@ public final class Config
 			AUGMENTATION_MID_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationMidSkillChance", "30"));
 			AUGMENTATION_HIGH_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationHighSkillChance", "45"));
 			AUGMENTATION_TOP_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationTopSkillChance", "60"));
+			/** augmentation Vip chance **/
+			AUGMENTATION_VIP_NG_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationVIPNGSkillChance", "15"));
+			AUGMENTATION_VIP_MID_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationVIPMidSkillChance", "25"));
+			AUGMENTATION_VIP_HIGH_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationVIPHighSkillChance", "35"));
+			AUGMENTATION_VIP_TOP_SKILL_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationVIPTopSkillChance", "40"));
 			AUGMENTATION_BASESTAT_CHANCE = Integer.parseInt(ENCHANTSetting.getProperty("AugmentationBaseStatChance", "1"));
 
 			/** augmentation glow **/
@@ -5045,6 +5056,22 @@ public final class Config
 		else if(pName.equalsIgnoreCase("AugmentationTopSkillChance"))
 		{
 			AUGMENTATION_TOP_SKILL_CHANCE = Integer.parseInt(pValue);
+		}
+		else if(pName.equalsIgnoreCase("AugmentationVIPNGSkillChance"))
+		{
+			AUGMENTATION_VIP_NG_SKILL_CHANCE = Integer.parseInt(pValue);
+		}
+		else if(pName.equalsIgnoreCase("AugmentationVIPMidSkillChance"))
+		{
+			AUGMENTATION_VIP_MID_SKILL_CHANCE = Integer.parseInt(pValue);
+		}
+		else if(pName.equalsIgnoreCase("AugmentationVIPHighSkillChance"))
+		{
+			AUGMENTATION_VIP_HIGH_SKILL_CHANCE = Integer.parseInt(pValue);
+		}
+		else if(pName.equalsIgnoreCase("AugmentationVIPTopSkillChance"))
+		{
+			AUGMENTATION_VIP_TOP_SKILL_CHANCE = Integer.parseInt(pValue);
 		}
 		else if(pName.equalsIgnoreCase("AugmentationBaseStatChance"))
 		{
