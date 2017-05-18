@@ -247,6 +247,12 @@ public final class L2TeleporterInstance extends L2FolkInstance
 				player.sendPacket(new SystemMessage(SystemMessageId.NO_PORT_THAT_IS_IN_SIGE));
 				return;
 			}
+			   else if (player.getPet() != null || player.isMounted())
+				   {
+					player.sendMessage("Voce nao pode teleportar com summon!");
+					return;
+				   }
+				
 			else if(!player.isGM() && !Config.FLAGED_PLAYER_CAN_USE_GK && player.getPvpFlag() > 0)
 			{
 				player.sendMessage("Don't run from PvP! You will be able to use the teleporter only after your flag is gone.");
