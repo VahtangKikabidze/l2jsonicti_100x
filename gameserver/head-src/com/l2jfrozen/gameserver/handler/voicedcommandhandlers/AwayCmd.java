@@ -28,7 +28,7 @@ public class AwayCmd implements IVoicedCommandHandler
 {
 	private static final String[] VOICED_COMMANDS =
 	{
-			"away", "back"
+			"off", "on"
 	};
 
 	/* (non-Javadoc)
@@ -37,9 +37,9 @@ public class AwayCmd implements IVoicedCommandHandler
 	@Override
 	public boolean useVoicedCommand(String command, L2PcInstance activeChar, String text)
 	{
-		if(command.startsWith("away"))
+		if(command.startsWith("off"))
 			return away(activeChar, text);
-		else if(command.startsWith("back"))
+		else if(command.startsWith("on"))
 			return back(activeChar);
 		return false;
 	}
@@ -57,13 +57,13 @@ public class AwayCmd implements IVoicedCommandHandler
 		//check char is all ready in away mode
 		if(activeChar.isAway() || activeChar.isAwaying())
 		{
-			activeChar.sendMessage("You are already Away.");
+			activeChar.sendMessage("Voce ja esta Indisponivel.");
 			return false;
 		}
 
 		if(!activeChar.isInsideZone(ZONE_PEACE) && Config.AWAY_PEACE_ZONE)
 		{
-			activeChar.sendMessage("You can only Away in peace zone.");
+			activeChar.sendMessage("Voce so pode ficar Indisponivel em Zona de Paz.");
 			return false;
 		}
 
@@ -123,7 +123,7 @@ public class AwayCmd implements IVoicedCommandHandler
 		//check player have karma/pk/pvp status
 		if(activeChar.getKarma() > 0 || activeChar.getPvpFlag() > 0)
 		{
-			activeChar.sendMessage("Player in PVP or with Karma can't use the Away command!");
+			activeChar.sendMessage("Player em PVP ou com Karma nao pode usar este comando!");
 			return false;
 		}
 
@@ -159,7 +159,7 @@ public class AwayCmd implements IVoicedCommandHandler
 	{
 		if(!activeChar.isAway())
 		{
-			activeChar.sendMessage("You are not Away!");
+			activeChar.sendMessage("Voce nao esta *Indisponivel*!");
 			return false;
 		}
 		AwayManager.getInstance().setBack(activeChar);

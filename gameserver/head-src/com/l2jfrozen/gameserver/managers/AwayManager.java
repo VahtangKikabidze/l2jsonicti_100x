@@ -83,7 +83,7 @@ public final class AwayManager
 	{
 		activeChar.set_awaying(true);
 		activeChar.broadcastPacket(new SocialAction(activeChar.getObjectId(), 9));
-		activeChar.sendMessage("Your status is Away in " + Config.AWAY_TIMER + " Sec.");
+		activeChar.sendMessage("Seus status sera *Indisponivel* em " + Config.AWAY_TIMER + " Segundos.");
 		activeChar.getAI().setIntention(CtrlIntention.AI_INTENTION_IDLE);
 		SetupGauge sg = new SetupGauge(SetupGauge.BLUE, Config.AWAY_TIMER * 1000);
 		activeChar.sendPacket(sg);
@@ -97,7 +97,7 @@ public final class AwayManager
 	 */
 	public void setBack(L2PcInstance activeChar)
 	{
-		activeChar.sendMessage("You are back from Away Status in " + Config.BACK_TIMER + " Sec.");
+		activeChar.sendMessage("Voce ficara *Disponivel* em " + Config.BACK_TIMER + " Segundos.");
 		SetupGauge sg = new SetupGauge(SetupGauge.BLUE, Config.BACK_TIMER * 1000);
 		activeChar.sendPacket(sg);
 		sg = null;
@@ -150,22 +150,22 @@ public final class AwayManager
 			}
 			if(_awayText.length() <= 1)
 			{
-				_activeChar.sendMessage("You are now *Away*");
+				_activeChar.sendMessage("Voce esta *Indisponivel*");
 			}
 			else
 			{
-				_activeChar.sendMessage("You are now Away *" + _awayText + "*");
+				_activeChar.sendMessage("Voce esta *Indisponivel* agora *" + _awayText + "*");
 			}
 
 			_activeChar.getAppearance().setTitleColor(Config.AWAY_TITLE_COLOR);
 
 			if(_awayText.length() <= 1)
 			{
-				_activeChar.setTitle("*Away*");
+				_activeChar.setTitle("*Indisponivel*");
 			}
 			else
 			{
-				_activeChar.setTitle("Away*" + _awayText + "*");
+				_activeChar.setTitle("Indisponivel*" + _awayText + "*");
 			}
 
 			_activeChar.broadcastUserInfo();
@@ -208,7 +208,7 @@ public final class AwayManager
 			rd = null;
 			_awayPlayers.remove(_activeChar);
 			_activeChar.broadcastUserInfo();
-			_activeChar.sendMessage("You are Back now!");
+			_activeChar.sendMessage("Voce esta *Disponivel* agora!");
 		}
 	}
 }

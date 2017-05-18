@@ -501,7 +501,13 @@ public class Olympiad
 			noble.sendMessage("Cant register when you have less than 5 points");
 			return false;
 		}
-
+					  
+					   if(noble.isAio())
+					   {
+							   noble.sendMessage("AIO nao pode participar de Olympiadas.");
+							   return false;
+					   }
+		
 		if (classBased)
 		{
 			if (_classBasedRegisters.containsKey(noble.getClassId().getId()))

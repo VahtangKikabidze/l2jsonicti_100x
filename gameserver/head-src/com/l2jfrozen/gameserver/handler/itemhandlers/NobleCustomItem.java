@@ -33,18 +33,18 @@ public class NobleCustomItem implements IItemHandler
 
 			if(activeChar.isInOlympiadMode())
 			{
-				activeChar.sendMessage("This Item Cannot Be Used On Olympiad Games.");
+				activeChar.sendMessage("Este Item nao pode ser usado nas Olimpiadas.");
 			}
 
 			if(activeChar.isNoble())
 			{
-				activeChar.sendMessage("You Are Already A Noblesse!.");
+				activeChar.sendMessage("Voce ja e Nobre!.");
 			}
 			else
 			{
 				activeChar.broadcastPacket(new SocialAction(activeChar.getObjectId(), 16));
 				activeChar.setNoble(true);
-				activeChar.sendMessage("You Are Now a Noble,You Are Granted With Noblesse Status , And Noblesse Skills.");
+				activeChar.sendMessage("Agora Voce e Nobre, Voce foi presenteado com Status Nobre , e Skills Nobre!");
 				activeChar.broadcastUserInfo();
 				playable.destroyItem("Consume", item.getObjectId(), 1, null, false);
 				activeChar.getInventory().addItem("Tiara", 7694, 1, activeChar, null);
