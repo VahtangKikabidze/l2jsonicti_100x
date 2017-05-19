@@ -138,4 +138,10 @@
     <production id="10229" count="1"/>
   </item>
 
+  <!-- Red Pipette Knife -->
+  <item id="35">
+    <ingredient id="6651" count="1000"/>
+    <production id="20347" count="1"/>
+  </item>
+
 </list>

@@ -6,199 +6,217 @@
 
   <!-- Tattoo of the Rabbit lv1 -->
   <item id="9">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28061" count="1"/>
   </item>
 
   <!-- Tattoo of the Monk lv1 -->
   <item id="10">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28062" count="1"/>
   </item>
 
   <!-- Tattoo of the Assassin lv1 -->
   <item id="11">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28063" count="1"/>
   </item>
 
   <!-- Tattoo of the Giant lv1 -->
   <item id="12">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28064" count="1"/>
   </item>
 
   <!-- Tattoo of the Scholar lv1 -->
   <item id="13">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28065" count="1"/>
   </item>
 
   <!-- Tattoo of the Troll lv1 -->
   <item id="14">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28066" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="15">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28067" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="16">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28068" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="17">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28069" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="18">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28070" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="19">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28071" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="20">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28072" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="21">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28073" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="22">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28074" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="23">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28075" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="24">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28076" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="25">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28077" count="1"/>
   </item>
 
   <!-- Tattoo of the Nymph lv1 -->
   <item id="26">
-    <ingredient  id="15003" count="260"/>
-    <ingredient  id="5965" count="80"/>
+    <ingredient  id="15003" count="1260"/>
+    <ingredient  id="5965" count="280"/>
     <ingredient  id="15008" count="1"/>
     <ingredient  id="15010" count="1"/>
     <ingredient id="6393" count="2100"/>
     <ingredient id="6392" count="2100"/>
+    <ingredient  id="57" count="24588315"/>
     <production id="28078" count="1"/>
   </item>
 

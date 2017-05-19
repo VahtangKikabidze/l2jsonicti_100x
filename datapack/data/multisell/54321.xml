@@ -148,7 +148,6 @@
 
 <!-- Lance -->
   <item id="14">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9990" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -161,7 +160,6 @@
 
 <!-- Lance -->
   <item id="15">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9991" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -174,7 +172,6 @@
 
 <!-- Lance -->
   <item id="16">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9992" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -187,7 +184,6 @@
 
 <!-- Lance -->
   <item id="17">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9993" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -200,7 +196,6 @@
 
 <!-- Lance -->
   <item id="18">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9994" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -213,7 +208,6 @@
 
 <!-- Lance -->
   <item id="19">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9995" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -226,7 +220,6 @@
 
 <!-- Lance -->
   <item id="20">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9996" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -239,7 +232,6 @@
 
 <!-- Lance -->
   <item id="21">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9997" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -252,7 +244,6 @@
 
 <!-- Lance -->
   <item id="22">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9998" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -265,7 +256,6 @@
 
 <!-- Lance -->
   <item id="23">
-    <ingredient id="20141" count="1"/>
     <ingredient id="9999" count="1"/>
     <ingredient id="57" count="85850000"/>
     <ingredient id="4040" count="50"/>
@@ -284,290 +274,6 @@
 
   <!-- SONICTI COIN -->
   <item id="25">
-    <ingredient id="20141" count="1"/>
-    <production id="20141" count="1"/>
-  </item>
-
-  <!-- Devil Spear -->
-  <item id="26">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20278" count="1"/>
-  </item>
-
-  <!-- Medusa Blade -->
-  <item id="27">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20279" count="1"/>
-  </item>
-
-  <!-- Hades Dagger -->
-  <item id="28">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20280" count="1"/>
-  </item>
-
-  <!-- Thor Hammer -->
-  <item id="29">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20281" count="1"/>
-  </item>
-
-  <!-- Odin Cleaver -->
-  <item id="30">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20282" count="1"/>
-  </item>
-
-  <!-- Artemis Bow -->
-  <item id="31">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20283" count="1"/>
-  </item>
-
-  <!-- Zeus Mace -->
-  <item id="32">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20284" count="1"/>
-  </item>
-
-  <!-- Ares Fist  -->
-  <item id="33">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20285" count="1"/>
-  </item>
-
-  <!-- Aphrodite Staff -->
-  <item id="34">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20286" count="1"/>
-  </item>
-
-  <!-- Dual Medusa Blade -->
-  <item id="35">
-    <ingredient id="1891" count="18"/>
-    <ingredient id="1691" count="10"/>
-    <ingredient id="4047" count="12"/>
-    <ingredient id="1710" count="22"/>
-    <ingredient id="15003" count="120"/>
-    <ingredient id="5965" count="60"/>
-    <ingredient id="15004" count="150"/>
-    <ingredient id="57" count="34800000"/>
-    <production id="20287" count="1"/>
-  </item>
-
-  <!-- SONICTI COIN -->
-  <item id="36">
-    <ingredient id="20141" count="1"/>
-    <production id="20141" count="1"/>
-  </item>
-
-  <!-- SONICTI COIN -->
-  <item id="37">
-    <ingredient id="20141" count="1"/>
-    <production id="20141" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="38">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20278" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20288" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="39">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20279" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20289" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="40">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20280" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20290" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="41">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20281" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20291" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="42">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20282" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20292" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="43">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20283" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20293" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="44">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20284" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20294" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="45">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20285" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20295" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="46">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20286" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20296" count="1"/>
-  </item>
-
-<!-- Lance -->
-  <item id="47">
-    <ingredient id="20141" count="1"/>
-    <ingredient id="20287" count="1"/>
-    <ingredient id="57" count="85850000"/>
-    <ingredient id="4040" count="50"/>
-    <ingredient id="4041" count="65"/>
-    <ingredient id="4049" count="40"/>
-    <ingredient id="15004" count="380"/>
-    <ingredient id="1886" count="8"/>
-    <production id="20297" count="1"/>
-  </item>
-
-  <!-- SONICTI COIN -->
-  <item id="48">
-    <ingredient id="20141" count="1"/>
-    <production id="20141" count="1"/>
-  </item>
-
-  <!-- SONICTI COIN -->
-  <item id="49">
     <ingredient id="20141" count="1"/>
     <production id="20141" count="1"/>
   </item>

@@ -1,9 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
+
+<!-- Giran Harbor PAZ 100% - By Gladieito. -->
+<zone name="GiranHarbor" type="Town" shape="NPoly" minZ="-3690" maxZ="-3370">
+<node X="49281" Y="183452" />
+<node X="50402" Y="184661" />
+<node X="52162" Y="186420" />
+<node X="52650" Y="186851" />
+<node X="51396" Y="188260" />
+<node X="49697" Y="189944" />
+<node X="48042" Y="190830" />
+<node X="45875" Y="191359" />
+<node X="43903" Y="192415" />
+<node X="42811" Y="190356" />
+<node X="41856" Y="188542" />
+<node X="47109" Y="185753" />
+<node X="47720" Y="185411" />
+</zone>
+
 <!-- Jail -->
 	<zone id='11000' type='JailZone' shape='Cuboid' minZ='-3200' maxZ='-2800' />
+
+<!-- Drop Paz -->
+	<zone id='122021' type='JailZone' shape='Cuboid' minZ='-11679' maxZ='-11679' />
+
 <!-- Monster Derby Track -->
 	<zone id='11001' type='DerbyTrackZone' shape='NPoly' minZ='-3600' maxZ='-2000' />
+
 <!-- Arenas -->
 	<zone id='11010' type='Arena' shape='Cuboid' minZ='-3800' maxZ='-3600'>
 		<stat name='name' val='Giran Arena'/>
@@ -105,6 +128,33 @@
 		<spawn X='-85589' Y='243984' Z='-3755'/>
 		<spawn X='-83050' Y='244353' Z='-3755'/>
 	</zone>
+	<zone id='122020' type='PeaceZone' shape="NPoly" minZ="-11117" maxZ="-11110">
+		<stat name='name' val='Talking Island'/>
+		<stat name='townId' val='2'/>
+		<stat name='taxById' val='1'/>
+		<spawn X='81236' Y='148638' Z='-3469'/>
+		<spawn X='81804' Y='149250' Z='-3495'/>
+		<spawn X='85598' Y='149656' Z='-3418'/>
+		<spawn X='81526' Y='151072' Z='-3559'/>
+		<spawn X='78675' Y='148622' Z='-3623'/>
+		<spawn X='85501' Y='147349' Z='-3431'/>
+		<spawn X='83920' Y='145673' Z='-3431'/>
+	</zone>
+
+
+	<zone id='122021' type='Town' shape="NPoly" minZ="-11679" maxZ="-11679">
+		<stat name='name' val='Talking Island'/>
+		<stat name='townId' val='2'/>
+		<stat name='taxById' val='1'/>
+		<spawn X='81236' Y='148638' Z='-3469'/>
+		<spawn X='81804' Y='149250' Z='-3495'/>
+		<spawn X='85598' Y='149656' Z='-3418'/>
+		<spawn X='81526' Y='151072' Z='-3559'/>
+		<spawn X='78675' Y='148622' Z='-3623'/>
+		<spawn X='85501' Y='147349' Z='-3431'/>
+		<spawn X='83920' Y='145673' Z='-3431'/>
+	</zone>
+
 	<zone id='11023' type='Town' shape="NPoly" minZ="-3600" maxZ="-2750">
 		<stat name='name' val='Elven Village'/>
 		<stat name='townId' val='3'/>

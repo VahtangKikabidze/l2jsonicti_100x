@@ -2,8 +2,8 @@
 <list>
 <item id='20272' name="Ring of Tiati">
   <for>
-    <add val='103' order='0x10' stat='mDef'/>
-    <add val='76' order='0x40' stat='maxMp'/>
+    <add val='58' order='0x10' stat='mDef'/>
+    <add val='31' order='0x40' stat='maxMp'/>
     <enchant val='0' order='0x0C' stat='mDef'/>
     <mul order="0x30" stat="poisonVuln" val="1.2"/>
     <add order="0x40" stat="accCombat" val="9"/>

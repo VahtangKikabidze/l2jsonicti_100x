@@ -228,4 +228,25 @@
     <production id="20273" count="1"/>
   </item>
 
+  <!-- Red Pipette Knife -->
+  <item id="49">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="4"/>
+    <production id="20348" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="50">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="4"/>
+    <production id="20349" count="1"/>
+  </item>
+
+  <!-- Red Pipette Knife -->
+  <item id="51">
+    <ingredient id="20141" count="1"/>
+    <ingredient id="22222" count="4"/>
+    <production id="20350" count="1"/>
+  </item>
+
 </list>

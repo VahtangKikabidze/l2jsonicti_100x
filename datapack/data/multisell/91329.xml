@@ -7,77 +7,77 @@
 
 	<!-- Forgotten Blade - Haste  -->
 	<item id="1">
-		<production id="11215" count="1"/>
+		<production id="11215" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Forgotten Blade - Health -->
 	<item id="2">
-		<production id="11216" count="1"/>
+		<production id="11216" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Forgotten Blade - Focus -->
 	<item id="3">
-		<production id="11217" count="1"/>
+		<production id="11217" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Basalt BattleHammer - HP DRAIN  -->
 	<item id="4">
-		<production id="11218" count="1"/>
+		<production id="11218" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Basalt BattleHammer - Health  -->
 	<item id="5">
-		<production id="11219" count="1"/>
+		<production id="11219" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Basalt BattleHammer - HP REGEN  -->
 	<item id="6">
-		<production id="11220" count="1"/>
+		<production id="11220" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Imperial Staff - Empower  -->
 	<item id="7">
-		<production id="11221" count="1"/>
+		<production id="11221" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Imperial Staff - MP REGEN  -->
 	<item id="8">
-		<production id="11222" count="1"/>
+		<production id="11222" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Imperial Staff - Magic Hold  -->
 	<item id="9">
-		<production id="11223" count="1"/>
+		<production id="11223" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Angel Slayer - Critical Damage  -->
 	<item id="10">
-		<production id="11224" count="1"/>
+		<production id="11224" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Angel Slayer - Hp Drain  -->
 	<item id="11">
-		<production id="11225" count="1"/>
+		<production id="11225" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Angel Slayer - Haste  -->
 	<item id="12">
-		<production id="11226" count="1"/>
+		<production id="11226" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Draconic Bow - Cheap Shot  -->
 	<item id="13">
-		<production id="11227" count="1"/>
+		<production id="11227" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Draconic Bow - Focus -->
 	<item id="14">
-		<production id="11228" count="1"/>
+		<production id="11228" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 	<!-- Draconic Bow - Critical Slow -->
 	<item id="15">
-		<production id="11229" count="1"/>
+		<production id="11229" count="2"/>
     <ingredient id="22222" count="2"/>
 	</item>
 </list>

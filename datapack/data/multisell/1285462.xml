@@ -5,19 +5,19 @@
 <list>
 <!-- Damascus -->
   <item id="1">
-    <ingredient id="22222" count="10"/>
+    <ingredient id="22222" count="18"/>
     <production id="10248" count="1"/>
   </item>
 
 <!-- Lance -->
   <item id="2">
-    <ingredient id="22222" count="10"/>
+    <ingredient id="22222" count="18"/>
     <production id="10249" count="1"/>
   </item>
 
 <!-- Lance -->
   <item id="3">
-    <ingredient id="22222" count="10"/>
+    <ingredient id="22222" count="18"/>
     <production id="10229" count="1"/>
   </item>
 

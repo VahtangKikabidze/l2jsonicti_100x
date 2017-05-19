@@ -4,12 +4,6 @@
 
 <list>
 
-  <!-- Gold Bar -->
-  <item id="1">
-    <ingredient id="22222" count="15"/>
-    <production id="3470" count="1"/>
-  </item>
-
   <!-- Hades Dagger -->
   <item id="2">
     <ingredient id="22222" count="1"/>

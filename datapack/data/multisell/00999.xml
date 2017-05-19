@@ -28,28 +28,4 @@
     <production id="6393" count="1000"/>
   </item>
 
-  <!-- Devil Spear -->
-  <item id="5">
-    <ingredient id="22222" count="4"/>
-    <production id="15008" count="1"/>
-  </item>
-
-  <!-- Medusa Blade -->
-  <item id="6">
-    <ingredient id="22222" count="4"/>
-    <production id="15010" count="1"/>
-  </item>
-
-  <!-- Hades Dagger -->
-  <item id="7">
-    <ingredient id="22222" count="4"/>
-    <production id="6392" count="1000"/>
-  </item>
-
-  <!-- Hades Dagger -->
-  <item id="8">
-    <ingredient id="22222" count="4"/>
-    <production id="6393" count="1000"/>
-  </item>
-
 </list>

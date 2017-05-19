@@ -22,7 +22,7 @@ ITEM_ID = 22222
 
 # X-Line Extremo:
 # Contagem do Item
-NAME_COUNT = 15
+NAME_COUNT = 5
 
 # ============================================================================
 

@@ -6,205 +6,205 @@
 
   <!-- Necklace of Valakas -->
   <item id="1">
-    <ingredient id="20331" count="1000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="6657" count="1"/>
   </item>
 
   <!-- Frintezza's Necklace -->
   <item id="2">
-    <ingredient id="20331" count="750"/>
+    <ingredient id="20331" count="2500"/>
     <production id="8191" count="1"/>
   </item>
 
   <!-- Ring of Queen Ant -->
   <item id="3">
-    <ingredient id="20331" count="1000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="6660" count="1"/>
   </item>
 
   <!-- Ring of Baium -->
   <item id="4">
-    <ingredient id="20331" count="1000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="6658" count="1"/>
   </item>
 
   <!-- Ring of Core -->
   <item id="5">
-    <ingredient id="20331" count="600"/>
+    <ingredient id="20331" count="2000"/>
     <production id="6662" count="1"/>
   </item>
 
   <!-- Earring of Antharas -->
   <item id="6">
-    <ingredient id="20331" count="1000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="6656" count="1"/>
   </item>
 
   <!-- Zaken's Earring -->
   <item id="7">
-    <ingredient id="20331" count="1000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="6659" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="8">
-    <ingredient id="20331" count="600"/>
+    <ingredient id="20331" count="2000"/>
     <production id="6661" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="9">
-    <ingredient id="20331" count="5000"/>
+    <ingredient id="20331" count="12000"/>
     <production id="20272" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="10">
-    <ingredient id="20331" count="85"/>
+    <ingredient id="20331" count="100"/>
     <production id="15006" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="11">
-    <ingredient id="20331" count="20"/>
+    <ingredient id="20331" count="50"/>
     <production id="1538" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="12">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="50"/>
     <production id="3936" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="13">
-    <ingredient id="20331" count="20"/>
+    <ingredient id="20331" count="50"/>
     <production id="5858" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="14">
-    <ingredient id="20331" count="20"/>
+    <ingredient id="20331" count="50"/>
     <production id="5859" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="15">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3926" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="16">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3927" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="17">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3928" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="18">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3929" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="19">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3930" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="20">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3931" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="21">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3932" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="22">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3933" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="23">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3934" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="24">
-    <ingredient id="20331" count="10"/>
+    <ingredient id="20331" count="25"/>
     <production id="3935" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="25">
-    <ingredient id="20331" count="50"/>
+    <ingredient id="20331" count="250"/>
     <production id="6575" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="26">
-    <ingredient id="20331" count="50"/>
+    <ingredient id="20331" count="250"/>
     <production id="6576" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="27">
-    <ingredient id="20331" count="150"/>
+    <ingredient id="20331" count="450"/>
     <production id="6573" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="28">
-    <ingredient id="20331" count="150"/>
+    <ingredient id="20331" count="450"/>
     <production id="6574" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="29">
-    <ingredient id="20331" count="300"/>
+    <ingredient id="20331" count="850"/>
     <production id="6571" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="30">
-    <ingredient id="20331" count="300"/>
+    <ingredient id="20331" count="850"/>
     <production id="6572" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="31">
-    <ingredient id="20331" count="850"/>
+    <ingredient id="20331" count="2500"/>
     <production id="6569" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="32">
-    <ingredient id="20331" count="850"/>
+    <ingredient id="20331" count="2500"/>
     <production id="6570" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="33">
-    <ingredient id="20331" count="1500"/>
+    <ingredient id="20331" count="3500"/>
     <production id="6577" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="34">
-    <ingredient id="20331" count="1500"/>
+    <ingredient id="20331" count="3500"/>
     <production id="6578" count="1"/>
   </item>
 
@@ -216,43 +216,43 @@
 
   <!-- Earring of Orfen -->
   <item id="36">
-    <ingredient id="20331" count="500"/>
+    <ingredient id="20331" count="800"/>
     <production id="6622" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="37">
-    <ingredient id="20331" count="2500"/>
+    <ingredient id="20331" count="6000"/>
     <production id="10248" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="38">
-    <ingredient id="20331" count="2500"/>
+    <ingredient id="20331" count="6000"/>
     <production id="10249" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="39">
-    <ingredient id="20331" count="85"/>
+    <ingredient id="20331" count="125"/>
     <production id="9616" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="40">
-    <ingredient id="20331" count="100"/>
+    <ingredient id="20331" count="250"/>
     <production id="9617" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="41">
-    <ingredient id="20331" count="3000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="28134" count="1"/>
   </item>
 
   <!-- Earring of Orfen -->
   <item id="42">
-    <ingredient id="20331" count="3000"/>
+    <ingredient id="20331" count="4500"/>
     <production id="28135" count="1"/>
   </item>
 
