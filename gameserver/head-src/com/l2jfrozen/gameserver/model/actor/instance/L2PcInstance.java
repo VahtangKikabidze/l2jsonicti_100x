@@ -6595,23 +6595,23 @@ private int _reviveRequested = 0;
 
 			if(pvpKillAmount >= Config.PVP_AMOUNT1 && pvpKillAmount < Config.PVP_AMOUNT2)
 			{
-				getAppearance().setNameColor(Config.NAME_COLOR_FOR_PVP_AMOUNT1);
+				getAppearance().setTitleColor(Config.NAME_COLOR_FOR_PVP_AMOUNT1);
 			}
 			else if(pvpKillAmount >= Config.PVP_AMOUNT2 && pvpKillAmount < Config.PVP_AMOUNT3)
 			{
-				getAppearance().setNameColor(Config.NAME_COLOR_FOR_PVP_AMOUNT2);
+				getAppearance().setTitleColor(Config.NAME_COLOR_FOR_PVP_AMOUNT2);
 			}
 			else if(pvpKillAmount >= Config.PVP_AMOUNT3 && pvpKillAmount < Config.PVP_AMOUNT4)
 			{
-				getAppearance().setNameColor(Config.NAME_COLOR_FOR_PVP_AMOUNT3);
+				getAppearance().setTitleColor(Config.NAME_COLOR_FOR_PVP_AMOUNT3);
 			}
 			else if(pvpKillAmount >= Config.PVP_AMOUNT4 && pvpKillAmount < Config.PVP_AMOUNT5)
 			{
-				getAppearance().setNameColor(Config.NAME_COLOR_FOR_PVP_AMOUNT4);
+				getAppearance().setTitleColor(Config.NAME_COLOR_FOR_PVP_AMOUNT4);
 			}
 			else if(pvpKillAmount >= Config.PVP_AMOUNT5)
 			{
-				getAppearance().setNameColor(Config.NAME_COLOR_FOR_PVP_AMOUNT5);
+				getAppearance().setTitleColor(Config.NAME_COLOR_FOR_PVP_AMOUNT5);
 			}
 		}
 	}
@@ -6634,23 +6634,23 @@ private int _reviveRequested = 0;
 
 			if(pkKillAmount >= Config.PK_AMOUNT1 && pkKillAmount < Config.PVP_AMOUNT2)
 			{
-				getAppearance().setTitleColor(Config.TITLE_COLOR_FOR_PK_AMOUNT1);
+				getAppearance().setNameColor(Config.TITLE_COLOR_FOR_PK_AMOUNT1);
 			}
 			else if(pkKillAmount >= Config.PK_AMOUNT2 && pkKillAmount < Config.PVP_AMOUNT3)
 			{
-				getAppearance().setTitleColor(Config.TITLE_COLOR_FOR_PK_AMOUNT2);
+				getAppearance().setNameColor(Config.TITLE_COLOR_FOR_PK_AMOUNT2);
 			}
 			else if(pkKillAmount >= Config.PK_AMOUNT3 && pkKillAmount < Config.PVP_AMOUNT4)
 			{
-				getAppearance().setTitleColor(Config.TITLE_COLOR_FOR_PK_AMOUNT3);
+				getAppearance().setNameColor(Config.TITLE_COLOR_FOR_PK_AMOUNT3);
 			}
 			else if(pkKillAmount >= Config.PK_AMOUNT4 && pkKillAmount < Config.PVP_AMOUNT5)
 			{
-				getAppearance().setTitleColor(Config.TITLE_COLOR_FOR_PK_AMOUNT4);
+				getAppearance().setNameColor(Config.TITLE_COLOR_FOR_PK_AMOUNT4);
 			}
 			else if(pkKillAmount >= Config.PK_AMOUNT5)
 			{
-				getAppearance().setTitleColor(Config.TITLE_COLOR_FOR_PK_AMOUNT5);
+				getAppearance().setNameColor(Config.TITLE_COLOR_FOR_PK_AMOUNT5);
 			}
 		}
 	}

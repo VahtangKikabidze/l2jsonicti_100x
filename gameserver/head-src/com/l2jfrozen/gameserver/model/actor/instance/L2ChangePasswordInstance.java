@@ -133,17 +133,17 @@ public class L2ChangePasswordInstance extends L2FolkInstance
  {
  if (newPass.length() < 3)
  {
- activeChar.sendMessage("The new password is too short!");
+ activeChar.sendMessage("Nova senha muito curta!");
  return false;
  }
  if (newPass.length() > 16)
  {
- activeChar.sendMessage("The new password is too long!");
+ activeChar.sendMessage("Nova senha muito longa!");
  return false;
  }
  if (!newPass.equals(repeatNewPass))
  {
- activeChar.sendMessage("Repeated password doesn't match the new password.");
+ activeChar.sendMessage("Campos de Nova senha nao estao iguais!");
  return false;
  }
 
@@ -178,7 +178,7 @@ public class L2ChangePasswordInstance extends L2FolkInstance
  statement2.executeUpdate();
  statement2.close();
 
- activeChar.sendMessage("Your password has been changed successfully! For security reasons, You will be disconnected. Please login again!");
+ activeChar.sendMessage("Sua senha foi alterada! Por seguranca, Voce sera desconectado. Por favor, faca login novamente!");
  try
  {
  Thread.sleep(3000L);
@@ -196,7 +196,7 @@ public class L2ChangePasswordInstance extends L2FolkInstance
  }
  else
  {
- activeChar.sendMessage("The current password you've inserted is incorrect! Please try again!");
+ activeChar.sendMessage("Senha atual Incorreta! Por favor, tente novamente!");
 
  return password2 != null;
  }
