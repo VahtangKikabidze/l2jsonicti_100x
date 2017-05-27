@@ -449,7 +449,7 @@ public class Olympiad
 		// To avoid possible bug during Olympiad, observer char can't join
 		if(noble.inObserverMode())
 		{
-			noble.sendMessage("You can't participate to Olympiad. You are in Observer Mode, try to restart!");
+			noble.sendMessage("Voce nao pode participar das Olimpiadas. Voce esta no modo de Observacao, tente dar Restart!");
 			return false;
 		}
 		
@@ -493,18 +493,18 @@ public class Olympiad
 
 		if (classBased && getNoblePoints(noble.getObjectId()) < 3)
 		{
-			noble.sendMessage("Cant register when you have less than 3 points");
+			noble.sendMessage("Nao pode se Registrar com menos de 3 Pontos");
 			return false;
 		}
 		if (!classBased && getNoblePoints(noble.getObjectId()) < 5)
 		{
-			noble.sendMessage("Cant register when you have less than 5 points");
+			noble.sendMessage("Nao pode se Registrar com menos de 5 Pontos");
 			return false;
 		}
 					  
 					   if(noble.isAio())
 					   {
-							   noble.sendMessage("AIO nao pode participar de Olympiadas.");
+							   noble.sendMessage("AIO nao pode participar das Olympiadas.");
 							   return false;
 					   }
 		
@@ -655,7 +655,7 @@ public class Olympiad
 			
 			if ((game._playerOne != null && game._playerOne.getObjectId() == noble.getObjectId()) || (game._playerTwo != null && game._playerTwo.getObjectId() == noble.getObjectId()))
 			{
-				noble.sendMessage("Can't deregister whilst you are already selected for a game");
+				noble.sendMessage("Nao pode Remover seu Registro apos ser chamado para o Campo de Batalha");
 				return false;
 			}
 		}

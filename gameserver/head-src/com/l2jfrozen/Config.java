@@ -2638,7 +2638,7 @@ public final class Config
 		catch(Exception e)
 		{
 			e.printStackTrace();
-			throw new Error("Failed to Load " + L2JFROZEN + " File.");
+			throw new Error("Falha ao Carregar " + L2JFROZEN + " File.");
 		}
 	}
 
@@ -2845,7 +2845,7 @@ public final class Config
 		catch(Exception e)
 		{
 			e.printStackTrace();
-			throw new Error("Failed to Load " + PVP + " File.");
+			throw new Error("Falha ao Carregar " + PVP + " File.");
 		}
 	}
 
@@ -2960,7 +2960,7 @@ public final class Config
 		catch(Exception e)
 		{
 			e.printStackTrace();
-			throw new Error("Failed to Load " + OLYMPC + " File.");
+			throw new Error("Falha ao Carregar " + OLYMPC + " File.");
 		}
 	}
 

@@ -94,7 +94,7 @@ public final class RequestBuyItem extends L2GameClientPacket
 
 		if (!getClient().getFloodProtectors().getTransaction().tryPerformAction("buy"))
 		{
-			player.sendMessage("You buying too fast.");
+			player.sendMessage("Voce esta Comprando Muito Rapido.");
 			return;
 		}
 		
@@ -152,7 +152,7 @@ public final class RequestBuyItem extends L2GameClientPacket
 		}
 		else if(!ok && !player.isGM())
 		{
-			player.sendMessage("Invalid Target: Seller must be targetted");
+			player.sendMessage("Alvo Invalido: Vendedor deve estar na Mira");
 			return;
 		}
 

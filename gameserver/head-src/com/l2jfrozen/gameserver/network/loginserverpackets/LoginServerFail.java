@@ -23,14 +23,14 @@ public class LoginServerFail extends LoginServerBasePacket
 
 	private static final String[] REASONS =
 	{
-			"None",
-			"Reason: ip banned",
-			"Reason: ip reserved",
-			"Reason: wrong hexid",
-			"Reason: id reserved",
-			"Reason: no free ID",
+			"Nenhuma",
+			"Razao: ip banido",
+			"Razao: ip reservado",
+			"Razao: hexid Incorreta",
+			"Razao: id reservado",
+			"Razao: Sem ID Livre",
 			"Not authed",
-			"Reason: already logged in"
+			"Razao: Ja esta Logado"
 	};
 	private int _reason;
 

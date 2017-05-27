@@ -34,7 +34,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );
@@ -126,7 +126,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );
@@ -196,7 +196,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );
@@ -275,7 +275,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );
@@ -352,7 +352,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );
@@ -418,7 +418,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );
@@ -495,7 +495,7 @@ public class L2RBManager
 	{	
 		if(!player.isInParty() || !player.getParty().isLeader(player))
 		{
-			player.sendMessage("You are not a party leader");
+			player.sendMessage("Voce nao e o Lider da Party");
 			return;
 		}
 		int unstuckTimer = (Config.UNSTUCK_INTERVAL*1000 );

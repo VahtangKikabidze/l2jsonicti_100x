@@ -1449,19 +1449,19 @@ public class TvT implements EventTask
 	{
 		if(checkShufflePlayers(eventPlayer) || eventPlayer._inEventTvT)
 		{
-			eventPlayer.sendMessage("You already participated in the event!");
+			eventPlayer.sendMessage("Voce ja esta participando do Evento!");
 			return false;
 		}
 
 		if(eventPlayer._inEventCTF || eventPlayer._inEventDM)
 		{
-			eventPlayer.sendMessage("You already participated in another event!"); 
+			eventPlayer.sendMessage("Voce ja esta participando de outro Evento!"); 
 			return false;
 		}
 		
 		if(Olympiad.getInstance().isRegistered(eventPlayer) || eventPlayer.isInOlympiadMode())
 		{
-			eventPlayer.sendMessage("You already participated in Olympiad!"); 
+			eventPlayer.sendMessage("Voce ja esta participando das Olimpiadas!"); 
 			return false;
 		}
 		
@@ -1473,7 +1473,7 @@ public class TvT implements EventTask
 					L2PcInstance player = L2World.getInstance().getPlayer(character_name);
 					
 					if(player!=null && player._inEventTvT){
-						eventPlayer.sendMessage("You already participated in event with another char!"); 
+						eventPlayer.sendMessage("Voce ja esta participando do Evento com outro Personagem!"); 
 						return false;
 					}
 				}
@@ -1487,19 +1487,19 @@ public class TvT implements EventTask
 			{
 				if(player.getObjectId()==eventPlayer.getObjectId())
 				{
-					eventPlayer.sendMessage("You already participated in the event!"); 
+					eventPlayer.sendMessage("Voce ja esta participando do Evento!"); 
 					return false;
 				}
 				else if(player.getName().equalsIgnoreCase(eventPlayer.getName()))
 				{
-					eventPlayer.sendMessage("You already participated in the event!"); 
+					eventPlayer.sendMessage("Voce ja esta participando do Evento!"); 
 					return false;
 				}
 			}
 
 			if(_players.contains(eventPlayer))
 			{
-				eventPlayer.sendMessage("You already participated in the event!");
+				eventPlayer.sendMessage("Voce ja esta participando do Evento!");
 				return false;
 			}
 		}
@@ -2026,7 +2026,7 @@ public class TvT implements EventTask
 
 		player._inEventTvT = true;
 		player._countTvTkills = 0;
-		player.sendMessage(_eventName+": You successfully registered for the event.");
+		player.sendMessage(_eventName+": Registrado no Evento com Sucesso.");
 	}
 
 	/**
@@ -2070,7 +2070,7 @@ public class TvT implements EventTask
 				
 			}
 			
-			player.sendMessage("Your participation in the TvT event has been removed.");
+			player.sendMessage("Sua participacao no TvT foi Removida.");
 		}
 	}
 
@@ -2737,7 +2737,7 @@ public class TvT implements EventTask
 				playerToKick.setKarma(playerToKick._originalKarmaTvT);
 				playerToKick.setTitle(playerToKick._originalTitleTvT);
 				playerToKick.broadcastUserInfo();
-				playerToKick.sendMessage("You have been kicked from the TvT.");
+				playerToKick.sendMessage("Voce foi chutado do TvT.");
 				playerToKick.teleToLocation(_npcX, _npcY, _npcZ, false);
 				playerToKick.teleToLocation(_npcX + Rnd.get(201) - 100, _npcY + Rnd.get(201) - 100, _npcZ, false);
 			}

@@ -238,15 +238,15 @@ public class EnterWorld extends L2GameClientPacket
 							//Delete Item Over enchanted
 							activeChar.getInventory().destroyItem(null, i, activeChar, null);
 							//Message to Player
-							activeChar.sendMessage("[Server]: You have over enchanted items you will be kicked from server!");
-							activeChar.sendMessage("[Server]: Respect our server rules.");
+							activeChar.sendMessage("[Server]: Encantamento Proibido, Voce sera Chutado do Servidor. GM Informado!");
+							activeChar.sendMessage("[Server]: Respeito as Regras do Servidor.");
 							//Message with screen
-							sendPacket(new ExShowScreenMessage(" You have an over enchanted item, you will be kicked from server! ", 6000));
+							sendPacket(new ExShowScreenMessage(" Voce possui Item(s) com Encantamento Proibido, Voce sera Chutado do Servidor. GM Informado! ", 6000));
 							//Punishment e log in audit
-							Util.handleIllegalPlayerAction(activeChar, "Player " + activeChar.getName() + " has Overenchanted  item! Kicked! ", Config.DEFAULT_PUNISH);                     
+							Util.handleIllegalPlayerAction(activeChar, "Player " + activeChar.getName() + " com Encantamento Proibino no Item! Kicked! ", Config.DEFAULT_PUNISH);                     
 							//Logger in console
 							_log.info("#### ATTENTION ####");
-							_log.info(i+" item has been removed from "+activeChar);
+							_log.info(i+" item foi Removido de "+activeChar);
 						}
 
 					}
@@ -301,9 +301,8 @@ public class EnterWorld extends L2GameClientPacket
 		
 		
 		// Credits to L2jSonicTi
-		activeChar.sendMessage("Lineage II SonicTi Interlude Server 100x");
+		activeChar.sendMessage("Lineage II SonicTi Interlude Server 75x");
 		activeChar.sendMessage("Desenvolvido por AllInOne, Staff Master Lineage II SonicTi");
-		activeChar.sendMessage("Todos os Direitos Reservados.");
 
 		//Information when character is logged
 		   activeChar.sendMessage("Bem Vindo: " + activeChar.getName());
@@ -451,7 +450,7 @@ public class EnterWorld extends L2GameClientPacket
 		// Means that it's not ok multiBox situation, so logout
 		if (!activeChar.checkMultiBox())
 		{
-			activeChar.sendMessage("I'm sorry, but multibox is not allowed here.");
+			activeChar.sendMessage("Multibox nao Permitidas.");
 			activeChar.logout();
 		}
 		
@@ -654,14 +653,14 @@ public class EnterWorld extends L2GameClientPacket
 		if (Config.ENABLE_VERSION_MESSAGE)
 					{
 					activeChar.sendMessage("========================================");
-			        activeChar.sendMessage("Projeto Lineage II SonicTi Interlude Server");
+			        activeChar.sendMessage("Lineage II SonicTi Interlude Server");
 					activeChar.sendMessage("Versao Atual:  " + Config.SERVER_VERSION + "");
 					activeChar.sendMessage("========================================");
 					}
 			
 		
 		if (Config.SERVER_TIME_ON_START)
-			activeChar.sendMessage("SVR time is " + fmt.format(new Date(System.currentTimeMillis())));
+			activeChar.sendMessage("Hora atual no Servidor" + fmt.format(new Date(System.currentTimeMillis())));
 	}
 
 	private void ColorSystem(L2PcInstance activeChar)
@@ -739,20 +738,20 @@ public class EnterWorld extends L2GameClientPacket
     		activeChar.setAio(false);
     		activeChar.setAioEndTime(0);
     		activeChar.lostAioSkills();
-    		activeChar.sendMessage("[Aio System]: Removed your Aio stats... period ends.");
+    		activeChar.sendMessage("[Aio System]: Status AIO Removido... PPeriodo terminado.");
     	}
     	else
     	{
     		Date dt = new Date(endDay);
     		_daysleft = (endDay - now)/86400000;
     		if (_daysleft > 30)
-    			activeChar.sendMessage("[Aio System]: Aio period ends in " + df.format(dt) + ". enjoy the Game.");
+    			activeChar.sendMessage("[Aio System]: Periodo AIO termina em " + df.format(dt) + ". Aproveite.");
     		else if (_daysleft > 0)
-    			activeChar.sendMessage("[Aio System]: Left " + (int)_daysleft + " for Aio period ends.");
+    			activeChar.sendMessage("[Aio System]: Restam " + (int)_daysleft + " para terminar o periodo de AIO.");
     		else if (_daysleft < 1)
     		{
     			long hour = (endDay - now)/3600000;
-    			activeChar.sendMessage("[Aio System]: Left " + (int)hour + " hours to Aio period ends.");
+    			activeChar.sendMessage("[Aio System]: Restam " + (int)hour + " horas para terminar o periodo de AIO.");
     		}
     	}
 	}
@@ -798,7 +797,7 @@ public class EnterWorld extends L2GameClientPacket
 				partner = (L2PcInstance) L2World.getInstance().findObject(cha.getPartnerId());
 			
 			if (partner != null)
-				partner.sendMessage("Your partner has logged in");
+				partner.sendMessage("Seu parceiro acabou de Logar!");
 		}
 	}
 
@@ -889,7 +888,7 @@ public class EnterWorld extends L2GameClientPacket
 	     */
 	    private void ShowNextRestart(L2PcInstance activeChar)
 	    {
-	            activeChar.sendMessage("Next Restart: " + Restart.getInstance().getRestartNextTime()); 
+	            activeChar.sendMessage("Proximo Restart: " + Restart.getInstance().getRestartNextTime()); 
 	    }
 		
 	@Override

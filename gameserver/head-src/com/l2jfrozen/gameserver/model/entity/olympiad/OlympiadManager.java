@@ -122,7 +122,7 @@ class OlympiadManager implements Runnable
 									{
 										for (L2PcInstance player : _olympiadInstances.get(i).getPlayers())
 										{
-											player.sendMessage("Your olympiad registration was canceled due to an error");
+											player.sendMessage("Seu Registro nas Olimpiadas foi Cancelado devido a um Erro");
 											player.setIsInOlympiadMode(false);
 											player.setIsOlympiadStart(false);
 											player.setOlympiadSide(-1);
@@ -153,7 +153,7 @@ class OlympiadManager implements Runnable
 									{
 										for (L2PcInstance player : _olympiadInstances.get(i).getPlayers())
 										{
-											player.sendMessage("Your olympiad registration was canceled due to an error");
+											player.sendMessage("Seu Registro nas Olimpiadas foi Cancelado devido a um Erro");
 											player.setIsInOlympiadMode(false);
 											player.setIsOlympiadStart(false);
 											player.setOlympiadSide(-1);
@@ -186,7 +186,7 @@ class OlympiadManager implements Runnable
 									{
 										for (L2PcInstance player : _olympiadInstances.get(i).getPlayers())
 										{
-											player.sendMessage("Your olympiad registration was canceled due to an error");
+											player.sendMessage("Seu Registro nas Olimpiadas foi Cancelado devido a um Erro");
 											player.setIsInOlympiadMode(false);
 											player.setIsOlympiadStart(false);
 											player.setOlympiadSide(-1);
@@ -216,7 +216,7 @@ class OlympiadManager implements Runnable
 									{
 										for (L2PcInstance player : _olympiadInstances.get(i).getPlayers())
 										{
-											player.sendMessage("Your olympiad registration was canceled due to an error");
+											player.sendMessage("Seu Registro nas Olimpiadas foi Cancelado devido a um Erro");
 											player.setIsInOlympiadMode(false);
 											player.setIsOlympiadStart(false);
 											player.setOlympiadSide(-1);

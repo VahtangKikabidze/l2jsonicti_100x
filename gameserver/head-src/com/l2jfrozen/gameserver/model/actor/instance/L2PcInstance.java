@@ -2073,7 +2073,7 @@ private int _reviveRequested = 0;
 		// prevent from player disconnect when in Event
 		if(atEvent)
 		{
-			sendMessage("A superior power doesn't allow you to leave the event.");
+			sendMessage("Uma forca superior nao esta deixando voce sair do Evento.");
 			sendPacket(ActionFailed.STATIC_PACKET);
 		}
 		
@@ -4084,7 +4084,7 @@ private int _reviveRequested = 0;
 			skills = SkillTreeTable.getInstance().getAvailableSkills(this, getClassId());
 		}
 
-		sendMessage("You have learned " + skillCounter + " new skills.");
+		sendMessage("Voce aprendeu " + skillCounter + " novas Skills.");
 		skills = null;
 	}
 
@@ -5994,61 +5994,61 @@ private int _reviveRequested = 0;
 						{
 							if (player.getLevel() > 20 && ((L2Character) player.getTarget()).getLevel() < 20)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() > 40 && ((L2Character) player.getTarget()).getLevel() < 40)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() > 52 && ((L2Character) player.getTarget()).getLevel() < 52)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() > 61 && ((L2Character) player.getTarget()).getLevel() < 61)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() > 76 && ((L2Character) player.getTarget()).getLevel() < 76)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() < 20 && ((L2Character) player.getTarget()).getLevel() > 20)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() < 40 && ((L2Character) player.getTarget()).getLevel() > 40)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() < 52 && ((L2Character) player.getTarget()).getLevel() > 52)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() < 61 && ((L2Character) player.getTarget()).getLevel() > 61)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 							
 							if (player.getLevel() < 76 && ((L2Character) player.getTarget()).getLevel() > 76)
 							{
-								player.sendMessage("Your target is not in your grade!");
+								player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 								player.sendPacket(ActionFailed.STATIC_PACKET);
 							}
 						}
@@ -6056,7 +6056,7 @@ private int _reviveRequested = 0;
 					}
 					if (player.getLevel() < Config.ALT_PLAYER_PROTECTION_LEVEL || getLevel() < Config.ALT_PLAYER_PROTECTION_LEVEL)
 					{
-						player.sendMessage("You Can't Hit a Player That Is Lower Level From You. Target's Level: " + String.valueOf(Config.ALT_PLAYER_PROTECTION_LEVEL));
+						player.sendMessage("Voce nao pode atacar um jogador de nivel mais baixo que o seu. Nivel do Alvo: " + String.valueOf(Config.ALT_PLAYER_PROTECTION_LEVEL));
 						player.sendPacket(ActionFailed.STATIC_PACKET);
 					}
 					// Player with lvl < 21 can't attack a cursed weapon holder
@@ -6202,61 +6202,61 @@ private int _reviveRequested = 0;
 							{
 								if (player.getLevel() > 20 && ((L2Character) player.getTarget()).getLevel() < 20)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() > 40 && ((L2Character) player.getTarget()).getLevel() < 40)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() > 52 && ((L2Character) player.getTarget()).getLevel() < 52)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() > 61 && ((L2Character) player.getTarget()).getLevel() < 61)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() > 76 && ((L2Character) player.getTarget()).getLevel() < 76)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() < 20 && ((L2Character) player.getTarget()).getLevel() > 20)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() < 40 && ((L2Character) player.getTarget()).getLevel() > 40)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() < 52 && ((L2Character) player.getTarget()).getLevel() > 52)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() < 61 && ((L2Character) player.getTarget()).getLevel() > 61)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 								
 								if (player.getLevel() < 76 && ((L2Character) player.getTarget()).getLevel() > 76)
 								{
-									player.sendMessage("Your target is not in your grade!");
+									player.sendMessage("O Alvo nao esta na mesma Grade que voce!");
 									player.sendPacket(ActionFailed.STATIC_PACKET);
 								}
 							}
@@ -6264,7 +6264,7 @@ private int _reviveRequested = 0;
 						}
 						if (player.getLevel() < Config.ALT_PLAYER_PROTECTION_LEVEL || getLevel() < Config.ALT_PLAYER_PROTECTION_LEVEL)
 						{
-							player.sendMessage("You Can't Hit a Player That Is Lower Level From You. Target's Level: " + String.valueOf(Config.ALT_PLAYER_PROTECTION_LEVEL));
+							player.sendMessage("Voce nao pode atacar um jogador de nivel mais baixo que o seu. Nivel do Alvo: " + String.valueOf(Config.ALT_PLAYER_PROTECTION_LEVEL));
 							player.sendPacket(ActionFailed.STATIC_PACKET);
 						}
 						// Player with lvl < 21 can't attack a cursed weapon holder
@@ -6919,7 +6919,7 @@ private int _reviveRequested = 0;
 			
 			if (target.getItemId() == 57 && _inventory.getAdena() == Integer.MAX_VALUE)
 			{
-				sendMessage("You have reached the maximum amount of adena, please spend or deposit the adena so you may continue obtaining adena.");
+				sendMessage("Limite maximo de Adena atingido, gaste ou Deposite para continuar arrecadando.");
 				return;
 			}
 			
@@ -7416,11 +7416,11 @@ private int _reviveRequested = 0;
 				if(answer == 1)
 				{
 					CoupleManager.getInstance().createCouple(ptarget, L2PcInstance.this);
-					ptarget.sendMessage("Request to Engage has been >ACCEPTED<");
+					ptarget.sendMessage("Pedido de Noivado >ACEITO<");
 				}
 				else
 				{
-					ptarget.sendMessage("Request to Engage has been >DENIED<!");
+					ptarget.sendMessage("Pedido de Noivado >RECUSADO<!");
 				}
 
 				ptarget = null;
@@ -8089,7 +8089,7 @@ private int _reviveRequested = 0;
 			//Anti FARM level player < 40
 			if(Config.ANTI_FARM_LVL_DIFF_ENABLED && targetPlayer.getLevel() < Config.ANTI_FARM_MAX_LVL_DIFF)
 			{
-				this.sendMessage("Farm is punishable with Ban! Don't kill new players! Gm informed.");
+				this.sendMessage("Proibido matar Novos Players! GM Informado.");
 				_log.warning("PVP POINT FARM ATTEMPT, " + this.getName() + " and " + targetPlayer.getName() +". LVL DIFF.");
 				return false;
 			}       
@@ -8164,7 +8164,7 @@ private int _reviveRequested = 0;
 					int amount = Config.PVP_REWARD_AMOUNT;
 					
 					getInventory().addItem("Winning PvP", Config.PVP_REWARD_ID, Config.PVP_REWARD_AMOUNT, this, null);
-					sendMessage("You have earned " + amount + " item(s) of " + reward.getName() + ".");
+					sendMessage("Voce ganhou " + amount + " item(s) de " + reward.getName() + ".");
 				}
 
 				if(!Config.FORCE_INVENTORY_UPDATE)
@@ -8183,7 +8183,7 @@ private int _reviveRequested = 0;
 					L2Item reward = ItemTable.getInstance().getTemplate(item);
 					int amount = Config.PK_REWARD_AMOUNT;
 					getInventory().addItem("Winning PK", Config.PK_REWARD_ID, Config.PK_REWARD_AMOUNT, this, null);
-					sendMessage("You have earned " + amount + " item(s) of " + reward.getName() + ".");
+					sendMessage("Voce ganhou " + amount + " item(s) de " + reward.getName() + ".");
 				}
 
 				if(!Config.FORCE_INVENTORY_UPDATE)
@@ -8450,8 +8450,8 @@ private int _reviveRequested = 0;
 				CloseUtil.close(conect);
 				conect = null;
 			}
-			sendMessage("You have been killed " + kills + " times by " + PlayerWhoKilled.getName() + ".");
-			PlayerWhoKilled.sendMessage("You have killed " + getName() + " " + kills + " times.");
+			sendMessage("Voce foi morto " + kills + " vezes por " + PlayerWhoKilled.getName() + ".");
+			PlayerWhoKilled.sendMessage("Voce foi morto " + getName() + " " + kills + " vezes.");
 		}
 		else
 		{
@@ -8481,8 +8481,8 @@ private int _reviveRequested = 0;
 				CloseUtil.close(conect2);
 				conect2 = null;
 			}
-			sendMessage("This is the first time you have been killed by " + PlayerWhoKilled.getName() + ".");
-			PlayerWhoKilled.sendMessage("You have killed " + getName() + " for the first time.");
+			sendMessage("Esta e a primeira vez que voce e morto por " + PlayerWhoKilled.getName() + ".");
+			PlayerWhoKilled.sendMessage("Voce foi morto por " + getName() + " pela primeira vez.");
 		}
 		killer = null;
 		killed = null;
@@ -15618,17 +15618,17 @@ private int _reviveRequested = 0;
 
 		if(_isInvul)
 		{
-			sendMessage("Entering world in Invulnerable mode.");
+			sendMessage("Logado no modo Invuneravel.");
 		}
 
 		if(getAppearance().getInvisible())
 		{
-			sendMessage("Entering world in Invisible mode.");
+			sendMessage("Logado no modo Invisivel.");
 		}
 
 		if(getMessageRefusal())
 		{
-			sendMessage("Entering world in Message Refusal mode.");
+			sendMessage("Logado com Chat Desabilitado.");
 		}
 
 		revalidateZone(true);
@@ -19647,7 +19647,7 @@ public boolean dismount()
 		    			_punishLevel = state;
 		    			stopPunishTask(true);
 		    			sendPacket(new EtcStatusUpdate(this));
-			            sendMessage("Your Chat ban has been lifted");
+			            sendMessage("Punicao de Chat retirada");
 			            break;
 		    		}
 	    			case JAIL:
@@ -19659,7 +19659,7 @@ public boolean dismount()
 			            if (jailInfos != null)
 			                htmlMsg.setHtml(jailInfos);
 			            else
-			                htmlMsg.setHtml("<html><body>You are free for now, respect server rules!</body></html>");
+			                htmlMsg.setHtml("<html><body>Voce esta livre agora, Por favor, respeite as regras do Servidor!</body></html>");
 			            sendPacket(htmlMsg);
 			            stopPunishTask(true);
 			            teleToLocation(17836, 170178, -3507, true);  // Floran
@@ -19686,10 +19686,10 @@ public boolean dismount()
 	    			// start the countdown
 	    			int minutes = (int) (delayInMilliseconds/60000);
 	    			_punishTask = ThreadPoolManager.getInstance().scheduleGeneral(new PunishTask(this), _punishTimer);
-	                sendMessage("You are chat banned for "+minutes+" minutes.");
+	                sendMessage("Seu Chat ficara banido por "+minutes+" minutos.");
 	    		}
 	    		else
-	    			sendMessage("You have been chat banned");
+	    			sendMessage("Voce recebeu uma Punicao de Chat");
 	    		break;
 	    		
 	    	}
@@ -19706,7 +19706,7 @@ public boolean dismount()
 	
 	                // start the countdown
 	                _punishTask = ThreadPoolManager.getInstance().scheduleGeneral(new PunishTask(this), _punishTimer);
-	                sendMessage("You are in jail for "+delayInMilliseconds/60000+" minutes.");
+	                sendMessage("Voce ficara na Jaula por "+delayInMilliseconds/60000+" minutos.");
 	            }
 	            
 	            if(_inEventCTF){
@@ -19727,7 +19727,7 @@ public boolean dismount()
 	            if (jailInfos != null)
 	                htmlMsg.setHtml(jailInfos);
 	            else
-	                htmlMsg.setHtml("<html><body>You have been put in jail by an admin.</body></html>");
+	                htmlMsg.setHtml("<html><body>Voce foi enviado para a Jaula por um admin.</body></html>");
 	            sendPacket(htmlMsg);
 	            setInstanceId(0);
 	            setIsIn7sDungeon(false);

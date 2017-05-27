@@ -100,7 +100,7 @@ public final class RequestEnchantItem extends L2GameClientPacket
 		if(activeChar.getActiveTradeList() != null)
 		{
 			activeChar.cancelActiveTrade();
-			activeChar.sendMessage("Your trade canceled");
+			activeChar.sendMessage("Trade Cancelado");
 			return;
 		}
 
@@ -116,7 +116,7 @@ public final class RequestEnchantItem extends L2GameClientPacket
 			 {
 			 if (wh instanceof L2WarehouseInstance)
 			 {
-			 activeChar.sendMessage("SonicTi Anti-Hack: Voce nao pode Enchantar perto da Werehouse!");
+			 activeChar.sendMessage("SonicTi Anti-Hack System: Voce nao pode Enchantar perto da Werehouse!");
 			 return;
 			 }
 			 }
@@ -269,7 +269,7 @@ public final class RequestEnchantItem extends L2GameClientPacket
 		if(!FloodProtector.getInstance().tryPerformAction(activeChar.getObjectId(), FloodProtector.PROTECTED_ENCHANT))
 		{
 			activeChar.setActiveEnchantItem(null);
-			activeChar.sendMessage("Enchant failed");
+			activeChar.sendMessage("Falha no Encantamento");
 			return;
 		}*/
 

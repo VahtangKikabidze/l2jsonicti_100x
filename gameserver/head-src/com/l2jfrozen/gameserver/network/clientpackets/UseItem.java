@@ -82,7 +82,7 @@ public final class UseItem extends L2GameClientPacket
 		}
 		if (activeChar.isStunned() || activeChar.isConfused() || activeChar.isAway() || activeChar.isParalyzed() || activeChar.isSleeping())
 		{
-			activeChar.sendMessage("You Cannot Use Items Right Now.");
+			activeChar.sendMessage("Você não pode usar itens agora.");
 			return;
 		}
 		
@@ -162,35 +162,35 @@ public final class UseItem extends L2GameClientPacket
 		// A shield that can only be used by the members of a clan that owns a castle.
 		if ((cl == null || cl.getHasCastle() == 0) && itemId == 7015 && Config.CASTLE_SHIELD)
 		{
-			activeChar.sendMessage("You can't equip that");
+			activeChar.sendMessage("Voce nao pode Equipar isso");
 			return;
 		}
 		
 		// A shield that can only be used by the members of a clan that owns a clan hall.
 		if ((cl == null || cl.getHasHideout() == 0) && itemId == 6902 && Config.CLANHALL_SHIELD)
 		{
-			activeChar.sendMessage("You can't equip that");
+			activeChar.sendMessage("Voce nao pode Equipar isso");
 			return;
 		}
 		
 		// Apella armor used by clan members may be worn by a Baron or a higher level Aristocrat.
 		if (itemId >= 7860 && itemId <= 7879 && Config.APELLA_ARMORS && (cl == null || activeChar.getPledgeClass() < 5))
 		{
-			activeChar.sendMessage("You can't equip that");
+			activeChar.sendMessage("Voce nao pode Equipar isso");
 			return;
 		}
 		
 		// Clan Oath armor used by all clan members
 		if (itemId >= 7850 && itemId <= 7859 && Config.OATH_ARMORS && cl == null)
 		{
-			activeChar.sendMessage("You can't equip that");
+			activeChar.sendMessage("Voce nao pode Equipar isso");
 			return;
 		}
 		
 		// The Lord's Crown used by castle lords only
 		if (itemId == 6841 && Config.CASTLE_CROWN && (cl == null || cl.getHasCastle() == 0 || !activeChar.isClanLeader()))
 		{
-			activeChar.sendMessage("You can't equip that");
+			activeChar.sendMessage("Voce nao pode Equipar isso");
 			return;
 		}
 		
@@ -203,14 +203,14 @@ public final class UseItem extends L2GameClientPacket
 		{
 			if (cl == null)
 			{
-				activeChar.sendMessage("You can't equip that");
+				activeChar.sendMessage("Voce nao pode Equipar isso");
 				return;
 			}
 			
 			int circletId = CastleManager.getInstance().getCircletByCastleId(cl.getHasCastle());
 			if (activeChar.getPledgeType() == -1 || circletId != itemId)
 			{
-				activeChar.sendMessage("You can't equip that");
+				activeChar.sendMessage("Voce nao pode Equipar isso");
 				return;
 			}
 		}
@@ -306,7 +306,7 @@ public final class UseItem extends L2GameClientPacket
 						if ((item.getEnchantLevel() > Config.NORMAL_WEAPON_ENCHANT_LEVEL.size() || item.getEnchantLevel() > Config.BLESS_WEAPON_ENCHANT_LEVEL.size() || item.getEnchantLevel() > Config.CRYSTAL_WEAPON_ENCHANT_LEVEL.size()) && !activeChar.isGM())
 						{
 							// activeChar.setAccountAccesslevel(-1); //ban
-							activeChar.sendMessage("You have been banned for using an item wich is over enchanted!"); // message
+							activeChar.sendMessage("Voce foi Banido por usar um Item com Encantamento proibido!"); // message
 							Util.handleIllegalPlayerAction(activeChar, "Player " + activeChar.getName() + " has item Overenchanted! ", Config.DEFAULT_PUNISH);
 							// activeChar.closeNetConnection(); //kick
 							return;
@@ -324,7 +324,7 @@ public final class UseItem extends L2GameClientPacket
 						if ((item.getEnchantLevel() > Config.NORMAL_ARMOR_ENCHANT_LEVEL.size() || item.getEnchantLevel() > Config.BLESS_ARMOR_ENCHANT_LEVEL.size() || item.getEnchantLevel() > Config.CRYSTAL_ARMOR_ENCHANT_LEVEL.size()) && !activeChar.isGM())
 						{
 							// activeChar.setAccountAccesslevel(-1); //ban
-							activeChar.sendMessage("You have been banned for using an item wich is over enchanted!"); // message
+							activeChar.sendMessage("Voce foi Banido por usar um Item com Encantamento proibido!"); // message
 							Util.handleIllegalPlayerAction(activeChar, "Player " + activeChar.getName() + " has item Overenchanted! ", Config.DEFAULT_PUNISH);
 							// activeChar.closeNetConnection(); //kick
 							return;
@@ -340,7 +340,7 @@ public final class UseItem extends L2GameClientPacket
 						if ((item.getEnchantLevel() > Config.NORMAL_JEWELRY_ENCHANT_LEVEL.size() || item.getEnchantLevel() > Config.BLESS_JEWELRY_ENCHANT_LEVEL.size() || item.getEnchantLevel() > Config.CRYSTAL_JEWELRY_ENCHANT_LEVEL.size()) && !activeChar.isGM())
 						{
 							// activeChar.setAccountAccesslevel(-1); //ban
-							activeChar.sendMessage("You have been banned for using an item wich is over enchanted!"); // message
+							activeChar.sendMessage("Voce foi Banido por usar um Item com Encantamento proibido!"); // message
 							Util.handleIllegalPlayerAction(activeChar, "Player " + activeChar.getName() + " has item Overenchanted! ", Config.DEFAULT_PUNISH);
 							// activeChar.closeNetConnection(); //kick
 							return;
@@ -477,7 +477,7 @@ public final class UseItem extends L2GameClientPacket
 					
 					if (Config.DISABLE_BOW_CLASSES.contains(activeChar.getClassId().getId()))
 					{
-						activeChar.sendMessage("This item can not be equipped by your class");
+						activeChar.sendMessage("Este item nao pode ser Equipado com sua Classe");
 						activeChar.sendPacket(ActionFailed.STATIC_PACKET);
 						return;
 					}

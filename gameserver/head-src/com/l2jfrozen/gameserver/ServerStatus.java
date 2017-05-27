@@ -28,11 +28,11 @@ public class ServerStatus
 		public void run()
 		{
 			Util.printSection("Server Status");
-			_log.info("Server Time: " + fmt.format(new Date(System.currentTimeMillis())));
+			_log.info("Hora do Servidor: " + fmt.format(new Date(System.currentTimeMillis())));
 			_log.info("Players Online: " + L2World.getInstance().getAllPlayers().size());
 			_log.info("Threads: " + Thread.activeCount());
-			_log.info("Free Memory: " + Memory.getFreeMemory() + " MB");
-			_log.info("Used memory: " + Memory.getUsedMemory() + " MB");
+			_log.info("Memoria Livre: " + Memory.getFreeMemory() + " MB");
+			_log.info("Memoria Usada: " + Memory.getUsedMemory() + " MB");
 			Util.printSection("Server Status");
 		}
 	}

@@ -78,13 +78,13 @@ public final class L2TeleporterInstance extends L2FolkInstance
 
 		if(Olympiad.getInstance().isRegisteredInComp(player))
 		{
-			player.sendMessage("You are not allowed to use a teleport while registered in olympiad game.");
+			player.sendMessage("Voce nao pode teleportar enquanto estiver registrado nas Olimpiadas!");
 			return;
 		}
 		
 		if(player.isAio() && !Config.ALLOW_AIO_USE_GK)
     	{
-    		player.sendMessage("Aio Buffers Can't Use Teleports");
+    		player.sendMessage("Aio Buffers nao podem usar os Teleportes");
     		return;
     	}
 
@@ -260,7 +260,7 @@ public final class L2TeleporterInstance extends L2FolkInstance
 			}
 			else if (player.isAio() && !Config.ALLOW_AIO_USE_GK)
 			{
-				player.sendMessage("Aio Buffers are not allowed to use GateKeepers.");
+				player.sendMessage("Aio Buffers nao podem usar GateKeepers.");
 				return;
 			}
 			else if(!Config.ALT_GAME_KARMA_PLAYER_CAN_USE_GK && player.getKarma() > 0) //karma

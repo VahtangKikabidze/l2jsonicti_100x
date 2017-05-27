@@ -153,7 +153,7 @@ public final class Say2 extends L2GameClientPacket
 		
 		if (!getClient().getFloodProtectors().getSayAction().tryPerformAction("Say2"))
 		{
-			activeChar.sendMessage("You cannot speak too fast.");
+			activeChar.sendMessage("Nao fale muito Rapido.");
 			return;
 		}
 		
@@ -296,25 +296,25 @@ public final class Say2 extends L2GameClientPacket
 				{
 					if(receiver.isAway())
 					{
-						activeChar.sendMessage("Player is Away try again later.");
+						activeChar.sendMessage("Player esta no Modo OFF.");
 					}
 
 					if(Config.JAIL_DISABLE_CHAT && receiver.isInJail())
 					{
-						activeChar.sendMessage("Player is in jail.");
+						activeChar.sendMessage("Player esta na Jaula.");
 						return;
 					}
 
 					if(receiver.isChatBanned() && !activeChar.isGM())
 					{
-						activeChar.sendMessage("Player is chat banned.");
+						activeChar.sendMessage("Player esta com Punicao de Chat.");
 						return;
 					}
 
 					
 					if (receiver.isOffline())
 					{
-						activeChar.sendMessage("Player is in offline mode.");
+						activeChar.sendMessage("Player esta no Modo Offline.");
 						return;
 					}
 					

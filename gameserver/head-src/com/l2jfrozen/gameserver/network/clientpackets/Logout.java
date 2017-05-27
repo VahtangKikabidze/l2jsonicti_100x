@@ -46,14 +46,14 @@ public final class Logout extends L2GameClientPacket
 
 		if (player.isInFunEvent() && !player.isGM())
 		{
-			player.sendMessage("You cannot Logout while in registered in an Event.");
+			player.sendMessage("Voce nao pode Deslogar enquanto estiver registrado em um Evento.");
 			player.sendPacket(ActionFailed.STATIC_PACKET);
 			return;
 		}
 
 		if (player.isAway())
 		{
-			player.sendMessage("You can't restart in Away mode.");
+			player.sendMessage("Voce nao pode Deslogar no Modo OFF.");
 			return;
 		}
 
@@ -72,7 +72,7 @@ public final class Logout extends L2GameClientPacket
 		// Dont allow leaving if player is in combat
 		if (player.isInCombat() && !player.isGM())
 		{
-			player.sendMessage("You cannot Logout while is in Combat mode.");  
+			player.sendMessage("Voce nao pode Deslogar no Modo Combate.");  
 			player.sendPacket(ActionFailed.STATIC_PACKET);
 		 	return; 
 		}
@@ -93,7 +93,7 @@ public final class Logout extends L2GameClientPacket
 
 		if(player.isInOlympiadMode() || Olympiad.getInstance().isRegistered(player))
 		{
-			player.sendMessage("You can't Logout in Olympiad mode.");
+			player.sendMessage("Voce nao pode Deslogar no Modo Olimpiada.");
 			return;
 		}
 

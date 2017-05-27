@@ -52,7 +52,7 @@
  public void StartCalculationOfNextEventTime()
  {
  _log.info("#####################################");
- _log.info("#[Evento BossTreasure]: Ativado...#");
+ _log.info("#[Evento Lost Boss]: Ativado...#");
  _log.info("#####################################");
  try
  {

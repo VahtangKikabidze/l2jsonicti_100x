@@ -192,14 +192,14 @@ public class L2AioSellerInstance extends L2FolkInstance
 		player.sendSkillList();
 		player.broadcastUserInfo();
 
-		player.sendMessage("You are now an Aio, Congratulations!");
+		player.sendMessage("Agora voce e um Aio, Parabens!");
 	}
 
 	public void removeAio(L2PcInstance player)
 	{
 		if(!player.isAio())
 		{
-			player.sendMessage("You are not an AIO.");
+			player.sendMessage("Voce nao e um AIO.");
 			return;
 		}
 
@@ -222,6 +222,6 @@ public class L2AioSellerInstance extends L2FolkInstance
 		player.sendSkillList();
 		player.broadcastUserInfo();
 
-		player.sendMessage("Now You are not an Aio..");
+		player.sendMessage("Voce deixou de ser AIO..");
 	}
 }
