@@ -1,14 +1,6 @@
 @echo off
 title L2 SonicTi: Game Server Console
 :start
-echo ======================================================================-[ Team ]
-echo.
-echo Iniciando o Lineage 2 SonicTi Core Login Server.
-echo Website : http://l2sonicti.net
-echo Forum : http://sonictiforum.hol.es/forum/
-echo Bem Vindo ao Core Server SonicTi.
-echo.
-
 
 REM -------------------------------------
 REM Default parameters for a basic server.
