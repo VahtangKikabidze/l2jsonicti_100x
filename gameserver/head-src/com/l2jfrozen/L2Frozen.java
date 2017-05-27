@@ -33,10 +33,6 @@ public class L2Frozen
 		_log.info("                                                                                ");
 		_log.info("[Database]=============================================================[SonicTi]");
 		_log.info("                                                                                ");
-		_log.info("                                                                                ");
-		_log.info("                                                                                ");
-		_log.info("                                                                                ");
-		_log.info("                                                                                ");
 		_log.info("            #     #####          ##### ##### ##    # # ##### ##### #            ");
 		_log.info("            #         #          #     #   # # #   # # #       #   #            ");
 		_log.info("            #      ###    ####   ##### #   # #  #  # # #       #   #            ");
@@ -50,9 +46,6 @@ public class L2Frozen
 		_log.info("                          Website : http://l2sonicti.net                        ");
 		_log.info("                     Forum : http://sonictiforum.hol.es/forum/                  ");
 		_log.info("                         Bem Vindo ao Core Server SonicTi.                      ");
-		_log.info("                                                                                ");
-		_log.info("                                                                                ");
-		_log.info("                                                                                ");
 		_log.info("                                                                                ");
 		_log.info("===================================[Creditos]===================================");
 		_log.info("=======================================================================[SonicTi]");
