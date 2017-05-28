@@ -1,5 +1,5 @@
 @echo off
-title L2 SonicTi: Game Server Console
+title SonicTi: Game Server Console
 :start
 
 REM -------------------------------------
@@ -21,40 +21,40 @@ goto end
 :tellrestart
 echo.
 echo Telnet server Restart ...
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo.
 goto start
 :taskrestart
 echo.
 echo Auto Task Restart ...
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo.
 goto start
 :restart
 echo.
 echo Admin Restart ...
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo.
 goto start
 :taskdown
 echo .
 echo Server terminated (Auto task)
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo .
 :telldown
 echo .
 echo Server terminated (Telnet)
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo .
 :error
 echo.
 echo Server terminated abnormally
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo.
 :end
 echo.
 echo server terminated
-echo Send you bug to : http://www.l2jfrozen.com
+echo Por favor, entre em contato com a SonicTi Developer Team
 echo.
 :question
 set choix=q

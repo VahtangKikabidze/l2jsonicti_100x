@@ -1,13 +1,6 @@
 @echo off
-title L2 SonicTi: Login Server Console
+title SonicTi: Login Server Console
 :start
-echo ======================================================================-[ Team ]
-echo.
-echo Iniciando o Lineage 2 SonicTi Core Login Server.
-echo Website : http://l2sonicti.wix.com/sonicti
-echo Forum : http://sonictiforum.hol.es/forum/
-echo Bem Vindo ao Core Server SonicTi.
-echo.
 
 java -Dfile.encoding=UTF8 -Xmx128m -XX:+UseSerialGC -XX:+AggressiveOpts -cp ./lib/*;l2jfrozen-core.jar com.l2jfrozen.loginserver.L2LoginServer
 

@@ -1,5 +1,5 @@
 @echo off
-title L2 SonicTi: Login Server Console
+title SonicTi: Login Server Console
 :start
 
 java -Dfile.encoding=UTF8 -Xmx128m -XX:+UseSerialGC -XX:+AggressiveOpts -cp ./lib/*;l2jfrozen-core.jar com.l2jfrozen.loginserver.L2LoginServer

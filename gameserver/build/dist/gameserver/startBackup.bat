@@ -1,8 +1,8 @@
 @echo off
-title Frozen Backup Database
+title SonicTi Backup Database
 
 REM ###############################################
-REM ## Configurate Database Connections please!!!!
+REM ##   Configure as Conexoes com o Data Base   ##
 REM ###############################################
 REM Please, type here you dir to mysql directory \bin. Example: C:\Program Files\MySQL\Mysql 5.0\bin
 set mysqlPath=C:\Program Files\MySql\MySQL 5.1\bin

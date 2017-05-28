@@ -112,13 +112,13 @@ public class L2LoginServer
 		}
 
 		// Team info
-		Util.printSection("Team");
+		Util.printSection("SonicTi");
 		L2Frozen.info();
 
 		// Load LoginServer Configs
 		Config.load();
 
-		Util.printSection("Database");
+		Util.printSection("SonicTi Database");
 		// Prepare Database
 		try
 		{
@@ -126,7 +126,7 @@ public class L2LoginServer
 		}
 		catch(SQLException e)
 		{
-			_log.severe("FATAL: Failed initializing database. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed initializing database. Reason: " + e.getMessage());
 
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
@@ -141,7 +141,7 @@ public class L2LoginServer
 		}
 		catch(GeneralSecurityException e)
 		{
-			_log.severe("FATAL: Failed initializing LoginController. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed initializing LoginController. Reason: " + e.getMessage());
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
 			
@@ -155,7 +155,7 @@ public class L2LoginServer
 		}
 		catch(GeneralSecurityException e)
 		{
-			_log.severe("FATAL: Failed to load GameServerTable. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed to load GameServerTable. Reason: " + e.getMessage());
 
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
@@ -165,7 +165,7 @@ public class L2LoginServer
 		}
 		catch(Exception e)
 		{
-			_log.severe("FATAL: Failed to load GameServerTable. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed to load GameServerTable. Reason: " + e.getMessage());
 
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
@@ -182,7 +182,7 @@ public class L2LoginServer
 			}
 			catch(UnknownHostException e1)
 			{
-				_log.severe("WARNING: The LoginServer bind address is invalid, using all avaliable IPs. Reason: " + e1.getMessage());
+				_log.severe("SonicTi WARNING: The LoginServer bind address is invalid, using all avaliable IPs. Reason: " + e1.getMessage());
 
 				if(Config.ENABLE_ALL_EXCEPTIONS)
 					e1.printStackTrace();
@@ -217,7 +217,7 @@ public class L2LoginServer
 		}
 		catch(IOException e)
 		{
-			_log.severe("FATAL: Failed to open Selector. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed to open Selector. Reason: " + e.getMessage());
 
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
@@ -230,11 +230,11 @@ public class L2LoginServer
 		{
 			_gameServerListener = new GameServerListener();
 			_gameServerListener.start();
-			_log.info("Listening for GameServers on " + Config.GAME_SERVER_LOGIN_HOST + ":" + Config.GAME_SERVER_LOGIN_PORT);
+			_log.info("SonicTi Listening for GameServers on " + Config.GAME_SERVER_LOGIN_HOST + ":" + Config.GAME_SERVER_LOGIN_PORT);
 		}
 		catch(IOException e)
 		{
-			_log.severe("FATAL: Failed to start the Game Server Listener. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed to start the Game Server Listener. Reason: " + e.getMessage());
 
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
@@ -247,12 +247,12 @@ public class L2LoginServer
 		{
 			_selectorThread.openServerSocket(bindAddress, Config.PORT_LOGIN);
 			_selectorThread.start();
-			_log.info("Login Server ready on " + (bindAddress == null ? "*" : bindAddress.getHostAddress()) + ":" + Config.PORT_LOGIN);
+			_log.info("SonicTi Login Server ready on " + (bindAddress == null ? "*" : bindAddress.getHostAddress()) + ":" + Config.PORT_LOGIN);
 
 		}
 		catch(IOException e)
 		{
-			_log.severe("FATAL: Failed to open server socket. Reason: " + e.getMessage());
+			_log.severe("SonicTi FATAL: Failed to open server socket. Reason: " + e.getMessage());
 			if(Config.ENABLE_ALL_EXCEPTIONS)
 				e.printStackTrace();
 			

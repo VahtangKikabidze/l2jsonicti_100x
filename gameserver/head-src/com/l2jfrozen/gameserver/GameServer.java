@@ -194,7 +194,7 @@ public class GameServer
 
 		long serverLoadStart = System.currentTimeMillis();
 
-		Util.printSection("Team");
+		Util.printSection("SonicTi");
 		
 		// Print L2jfrozen's Logo
 		L2Frozen.info();
@@ -202,12 +202,12 @@ public class GameServer
 		// Load GameServer Configs
 		Config.load();
 
-		Util.printSection("Database");
+		Util.printSection("SonicTi Database");
 		L2DatabaseFactory.getInstance();
 		_log.info("L2DatabaseFactory: loaded.");
 
 
-		Util.printSection("Threads");
+		Util.printSection("SonicTi Threads");
 		ThreadPoolManager.getInstance();
 		if(Config.DEADLOCKCHECK_INTIAL_TIME > 0)
 		{
@@ -226,7 +226,7 @@ public class GameServer
 		if(nProtect.isEnabled())
 			_log.info("nProtect System Enabled");
 		
-		Util.printSection("World");
+		Util.printSection("SonicTi World");
 		L2World.getInstance();
 		MapRegionTable.getInstance();
 		Announcements.getInstance();
@@ -252,7 +252,7 @@ public class GameServer
 			AutoSaveManager.getInstance().startAutoSaveManager();
 		}
 		
-		Util.printSection("Skills");
+		Util.printSection("SonicTi Skills");
 		if(!SkillTable.getInstance().isInitialized())
 		{
 			_log.info("Could not find the extraced files. Please Check Your Data.");
@@ -265,7 +265,7 @@ public class GameServer
 		_log.info("Skills: All skills loaded.");
 		
 		
-		Util.printSection("Items");
+		Util.printSection("SonicTi Items");
 		if(!ItemTable.getInstance().isInitialized())
 		{
 			_log.info("Could not find the extraced files. Please Check Your Data.");
@@ -281,7 +281,7 @@ public class GameServer
 		if(Config.ALLOWFISHING)
 			FishTable.getInstance();
 		
-		Util.printSection("Npc");
+		Util.printSection("SonicTi Npc");
 		NpcWalkerRoutesTable.getInstance().load();
 		if(!NpcTable.getInstance().isInitialized())
 		{
@@ -289,7 +289,7 @@ public class GameServer
 			throw new Exception("Could not initialize the npc table");
 		}
 
-		Util.printSection("Characters");
+		Util.printSection("SonicTi Characters");
 		if(Config.COMMUNITY_TYPE.equals("full"))
 		{
 			ForumsBBSManager.getInstance().initRoot();
@@ -313,29 +313,29 @@ public class GameServer
 			throw new Exception("Could not initialize the Helper Buff Table");
 		}
 
-		Util.printSection("Geodata");
+		Util.printSection("SonicTi Geodata");
 		GeoData.getInstance();
 		if(Config.GEODATA == 2)
 		{
 			PathFinding.getInstance();
 		}
 
-		Util.printSection("Economy");
+		Util.printSection("SonicTi Economy");
 		TradeController.getInstance();
 		L2Multisell.getInstance();  
 		_log.info("Multisell: loaded.");
 		
-		Util.printSection("Clan Halls");
+		Util.printSection("SonicTi Clan Halls");
 		ClanHallManager.getInstance();
 		FortressOfResistance.getInstance();
 		DevastatedCastle.getInstance();
 		BanditStrongholdSiege.getInstance();
 		AuctionManager.getInstance();
 
-		Util.printSection("Zone");
+		Util.printSection("SonicTi Zone");
 		ZoneData.getInstance();
 
-		Util.printSection("Spawnlist");
+		Util.printSection("SonicTi Spawnlist");
 		if(!Config.ALT_DEV_NO_SPAWNS)
 		{
 			SpawnTable.getInstance();
@@ -356,10 +356,10 @@ public class GameServer
 		}
 		DayNightSpawnManager.getInstance().notifyChangeMode();
 
-		Util.printSection("Dimensional Rift");
+		Util.printSection("SonicTi Dimensional Rift");
 		DimensionalRiftManager.getInstance();
 
-		Util.printSection("Misc");
+		Util.printSection("SonicTi Misc");
 		RecipeTable.getInstance();
 		RecipeController.getInstance();
 		EventDroplist.getInstance();
@@ -384,42 +384,42 @@ public class GameServer
 			ItemsAutoDestroy.getInstance();
 		}
 
-		Util.printSection("Manor");
+		Util.printSection("SonicTi Manor");
 		L2Manor.getInstance();
 		CastleManorManager.getInstance();
 
-		Util.printSection("Castles");
+		Util.printSection("SonicTi Castles");
 		CastleManager.getInstance();
 		SiegeManager.getInstance();
 		FortManager.getInstance();
 		FortSiegeManager.getInstance();
 		CrownManager.getInstance();
 
-		Util.printSection("Boat");
+		Util.printSection("SonicTi Boat");
 		BoatManager.getInstance();
 
-		Util.printSection("Doors");
+		Util.printSection("SonicTi Doors");
 		DoorTable.getInstance().parseData();
 
-		Util.printSection("Four Sepulchers");
+		Util.printSection("SonicTi Four Sepulchers");
 		FourSepulchersManager.getInstance();
 
-		Util.printSection("Seven Signs");
+		Util.printSection("SonicTi Seven Signs");
 		SevenSigns.getInstance();
 		SevenSignsFestival.getInstance();
 		AutoSpawn.getInstance();
 		AutoChatHandler.getInstance();
 
-		Util.printSection("Olympiad System");
+		Util.printSection("SonicTi Olympiad System");
 		Olympiad.getInstance();
 		Hero.getInstance();
 
-		Util.printSection("Access Levels");
+		Util.printSection("SonicTi Access Levels");
 		AccessLevels.getInstance();
 		AdminCommandAccessRights.getInstance();
 		GmListTable.getInstance();
 
-		Util.printSection("Handlers");
+		Util.printSection("SonicTi Handlers");
 		ItemHandler.getInstance();
 		SkillHandler.getInstance();
 		AdminCommandHandler.getInstance();
@@ -463,7 +463,7 @@ public class GameServer
 				e.printStackTrace();
 		}
 
-		Util.printSection("Quests");
+		Util.printSection("SonicTi Quests");
 		if(!Config.ALT_DEV_NO_QUESTS)
 		{
 			QuestManager.getInstance();
@@ -472,7 +472,7 @@ public class GameServer
 		else
 			_log.info("Quest: disable load.");
 
-		Util.printSection("AI");
+		Util.printSection("SonicTi AI");
 		if(!Config.ALT_DEV_NO_AI)
 		{
 			AILoader.init();
@@ -482,7 +482,7 @@ public class GameServer
 			_log.info("AI: disable load.");
 		}
 		
-		Util.printSection("Scripts");
+		Util.printSection("SonicTi Scripts");
 		if(!Config.ALT_DEV_NO_SCRIPT)
 		{
 			File scripts = new File(Config.DATAPACK_ROOT, "data/scripts.cfg");
@@ -509,7 +509,7 @@ public class GameServer
 			_log.info("Script: disable load.");
 		}
 
-		Util.printSection("Game Server");
+		Util.printSection("SonicTi Game Server");
 		
 		if(Config.IRC_ENABLED) 
 		 	IrcManager.getInstance().getConnection().sendChan(Config.IRC_MSG_START);
@@ -527,7 +527,7 @@ public class GameServer
 			_log.info("DynamicExtension could not be loaded and initialized" + ex);
 		}
 
-		Util.printSection("Custom Mods");
+		Util.printSection("SonicTi Custom Mods");
 		
 		if(Config.L2JMOD_ALLOW_WEDDING || Config.ALLOW_AWAY_STATUS || Config.PCB_ENABLE || Config.POWERPAK_ENABLED)
 		{
@@ -544,11 +544,11 @@ public class GameServer
 			PowerPak.getInstance();
 		}
 		else
-			_log.info("All custom mods are Disabled.");
+			_log.info("Todos os Custom Mods estao desabilitados.");
 		
 		Hitman.start();
 		
-		Util.printSection("EventManager");
+		Util.printSection("SonicTi EventManager");
 		EventManager.getInstance().startEventRegistration();
 		
 		if(EventManager.TVT_EVENT_ENABLED || EventManager.CTF_EVENT_ENABLED || EventManager.DM_EVENT_ENABLED)
@@ -562,21 +562,21 @@ public class GameServer
 		}
 		
 		else
-			_log.info("All events are Disabled.");
+			_log.info("Todos os Eventos estao desabilitados.");
 		
 		if ((Config.OFFLINE_TRADE_ENABLE || Config.OFFLINE_CRAFT_ENABLE) && Config.RESTORE_OFFLINERS)
 			OfflineTradeTable.restoreOfflineTraders(); 
 		
-				Util.printSection("Restart Manager");
+				Util.printSection("SonicTi Restart Manager");
 		        if(Config.RESTART_BY_TIME_OF_DAY)
 		                Restart.getInstance().StartCalculationOfNextRestartTime();
 		        else
-		                _log.info("# Auto Restart System is Disabled #");
+		                _log.info("# Auto Restart System desabilitado #");
 		       
 		        System.gc();
 				
 		
-		 Util.printSection("Event Manager");
+		 Util.printSection("SonicTi Event Manager");
 		 if(Config.EVENT_BY_TIME_OF_DAY)
 		 InitialBossEvent.getInstance().StartCalculationOfNextEventTime();
 		 else
@@ -587,20 +587,20 @@ public class GameServer
 		  // Siege Reward Manager - Seth
 		  SiegeRewardManager.getInstance();
 		
-		Util.printSection("Info");
+		Util.printSection("SonicTi Info");
 		_log.info("Operating System: " + Util.getOSName() + " " + Util.getOSVersion() + " " + Util.getOSArch());
 		_log.info("Available CPUs: " + Util.getAvailableProcessors());
 		_log.info("Maximum Numbers of Connected Players: " + Config.MAXIMUM_ONLINE_USERS);
 		_log.info("GameServer Started, free memory " + Memory.getFreeMemory() + " Mb of " + Memory.getTotalMemory() + " Mb");
 		_log.info("Used memory: " + Memory.getUsedMemory() + " MB");
 
-		Util.printSection("Status");
+		Util.printSection("SonicTi Status");
 		System.gc();
-		_log.info("Server Loaded in " + (System.currentTimeMillis() - serverLoadStart) / 1000 + " seconds");
+		_log.info("Servidor carregado em " + (System.currentTimeMillis() - serverLoadStart) / 1000 + " segundos");
 		ServerStatus.getInstance();
 
 		// Load telnet status
-		Util.printSection("Telnet");
+		Util.printSection("SonicTi Telnet");
 		if (Config.IS_TELNET_ENABLED)
 		{
 			_statusServer = new Status(ServerType.serverMode);
@@ -608,10 +608,10 @@ public class GameServer
 		}
 		else
 		{
-			_log.info("Telnet server is disabled.");
+			_log.info("Telnet server desabilitado.");
 		}
 		
-		Util.printSection("Login");
+		Util.printSection("SonicTi Login");
 		_loginThread = LoginServerThread.getInstance();
 		_loginThread.start();
 		
