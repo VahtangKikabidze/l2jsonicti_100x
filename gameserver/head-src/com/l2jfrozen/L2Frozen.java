@@ -40,7 +40,7 @@ public class L2Frozen
 		_log.info("            ##### #####          ##### ##### #    ## # #####   #   #            ");
 		_log.info("                                                          Interlude Server      ");
 		_log.info("                                                                 By: AllInOne   ");
-		_log.info("                     ©L2SonicTi Todos os Direitos Reservados                    ");
+		_log.info("                     ®L2SonicTi Todos os Direitos Reservados                    ");
 		_log.info("                                                                                ");
 		_log.info("                  Iniciando o Lineage 2 SonicTi Core Login Server.              ");
 		_log.info("                          Website : http://l2sonicti.net                        ");
