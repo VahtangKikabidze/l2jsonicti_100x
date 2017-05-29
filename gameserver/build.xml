@@ -288,14 +288,14 @@
 		<concat destfile="${properties-file}">
 		      revision=${l2jfrozen.revision}
 		      builddate=${build.tstamp}
-	      	  repository=https://xp-dev.com/svn/l2sonicti
+	      	  repository=https://subversion.assembla.com/svn/l2jsonicti/
 		  </concat>
 
 		<echo>L2jFrozen Gameserver Revision: ${l2jfrozen.revision}</echo>
 	</target>
 
 	<target name="dist-local" depends="prepare-local,prepare-final,export" description="Create distribution files and Zip one into 'build' folder">
-		<zip destfile="${build}/L2JFrozen_GameServer.zip" basedir="${build.dist}" update="true" />
+		<zip destfile="${build}/L2jSonicTi_GameServer.zip" basedir="${build.dist}" update="true" />
 	</target>
 
 	<target name="dist-test" depends="prepare-test,prepare-final,export" description="Create distribution files into 'local_test_folder' folder: change it into build.properties">
