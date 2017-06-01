@@ -291,7 +291,7 @@
 	      	  repository=https://subversion.assembla.com/svn/l2jsonicti/
 		  </concat>
 
-		<echo>L2jFrozen Gameserver Revision: ${l2jfrozen.revision}</echo>
+		<echo>L2jSonicTi Gameserver Revision: ${l2jfrozen.revision}</echo>
 	</target>
 
 	<target name="dist-local" depends="prepare-local,prepare-final,export" description="Create distribution files and Zip one into 'build' folder">
