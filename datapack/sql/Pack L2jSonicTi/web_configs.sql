@@ -1,1 +1,0 @@
-INSERT INTO `web_configs` VALUES ('1204', 'true', TO_DATE('20150930184109', 'YYYYMMDDHH24MISS'), '30 minutos');

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<list>
-<item id='20068' name="Angel">
-	<for>
-   	<add val='300' order='0x40' stat='pDef' />
-   	<add val='300' order='0x40' stat='mDef' />
-	</for>
-</item>
-</list>

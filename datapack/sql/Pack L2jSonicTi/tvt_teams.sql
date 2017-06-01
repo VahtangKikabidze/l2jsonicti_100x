@@ -1,3 +1,0 @@
-INSERT INTO `tvt_teams` VALUES (0, 'Blue', 148395, 46719, -3420, 16711680);
-INSERT INTO `tvt_teams` VALUES (1, 'Red', 150544, 46730, -3420, 255);
-INSERT INTO `tvt_teams` VALUES (2, 'Green', 149496, 47826, -3413, 26367);

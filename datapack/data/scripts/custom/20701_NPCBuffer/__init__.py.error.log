@@ -1,6 +1,0 @@
-Error on: D:\Dante Documentos\Projeto Lineage II SonicTi\L2 SonicTi\###### Servidor SonicTi ######\Servidor L2 SonicTi\gameserver\data\scripts\custom\20701_NPCBuffer\__init__.py.error.log
-Line: -1 - Column: -1
-
-Traceback (innermost last):
-  File "__init__.py", line 2, in ?
-ImportError: no module named it

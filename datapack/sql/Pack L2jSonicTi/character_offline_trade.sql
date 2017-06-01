@@ -1,1 +1,0 @@
-INSERT INTO `character_offline_trade` VALUES (268479841, 1452543167509, 1, NULL);
